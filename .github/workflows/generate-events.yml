@@ -46,85 +46,64 @@ jobs:
           echo "============================================"
           echo "         OUTPUT VERIFICATION"
           echo "============================================"
-          echo ""
-          ls -la app-files/events.json
-          echo ""
           python3 << 'PYEOF'
           import json
 
           with open('app-files/events.json', 'r') as f:
               data = json.load(f)
 
-          print(f"Total events: {len(data)}")
-          print()
+          print(f"\nTotal events: {len(data)}\n")
 
-          # Sport breakdown
           sports = {}
           for e in data:
               s = e.get('sportType', 'Unknown')
               sports[s] = sports.get(s, 0) + 1
 
           print("Sport Type Breakdown:")
-          print("-" * 35)
           for s, c in sorted(sports.items(), key=lambda x: -x[1]):
               print(f"  {s:20s} : {c}")
-          print()
 
-          # Time verification
           default_url = "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4"
-          events_no_time = [e for e in data if not e.get('startTime')]
-          events_with_time = [e for e in data if e.get('startTime')]
-          print(f"Events with time    : {len(events_with_time)}")
-          print(f"Events without time : {len(events_no_time)}")
+          no_time = sum(1 for e in data if not e.get('startTime'))
+          real = sum(1 for e in data if any(s['url'] != default_url for s in e.get('streams', [])))
+          print(f"\nEvents with time    : {len(data) - no_time}")
+          print(f"Events without time : {no_time}")
+          print(f"Events with streams : {real}")
 
-          if events_no_time:
-              print("\n⚠ Events missing time:")
-              for e in events_no_time[:5]:
-                  print(f"  - {e.get('matchName', '?')[:50]}")
-          print()
-
-          # Stream stats
-          real = sum(
-              1 for e in data
-              if any(s['url'] != default_url for s in e.get('streams', []))
-          )
-          total_streams = sum(len(e.get('streams', [])) for e in data)
-          print(f"Events with live streams : {real}")
-          print(f"Events default only      : {len(data) - real}")
-          print(f"Total stream links       : {total_streams}")
-          print()
-
-          # Preview with times
-          print("Preview (first 8 events with times):")
-          print("-" * 100)
-          shown = 0
+          # Verify league names
+          print("\nLeague name samples:")
+          seen = set()
           for e in data:
-              if shown >= 8:
-                  break
+              lg = e.get('league', '')
+              if lg and lg not in seen:
+                  seen.add(lg)
+                  if len(seen) <= 15:
+                      sp = e.get('sportType', '?')
+                      print(f"  [{sp:12s}] {lg}")
+
+          # Show sample events
+          print("\nSample events:")
+          print("-" * 110)
+          for e in data[:8]:
               st = e.get('sportType', '?')[:12]
               h = e.get('homeTeamName', '?')[:16]
               a = e.get('awayTeamName', '?')[:16]
               t = e.get('startTime', 'NO TIME')[:22]
+              lg = e.get('league', '?')[:22]
               sc = len(e.get('streams', []))
-              has = "✓" if any(s['url'] != default_url for s in e.get('streams', [])) else "○"
-              print(f"  [{st:12s}] {h:16s} vs {a:16s} | {t:22s} | {sc} streams {has}")
-              shown += 1
-          print("-" * 100)
+              print(f"  [{st:12s}] {h:16s} vs {a:16s} | {lg:22s} | {t:22s} | {sc} streams")
+          print("-" * 110)
 
-          # Cricket specific
+          # Cricket check
           cricket = [e for e in data if e.get('sportType') == 'Cricket']
           if cricket:
-              print(f"\nCricket Events ({len(cricket)}):")
-              print("-" * 100)
+              print(f"\nCricket ({len(cricket)}):")
               for e in cricket:
                   h = e.get('homeTeamName', '?')[:20]
                   a = e.get('awayTeamName', '?')[:20]
-                  t = e.get('startTime', 'NO TIME')[:22]
-                  lg = e.get('league', '?')[:12]
-                  sc = len(e.get('streams', []))
-                  has = "✓" if any(s['url'] != default_url for s in e.get('streams', [])) else "○"
-                  print(f"  {h:20s} vs {a:20s} | {t:22s} | {lg:12s} | {sc} {has}")
-              print("-" * 100)
+                  lg = e.get('league', '?')[:20]
+                  t = e.get('startTime', 'NO TIME')
+                  print(f"  {h:20s} vs {a:20s} | {lg:20s} | {t}")
           PYEOF
 
       - name: Commit and push
