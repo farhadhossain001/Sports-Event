@@ -1,0 +1,155 @@
+name: Generate Sports Events JSON
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'generate_events.py'
+      - '.github/workflows/generate-events.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Create output directory
+        run: mkdir -p app-files
+
+      - name: Run event generator
+        run: python generate_events.py
+
+      - name: Verify output
+        run: |
+          echo "============================================"
+          echo "         OUTPUT VERIFICATION"
+          echo "============================================"
+          echo ""
+          ls -la app-files/events.json
+          echo ""
+          python3 << 'PYEOF'
+          import json
+
+          with open('app-files/events.json', 'r') as f:
+              data = json.load(f)
+
+          print(f"Total events: {len(data)}")
+          print()
+
+          # Sport breakdown
+          sports = {}
+          for e in data:
+              s = e.get('sportType', 'Unknown')
+              sports[s] = sports.get(s, 0) + 1
+
+          print("Sport Type Breakdown:")
+          print("-" * 35)
+          for s, c in sorted(sports.items(), key=lambda x: -x[1]):
+              print(f"  {s:20s} : {c}")
+          print()
+
+          # Time verification
+          default_url = "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4"
+          events_no_time = [e for e in data if not e.get('startTime')]
+          events_with_time = [e for e in data if e.get('startTime')]
+          print(f"Events with time    : {len(events_with_time)}")
+          print(f"Events without time : {len(events_no_time)}")
+
+          if events_no_time:
+              print("\n⚠ Events missing time:")
+              for e in events_no_time[:5]:
+                  print(f"  - {e.get('matchName', '?')[:50]}")
+          print()
+
+          # Stream stats
+          real = sum(
+              1 for e in data
+              if any(s['url'] != default_url for s in e.get('streams', []))
+          )
+          total_streams = sum(len(e.get('streams', [])) for e in data)
+          print(f"Events with live streams : {real}")
+          print(f"Events default only      : {len(data) - real}")
+          print(f"Total stream links       : {total_streams}")
+          print()
+
+          # Preview with times
+          print("Preview (first 8 events with times):")
+          print("-" * 100)
+          shown = 0
+          for e in data:
+              if shown >= 8:
+                  break
+              st = e.get('sportType', '?')[:12]
+              h = e.get('homeTeamName', '?')[:16]
+              a = e.get('awayTeamName', '?')[:16]
+              t = e.get('startTime', 'NO TIME')[:22]
+              sc = len(e.get('streams', []))
+              has = "✓" if any(s['url'] != default_url for s in e.get('streams', [])) else "○"
+              print(f"  [{st:12s}] {h:16s} vs {a:16s} | {t:22s} | {sc} streams {has}")
+              shown += 1
+          print("-" * 100)
+
+          # Cricket specific
+          cricket = [e for e in data if e.get('sportType') == 'Cricket']
+          if cricket:
+              print(f"\nCricket Events ({len(cricket)}):")
+              print("-" * 100)
+              for e in cricket:
+                  h = e.get('homeTeamName', '?')[:20]
+                  a = e.get('awayTeamName', '?')[:20]
+                  t = e.get('startTime', 'NO TIME')[:22]
+                  lg = e.get('league', '?')[:12]
+                  sc = len(e.get('streams', []))
+                  has = "✓" if any(s['url'] != default_url for s in e.get('streams', [])) else "○"
+                  print(f"  {h:20s} vs {a:20s} | {t:22s} | {lg:12s} | {sc} {has}")
+              print("-" * 100)
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add app-files/events.json
+
+          if git diff --staged --quiet; then
+            echo "✓ No changes"
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            EVENT_COUNT=$(python3 -c "import json; print(len(json.load(open('app-files/events.json'))))")
+            SPORT_SUMMARY=$(python3 -c "
+          import json
+          data = json.load(open('app-files/events.json'))
+          sports = {}
+          for e in data:
+              s = e.get('sportType', '?')
+              sports[s] = sports.get(s, 0) + 1
+          parts = [f'{v} {k}' for k, v in sorted(sports.items(), key=lambda x: -x[1])[:4]]
+          print(', '.join(parts))
+          ")
+            git commit -m "🏆 Update events.json — ${EVENT_COUNT} events [${TIMESTAMP}]" \
+                        -m "Breakdown: ${SPORT_SUMMARY}"
+            git push
+            echo "✓ Pushed"
+          fi
