@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1783006816871-0",
+    "id": "imported-1783012783612-0",
     "matchName": "Philadelphia Phillies - Pittsburgh Pirates",
     "sportType": "Baseball",
     "league": "MLB",
@@ -8,7 +8,7 @@
     "homeTeamLogo": "https://embedhd.org/images/team-logos/PhiladelphiaPhillies.png",
     "awayTeamName": "Pittsburgh Pirates",
     "awayTeamLogo": "https://embedhd.org/images/team-logos/PittsburghPirates.png",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "10:35 PM 02/07/2026",
     "link": "",
@@ -20,13 +20,33 @@
       },
       {
         "name": "Server 2",
+        "url": "http://193.47.62.42/hls/TIIIQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://cdn3.zohanayaan.com:1686/hls/mphiladelphiaphillies.m3u8?md5=jerntOeCKwXcan-LrA368Q&expires=1783018827|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://lb1.wfty.st/secure/76INbDAM7g4FbLzTqt4-zw/easy/philadelphia-phillies-pittsburgh-pirates/1/401815994/1783033235/playlist.m3u8|Referer=https://sportsembed.su/embed/401815994/philadelphia-phillies-pittsburgh-pirates/easy/1?player=clappr&autoplay=true&Origin=https://sportsembed.su/embed/401815994/philadelphia-phillies-pittsburgh-pirates/easy/1?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://chatgpt.hereisman.net/playlist/52822/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/52822?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/52822?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 6",
         "url": "https://602.pingbash.com/mlb.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783006816871-1",
+    "id": "imported-1783012783612-1",
     "matchName": "Milwaukee Brewers - Cincinnati Reds",
     "sportType": "Baseball",
     "league": "MLB",
@@ -52,7 +72,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-2",
+    "id": "imported-1783012783612-2",
     "matchName": "Spain - Austria",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -93,7 +113,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-3",
+    "id": "imported-1783012783612-3",
     "matchName": "Colorado Rockies - Miami Marlins",
     "sportType": "Baseball",
     "league": "MLB",
@@ -119,7 +139,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-4",
+    "id": "imported-1783012783612-4",
     "matchName": "Cleveland Guardians - Chicago White Sox",
     "sportType": "Baseball",
     "league": "MLB",
@@ -145,7 +165,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-5",
+    "id": "imported-1783012783612-5",
     "matchName": "Portugal - Croatia",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -186,7 +206,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-6",
+    "id": "imported-1783012783612-6",
     "matchName": "Atlanta Braves - St. Louis Cardinals",
     "sportType": "Baseball",
     "league": "MLB",
@@ -207,7 +227,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-7",
+    "id": "imported-1783012783612-7",
     "matchName": "Kansas City Royals - Tampa Bay Rays",
     "sportType": "Baseball",
     "league": "MLB",
@@ -233,7 +253,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-8",
+    "id": "imported-1783012783612-8",
     "matchName": "Texas Rangers - Detroit Tigers",
     "sportType": "Baseball",
     "league": "MLB",
@@ -264,7 +284,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-9",
+    "id": "imported-1783012783612-9",
     "matchName": "Seattle Mariners - Los Angeles Angels",
     "sportType": "Baseball",
     "league": "MLB",
@@ -290,7 +310,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-10",
+    "id": "imported-1783012783612-10",
     "matchName": "Los Angeles Dodgers - San Diego Padres",
     "sportType": "Baseball",
     "league": "MLB",
@@ -316,7 +336,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-11",
+    "id": "imported-1783012783612-11",
     "matchName": "Switzerland - Algeria",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -357,7 +377,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-12",
+    "id": "imported-1783012783612-12",
     "matchName": "British Grand Prix - Practice 1",
     "sportType": "Formula 1",
     "league": "Formula 1",
@@ -378,7 +398,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-13",
+    "id": "imported-1783012783612-13",
     "matchName": "British Grand Prix - Practice 2",
     "sportType": "Formula 1",
     "league": "Formula 1",
@@ -399,7 +419,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-14",
+    "id": "imported-1783012783612-14",
     "matchName": "Australia - Egypt",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -420,7 +440,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-15",
+    "id": "imported-1783012783612-15",
     "matchName": "Chicago Cubs - St. Louis Cardinals",
     "sportType": "Baseball",
     "league": "MLB",
@@ -441,7 +461,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-16",
+    "id": "imported-1783012783612-16",
     "matchName": "Argentina - Cape Verde",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -462,7 +482,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-17",
+    "id": "imported-1783012783612-17",
     "matchName": "Washington Nationals - Pittsburgh Pirates",
     "sportType": "Baseball",
     "league": "MLB",
@@ -483,7 +503,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-18",
+    "id": "imported-1783012783612-18",
     "matchName": "New York Yankees - Minnesota Twins",
     "sportType": "Baseball",
     "league": "MLB",
@@ -504,7 +524,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-19",
+    "id": "imported-1783012783612-19",
     "matchName": "Cincinnati Reds - Baltimore Orioles",
     "sportType": "Baseball",
     "league": "MLB",
@@ -525,7 +545,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-20",
+    "id": "imported-1783012783612-20",
     "matchName": "Cleveland Guardians - Chicago White Sox",
     "sportType": "Baseball",
     "league": "MLB",
@@ -551,7 +571,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-21",
+    "id": "imported-1783012783612-21",
     "matchName": "Atlanta Braves - New York Mets",
     "sportType": "Baseball",
     "league": "MLB",
@@ -572,7 +592,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-22",
+    "id": "imported-1783012783612-22",
     "matchName": "Colorado Rockies - San Francisco Giants",
     "sportType": "Baseball",
     "league": "MLB",
@@ -593,7 +613,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-23",
+    "id": "imported-1783012783612-23",
     "matchName": "Houston Astros - Tampa Bay Rays",
     "sportType": "Baseball",
     "league": "MLB",
@@ -614,7 +634,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-24",
+    "id": "imported-1783012783612-24",
     "matchName": "Colombia - Ghana",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -650,7 +670,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-25",
+    "id": "imported-1783012783612-25",
     "matchName": "Los Angeles Angels - Boston Red Sox",
     "sportType": "Baseball",
     "league": "MLB",
@@ -671,7 +691,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-26",
+    "id": "imported-1783012783612-26",
     "matchName": "Athletics - Miami Marlins",
     "sportType": "Baseball",
     "league": "MLB",
@@ -692,7 +712,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-27",
+    "id": "imported-1783012783612-27",
     "matchName": "Arizona Diamondbacks - Milwaukee Brewers",
     "sportType": "Baseball",
     "league": "MLB",
@@ -713,7 +733,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-28",
+    "id": "imported-1783012783612-28",
     "matchName": "Los Angeles Dodgers - San Diego Padres",
     "sportType": "Baseball",
     "league": "MLB",
@@ -739,7 +759,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-29",
+    "id": "imported-1783012783612-29",
     "matchName": "Seattle Mariners - Toronto Blue Jays",
     "sportType": "Baseball",
     "league": "MLB",
@@ -760,7 +780,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-30",
+    "id": "imported-1783012783612-30",
     "matchName": "British Grand Prix - Practice 3",
     "sportType": "Formula 1",
     "league": "Formula 1",
@@ -781,7 +801,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-31",
+    "id": "imported-1783012783612-31",
     "matchName": "British Grand Prix - Qualifying",
     "sportType": "Formula 1",
     "league": "Formula 1",
@@ -802,7 +822,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-32",
+    "id": "imported-1783012783612-32",
     "matchName": "Canada - Morocco",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -823,7 +843,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-33",
+    "id": "imported-1783012783612-33",
     "matchName": "Paraguay - France",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -844,7 +864,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-34",
+    "id": "imported-1783012783612-34",
     "matchName": "British Grand Prix - Race",
     "sportType": "Formula 1",
     "league": "Formula 1",
@@ -865,7 +885,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-35",
+    "id": "imported-1783012783612-35",
     "matchName": "Brazil - Norway",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -886,7 +906,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-36",
+    "id": "imported-1783012783612-36",
     "matchName": "Mexico - England",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -907,7 +927,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-37",
+    "id": "imported-1783012783612-37",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -928,7 +948,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-38",
+    "id": "imported-1783012783612-38",
     "matchName": "West Indies vs Sri Lanka",
     "sportType": "Cricket",
     "league": "West Indies vs Sri Lanka",
@@ -954,7 +974,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-39",
+    "id": "imported-1783012783612-39",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -975,7 +995,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-40",
+    "id": "imported-1783012783612-40",
     "matchName": "Women’s T20 World Cup 2026",
     "sportType": "Cricket",
     "league": "ICC Women's T20 World Cup",
@@ -996,7 +1016,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-41",
+    "id": "imported-1783012783612-41",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -1017,7 +1037,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-42",
+    "id": "imported-1783012783612-42",
     "matchName": "2nd T20 India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -1038,7 +1058,7 @@
     ]
   },
   {
-    "id": "imported-1783006816871-43",
+    "id": "imported-1783012783612-43",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
@@ -1052,8 +1072,8 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8|drmScheme=clearkey",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
