@@ -1,32 +1,6 @@
 [
   {
-    "id": "imported-1783089651864-0",
-    "matchName": "British Grand Prix - Practice 1",
-    "sportType": "Formula 1",
-    "league": "Formula 1",
-    "homeTeamName": "British Grand Prix",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/british-grand-prix/logo.webp",
-    "awayTeamName": "Practice 1",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/practice-1/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "05:30 PM 03/07/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "https://wc.ppvtv.top/stream/a1d313ed02061292a6939f1125ddaeaa|Referer=https://futbolx-live.hf.space/embed/hd2&Origin=https://futbolx-live.hf.space/embed/hd2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://cdn6.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=_iv04DlHCEmf3hdOBtdFBw&expires=1783094466|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1783089651864-1",
+    "id": "imported-1783095236669-0",
     "matchName": "British Grand Prix - Practice 2",
     "sportType": "Formula 1",
     "league": "Formula 1",
@@ -34,20 +8,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/british-grand-prix/logo.webp",
     "awayTeamName": "Practice 2",
     "awayTeamLogo": "https://cdn.img4every1.org/team/practice-2/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "09:30 PM 03/07/2026",
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://cdn13.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=hBAciO_px9MPnsaG1rGiNg&expires=1783098039|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-2",
+    "id": "imported-1783095236669-1",
     "matchName": "Australia - Egypt",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -62,17 +36,17 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=31xBUn7XEVxI5W99wbYE6Qx08gOVQJH9wFsqAJqSo9g&e=1783094388|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=4oBHUPbW_-lmbTQmx2l1fhOTgzH3yHUWzZdIzE27G5s&e=1783102825|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=v0Fmhxwu0RGigIC4ZlSzqev2EGW6OqrfdvGWcjFZtZE&e=1783094388|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=l6FMJw5JJ8sizCKWnXoU7nFa7i_IUGQwmIyy0ZER8Xc&e=1783102825|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=XXOKY-P5IxG1hnCjcmRrPJX_32_Tlt7daREyOdLoI54&e=1783094388|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=hulPkrKNG05ITlJVVoYfTyi8DqqCJfSj-1I4GdhC3So&e=1783102825|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": false
       },
       {
@@ -83,7 +57,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-3",
+    "id": "imported-1783095236669-2",
     "matchName": "Chicago Cubs - St. Louis Cardinals",
     "sportType": "Baseball",
     "league": "MLB",
@@ -104,7 +78,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-4",
+    "id": "imported-1783095236669-3",
     "matchName": "Argentina - Cape Verde",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -119,17 +93,17 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=1Q9S6GSG-3M7E2ewLNVwVUQSJFHO9hUgfQV8eRC2zSQ&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=4oBHUPbW_-lmbTQmx2l1fhOTgzH3yHUWzZdIzE27G5s&e=1783102825|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=Lb7Q5rxymXkRVWy_4u-i3W18WMYV5Zf46WWwfvGFPnI&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=l6FMJw5JJ8sizCKWnXoU7nFa7i_IUGQwmIyy0ZER8Xc&e=1783102825|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=XXOKY-P5IxG1hnCjcmRrPJX_32_Tlt7daREyOdLoI54&e=1783094388|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=hulPkrKNG05ITlJVVoYfTyi8DqqCJfSj-1I4GdhC3So&e=1783102825|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": false
       },
       {
@@ -140,7 +114,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-5",
+    "id": "imported-1783095236669-4",
     "matchName": "Washington Nationals - Pittsburgh Pirates",
     "sportType": "Baseball",
     "league": "MLB",
@@ -155,7 +129,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=DqQXKZjdLrDxaKI0tYX9qnQmso4LGnifPIQf9vYR3rg&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=gMXP_G6eL0yiRWaH6RceCTSNYpIK-rok25sjjvmb4js&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -166,7 +140,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-6",
+    "id": "imported-1783095236669-5",
     "matchName": "New York Yankees - Minnesota Twins",
     "sportType": "Baseball",
     "league": "MLB",
@@ -181,7 +155,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=wawpvT8mFf0Tv_nc5U4nwHvp8PclmvczAngwZCbcF9s&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=yFWmsuDsPxrmL0QfTDYVBJeVJIiGI_ELSVLFMok8hVQ&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -192,7 +166,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-7",
+    "id": "imported-1783095236669-6",
     "matchName": "Cincinnati Reds - Baltimore Orioles",
     "sportType": "Baseball",
     "league": "MLB",
@@ -207,13 +181,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=TxhILvLjwXU35tHbOSxuBj5UF8fFOGil15hxnQ9Fs8Y&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=-1zkaw5rmXjCABa1aOQTtsR1aZJGFpHLXdgvdtzjXqs&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-8",
+    "id": "imported-1783095236669-7",
     "matchName": "Cleveland Guardians - Chicago White Sox",
     "sportType": "Baseball",
     "league": "MLB",
@@ -228,13 +202,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=o7GxBx_WRSAML4yM06c3hw5SKVC7E72RlmQ_nikyvfg&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=qJDcNT_G0X1zzxSvlGVz33hcR5eL2eucC4pLQ1Aath0&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-9",
+    "id": "imported-1783095236669-8",
     "matchName": "Atlanta Braves - New York Mets",
     "sportType": "Baseball",
     "league": "MLB",
@@ -249,7 +223,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=YM-cRi72C7FKbE-V_UfE5HFq9sUxzfKaQahJ3Hjslv8&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=R4wro8VwsVjk_Ys0WjSTsDAarlTxzsNkMOuF2CHt4Ss&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -260,7 +234,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-10",
+    "id": "imported-1783095236669-9",
     "matchName": "Colorado Rockies - San Francisco Giants",
     "sportType": "Baseball",
     "league": "MLB",
@@ -275,13 +249,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=PgryGv5QXNayGGVkyslCW8xXA_uOUqqvzeTSQ4_OC3g&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=ItbHmsyKbm-9SUS9Dgtn2NE3Vb5FdUBNdI4kMpCcXyc&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-11",
+    "id": "imported-1783095236669-10",
     "matchName": "Houston Astros - Tampa Bay Rays",
     "sportType": "Baseball",
     "league": "MLB",
@@ -296,13 +270,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=0QvOXMoAuGddsNz8PXhfskhFb5QzR_uvIPOiIlROtl0&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=EWpTgbZtfOIYiGf0wQf981LUPcKYYlCyjZp7P29ZfG4&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-12",
+    "id": "imported-1783095236669-11",
     "matchName": "Colombia - Ghana",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -317,17 +291,17 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=6Kec4NqXtTz8MWmdKFYSU8hcmp75VjCzV7klbNQy4s4&e=1783094386|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=3PalARFo9e7pk_WZmfAO0ImIckUmoQFVdYVvOWiN0eI&e=1783102823|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=E0VVwIgAtKVfR8sypRrvDqw4NlynaltuMFOuJtoxa8A&e=1783094386|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=jYoUTVUE75mj80JoBJTFONUFHkek97ew-nbsDz_y0K0&e=1783102823|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=4XSxg1RFF2fAb-6qe5oEiwdwOh_GfRDRK5bthhWp6qY&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=fVftW7xv_z-tyUyVJ658DyIFlW4h2Fa9en_7n0U1kH0&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": false
       },
       {
@@ -418,7 +392,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-13",
+    "id": "imported-1783095236669-12",
     "matchName": "Los Angeles Angels - Boston Red Sox",
     "sportType": "Baseball",
     "league": "MLB",
@@ -433,13 +407,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=JeF80i_2nmsKYs8ftlxggWiEuZg1FovYzuKcA5Ha0mw&e=1783094386|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=qtBOqE4_acuPOeoBLGQUVI06h2KTlgEQipR5rZV70U0&e=1783102823|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-14",
+    "id": "imported-1783095236669-13",
     "matchName": "Athletics - Miami Marlins",
     "sportType": "Baseball",
     "league": "MLB",
@@ -454,13 +428,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=-JKEQa-lcoAgTsm7HM3SDw1oReEIy9CFLQdRawMqGRI&e=1783094386|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=U7JcvYUAQ45EM-urUhha7hzESxvJHz_5gtuOrVnEsBI&e=1783102823|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-15",
+    "id": "imported-1783095236669-14",
     "matchName": "Arizona Diamondbacks - Milwaukee Brewers",
     "sportType": "Baseball",
     "league": "MLB",
@@ -475,7 +449,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=KosHc7ctCRc4rTW1leIvRAHWXjVjaYOh0g8vOuLyHMI&e=1783094385|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=jmljlzIxHmf4jObD1VBfOTrLZRLoraRacJIGUM_KhSg&e=1783102822|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -486,7 +460,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-16",
+    "id": "imported-1783095236669-15",
     "matchName": "Los Angeles Dodgers - San Diego Padres",
     "sportType": "Baseball",
     "league": "MLB",
@@ -506,7 +480,7 @@
       },
       {
         "name": "Server 2",
-        "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=RhTUdZ-4jHXhgdwKc9aaDLWDmn1d0bKg9LWqn-RGOSQ&e=1783094385|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=TnzgS9Vc464vGb5223ATzt0Y2AAZEdOFKhJuW8iSlDk&e=1783102822|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": false
       },
       {
@@ -517,7 +491,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-17",
+    "id": "imported-1783095236669-16",
     "matchName": "Seattle Mariners - Toronto Blue Jays",
     "sportType": "Baseball",
     "league": "MLB",
@@ -532,7 +506,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=ZGVkdrYdRrTxDAFNUTYuWDP-sA_37iMLlJ9sf00LvDk&e=1783094385|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=jIeylvpysJbJ_33zTuPFUEnh3_nZrPVcVREgG0pmC3A&e=1783102822|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -543,7 +517,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-18",
+    "id": "imported-1783095236669-17",
     "matchName": "British Grand Prix - Practice 3",
     "sportType": "Formula 1",
     "league": "Formula 1",
@@ -564,7 +538,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-19",
+    "id": "imported-1783095236669-18",
     "matchName": "British Grand Prix - Qualifying",
     "sportType": "Formula 1",
     "league": "Formula 1",
@@ -579,13 +553,18 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://wc.ppvtv.top/stream/ac4392c3fb2258f6b5068fb9412cd6dd|Referer=https://futbolx-live.hf.space/embed/hd2&Origin=https://futbolx-live.hf.space/embed/hd2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/139463_english_dash_69557_1drmta-di_h264/index.mpd|drmScheme=clearkey&drmLicense=b5af666ee4b84628964aa31efb35badc:9e1521ab35df1b8f62c26c7e9d8b2723",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://wc.ppvtv.top/stream/ac4392c3fb2258f6b5068fb9412cd6dd|Referer=https://futbolx-live.hf.space/embed/hd2&Origin=https://futbolx-live.hf.space/embed/hd2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783089651864-20",
+    "id": "imported-1783095236669-19",
     "matchName": "Washington Nationals - Pittsburgh Pirates",
     "sportType": "Baseball",
     "league": "MLB",
@@ -600,7 +579,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=DqQXKZjdLrDxaKI0tYX9qnQmso4LGnifPIQf9vYR3rg&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=gMXP_G6eL0yiRWaH6RceCTSNYpIK-rok25sjjvmb4js&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -611,7 +590,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-21",
+    "id": "imported-1783095236669-20",
     "matchName": "Canada - Morocco",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -632,7 +611,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-22",
+    "id": "imported-1783095236669-21",
     "matchName": "New York Yankees - Minnesota Twins",
     "sportType": "Baseball",
     "league": "MLB",
@@ -647,7 +626,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=wawpvT8mFf0Tv_nc5U4nwHvp8PclmvczAngwZCbcF9s&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=yFWmsuDsPxrmL0QfTDYVBJeVJIiGI_ELSVLFMok8hVQ&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -658,7 +637,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-23",
+    "id": "imported-1783095236669-22",
     "matchName": "Texas Rangers - Detroit Tigers",
     "sportType": "Baseball",
     "league": "MLB",
@@ -679,7 +658,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-24",
+    "id": "imported-1783095236669-23",
     "matchName": "Seattle Mariners - Toronto Blue Jays",
     "sportType": "Baseball",
     "league": "MLB",
@@ -694,7 +673,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=ZGVkdrYdRrTxDAFNUTYuWDP-sA_37iMLlJ9sf00LvDk&e=1783094385|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=jIeylvpysJbJ_33zTuPFUEnh3_nZrPVcVREgG0pmC3A&e=1783102822|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -705,7 +684,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-25",
+    "id": "imported-1783095236669-24",
     "matchName": "Paraguay - France",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -726,7 +705,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-26",
+    "id": "imported-1783095236669-25",
     "matchName": "Cincinnati Reds - Baltimore Orioles",
     "sportType": "Baseball",
     "league": "MLB",
@@ -741,13 +720,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=TxhILvLjwXU35tHbOSxuBj5UF8fFOGil15hxnQ9Fs8Y&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=-1zkaw5rmXjCABa1aOQTtsR1aZJGFpHLXdgvdtzjXqs&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-27",
+    "id": "imported-1783095236669-26",
     "matchName": "Cleveland Guardians - Chicago White Sox",
     "sportType": "Baseball",
     "league": "MLB",
@@ -762,13 +741,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=o7GxBx_WRSAML4yM06c3hw5SKVC7E72RlmQ_nikyvfg&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=qJDcNT_G0X1zzxSvlGVz33hcR5eL2eucC4pLQ1Aath0&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-28",
+    "id": "imported-1783095236669-27",
     "matchName": "Houston Astros - Tampa Bay Rays",
     "sportType": "Baseball",
     "league": "MLB",
@@ -783,13 +762,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=0QvOXMoAuGddsNz8PXhfskhFb5QzR_uvIPOiIlROtl0&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=EWpTgbZtfOIYiGf0wQf981LUPcKYYlCyjZp7P29ZfG4&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-29",
+    "id": "imported-1783095236669-28",
     "matchName": "Atlanta Braves - New York Mets",
     "sportType": "Baseball",
     "league": "MLB",
@@ -804,7 +783,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=YM-cRi72C7FKbE-V_UfE5HFq9sUxzfKaQahJ3Hjslv8&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=R4wro8VwsVjk_Ys0WjSTsDAarlTxzsNkMOuF2CHt4Ss&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -815,7 +794,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-30",
+    "id": "imported-1783095236669-29",
     "matchName": "Chicago Cubs - St. Louis Cardinals",
     "sportType": "Baseball",
     "league": "MLB",
@@ -836,7 +815,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-31",
+    "id": "imported-1783095236669-30",
     "matchName": "Kansas City Royals - Philadelphia Phillies",
     "sportType": "Baseball",
     "league": "MLB",
@@ -857,7 +836,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-32",
+    "id": "imported-1783095236669-31",
     "matchName": "Colorado Rockies - San Francisco Giants",
     "sportType": "Baseball",
     "league": "MLB",
@@ -872,13 +851,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=PgryGv5QXNayGGVkyslCW8xXA_uOUqqvzeTSQ4_OC3g&e=1783094387|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=ItbHmsyKbm-9SUS9Dgtn2NE3Vb5FdUBNdI4kMpCcXyc&e=1783102824|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-33",
+    "id": "imported-1783095236669-32",
     "matchName": "Los Angeles Angels - Boston Red Sox",
     "sportType": "Baseball",
     "league": "MLB",
@@ -893,13 +872,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=JeF80i_2nmsKYs8ftlxggWiEuZg1FovYzuKcA5Ha0mw&e=1783094386|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=qtBOqE4_acuPOeoBLGQUVI06h2KTlgEQipR5rZV70U0&e=1783102823|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-34",
+    "id": "imported-1783095236669-33",
     "matchName": "Athletics - Miami Marlins",
     "sportType": "Baseball",
     "league": "MLB",
@@ -914,13 +893,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=-JKEQa-lcoAgTsm7HM3SDw1oReEIy9CFLQdRawMqGRI&e=1783094386|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=U7JcvYUAQ45EM-urUhha7hzESxvJHz_5gtuOrVnEsBI&e=1783102823|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783089651864-35",
+    "id": "imported-1783095236669-34",
     "matchName": "Arizona Diamondbacks - Milwaukee Brewers",
     "sportType": "Baseball",
     "league": "MLB",
@@ -935,7 +914,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=KosHc7ctCRc4rTW1leIvRAHWXjVjaYOh0g8vOuLyHMI&e=1783094385|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=jmljlzIxHmf4jObD1VBfOTrLZRLoraRacJIGUM_KhSg&e=1783102822|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -946,7 +925,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-36",
+    "id": "imported-1783095236669-35",
     "matchName": "Los Angeles Dodgers - San Diego Padres",
     "sportType": "Baseball",
     "league": "MLB",
@@ -966,7 +945,7 @@
       },
       {
         "name": "Server 2",
-        "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=RhTUdZ-4jHXhgdwKc9aaDLWDmn1d0bKg9LWqn-RGOSQ&e=1783094385|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=TnzgS9Vc464vGb5223ATzt0Y2AAZEdOFKhJuW8iSlDk&e=1783102822|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": false
       },
       {
@@ -977,7 +956,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-37",
+    "id": "imported-1783095236669-36",
     "matchName": "British Grand Prix - Race",
     "sportType": "Formula 1",
     "league": "Formula 1",
@@ -998,7 +977,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-38",
+    "id": "imported-1783095236669-37",
     "matchName": "Brazil - Norway",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1019,7 +998,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-39",
+    "id": "imported-1783095236669-38",
     "matchName": "Mexico - England",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1040,7 +1019,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-40",
+    "id": "imported-1783095236669-39",
     "matchName": "Portugal - Spain",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1061,7 +1040,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-41",
+    "id": "imported-1783095236669-40",
     "matchName": "United States - Belgium",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1082,7 +1061,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-42",
+    "id": "imported-1783095236669-41",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -1103,7 +1082,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-43",
+    "id": "imported-1783095236669-42",
     "matchName": "West Indies vs Sri Lanka",
     "sportType": "Cricket",
     "league": "West Indies vs Sri Lanka",
@@ -1129,7 +1108,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-44",
+    "id": "imported-1783095236669-43",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -1150,7 +1129,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-45",
+    "id": "imported-1783095236669-44",
     "matchName": "Women’s T20 World Cup 2026",
     "sportType": "Cricket",
     "league": "ICC Women's T20 World Cup",
@@ -1171,7 +1150,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-46",
+    "id": "imported-1783095236669-45",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -1192,7 +1171,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-47",
+    "id": "imported-1783095236669-46",
     "matchName": "2nd T20 India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -1213,7 +1192,7 @@
     ]
   },
   {
-    "id": "imported-1783089651864-48",
+    "id": "imported-1783095236669-47",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
