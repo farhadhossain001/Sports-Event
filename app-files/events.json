@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1783381491006-0",
+    "id": "imported-1783387579118-0",
     "matchName": "Tampa Bay Rays - New York Yankees",
     "sportType": "Baseball",
     "league": "MLB",
@@ -15,7 +15,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?st=FFfPJU-c97-p4mXjcW8ifAOyOFvYz1Ph2cpjJ5NAIoA&e=1783387114|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?st=0oHQwLYx0lY3jjGbX8r133SjYRAZXjYzwYEAjVbp264&e=1783394028|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -25,7 +25,7 @@
       },
       {
         "name": "Server 3",
-        "url": "https://cdn4.zohanayaan.com:1686/hls/mtampabayrays.m3u8?md5=QoKyhFLofqZS6f1O8N9ahA&expires=1783384256|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://cdn15.zohanayaan.com:1686/hls/mtampabayrays.m3u8?md5=wHfCGrTqa4PtWLmgupfGzQ&expires=1783389629|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-1",
+    "id": "imported-1783387579118-1",
     "matchName": "Washington Nationals - Houston Astros",
     "sportType": "Baseball",
     "league": "MLB",
@@ -71,7 +71,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?st=tGeV0ugMzRlF5E77BVNFNCIbyqOTXI-8lvbZ9ZNiciM&e=1783387114|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?st=pBbOSGvifvlf7wQ_7UuYnhItkKnk_dxJDgRu0jPFIR4&e=1783394028|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -81,7 +81,7 @@
       },
       {
         "name": "Server 3",
-        "url": "https://cdn8.zohanayaan.com:1686/hls/mwashingtonnationals.m3u8?md5=L_J81Xg1QamBBbquGf-3EQ&expires=1783384257|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/mwashingtonnationals.m3u8?md5=Lj8Kmfud4Lh7wURyNRG3jg&expires=1783389632|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
@@ -103,11 +103,16 @@
         "name": "Server 7",
         "url": "https://admin.formaturamaxi.com.br/mlb3.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
+      },
+      {
+        "name": "Server 8",
+        "url": "https://lb6.wfty.st/secure/O3oB6fm0fP9ZewzSkTY3dg/easy/washington-nationals-houston-astros/1/401816045/1783404043/playlist.m3u8|Referer=https://sportsembed.su/embed/401816045/washington-nationals-houston-astros/easy/1?player=clappr&autoplay=true&Origin=https://sportsembed.su/embed/401816045/washington-nationals-houston-astros/easy/1?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783381491006-2",
+    "id": "imported-1783387579118-2",
     "matchName": "Oklahoma City Thunder - Atlanta Hawks",
     "sportType": "Basketball",
     "league": "NBA",
@@ -122,38 +127,33 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream3.pro/hls/mlkijfezag65.m3u8?st=8RPprIk9tLPsb_OtKBtj35icRpbA5abeHxrEnD7ZdBg&e=1783387114|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream2.pro/hls/mlkijfezag65.m3u8?st=b24kazeLngWG5nIbz1P6_zQTI292Q4vqFdlPCAIsqQE&e=1783394028|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://pul-tenm.gkykp.com/live/sd-2-3923389.m3u8?txSecret=c44b1bbf8cc3618bac44182f11d73c1f&txTime=6A4D7F50|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://cdn14.zohanayaan.com:1686/hls/moklahomacitythunder.m3u8?md5=MbAdkg3SrQxgGEXxiRCpHA&expires=1783384258|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "http://193.47.62.42/hls/IRRR.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 5",
         "url": "https://chatgpt.hereisman.net/playlist/53009/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/53009?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53009?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
-        "name": "Server 6",
+        "name": "Server 3",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/moklahomacitythunder.m3u8?md5=2eLWisIfPMV4Bus7EPEf1g&expires=1783389633|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://pul-tenm.gkykp.com/live/sd-2-3923389.m3u8?txSecret=c44b1bbf8cc3618bac44182f11d73c1f&txTime=6A4D7F50|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
         "url": "https://tedesco.formaturamaxi.com.br/nba.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783381491006-3",
+    "id": "imported-1783387579118-3",
     "matchName": "Atlanta Braves - New York Mets",
     "sportType": "Baseball",
     "league": "MLB",
@@ -168,27 +168,27 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8?st=-cC2P3FHT53fkM9IWTEhHDTJizI9BDrys36Q3R37GUA&e=1783387114|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8?st=Y9HqR5n0y81nH0Y4MIhZcJzE6ZmiN6YV6ifmYWPPHQI&e=1783394028|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://cdn11.zohanayaan.com:1686/hls/matlantabraves.m3u8?md5=uBH3f1fTHxfio05QehLwLA&expires=1783386025|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://cdn2.zohanayaan.com:1686/hls/matlantabraves.m3u8?md5=nlUOKE-L19TobtrO_AO8JA&expires=1783391408|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "http://193.47.62.43/hls/JBBBQQQQQQQq.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://chatgpt.hereisman.net/playlist/53010/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/53010?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53010?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 4",
-        "url": "https://lb5.wfty.st/secure/Ev_sxcpMysXwlTNiLM_QwQ/regular/atlanta-braves-new-york-mets/1/401816047/1783402266/playlist.m3u8|Referer=https://sportsembed.su/embed/401816047/atlanta-braves-new-york-mets/regular/1?player=clappr&autoplay=true&Origin=https://sportsembed.su/embed/401816047/atlanta-braves-new-york-mets/regular/1?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "http://193.47.62.43/hls/JBBBQQQQQQQq.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 5",
-        "url": "https://chatgpt.hereisman.net/playlist/53010/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/53010?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53010?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://lb5.wfty.st/secure/Ev_sxcpMysXwlTNiLM_QwQ/regular/atlanta-braves-new-york-mets/1/401816047/1783402266/playlist.m3u8|Referer=https://sportsembed.su/embed/401816047/atlanta-braves-new-york-mets/regular/1?player=clappr&autoplay=true&Origin=https://sportsembed.su/embed/401816047/atlanta-braves-new-york-mets/regular/1?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-4",
+    "id": "imported-1783387579118-4",
     "matchName": "San Antonio Spurs - Los Angeles Lakers",
     "sportType": "Basketball",
     "league": "NBA",
@@ -224,22 +224,22 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=GhCrnoUfNuybGwqZh15eOH6UqH2010y3RhVOxCgCESA&e=1783387113|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8?st=5HwqzPBjYLtAem5MPiFV8KpaYbQHCJInxA5avkORmhE&e=1783394028|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://cdn15.zohanayaan.com:1686/hls/msanantoniospurs.m3u8?md5=5siS62-cmWsdJiyDK37K_Q&expires=1783386027|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "http://193.47.62.42/hls/IRRRZZ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://pul-tenm.gkykp.com/live/sd-2-3923314.m3u8?txSecret=4cb8d085169f995dd9fa6d86eefed0ff&txTime=6A4D8A18|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://chatgpt.hereisman.net/playlist/53013/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/53013?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53013?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 4",
-        "url": "https://chatgpt.hereisman.net/playlist/53013/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/53013?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53013?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://cdn9.zohanayaan.com:1686/hls/msanantoniospurs.m3u8?md5=ErllqJ-snvQ8twar8SnXTw&expires=1783391410|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
@@ -250,7 +250,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-5",
+    "id": "imported-1783387579118-5",
     "matchName": "St. Louis Cardinals - Milwaukee Brewers",
     "sportType": "Baseball",
     "league": "MLB",
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-6",
+    "id": "imported-1783387579118-6",
     "matchName": "United States - Belgium",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -279,75 +279,95 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/usa/logo.webp",
     "awayTeamName": "Belgium",
     "awayTeamLogo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "06:00 AM 07/07/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8?st=5FllLqLFfTTjn6RXnVSJcbjejOPEAhmwW99Hf0k8nzA&e=1783387113|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8?st=dJd2QCQNdxliBtPotlTu4S4AJp6WO7t3iZK7HhAi67g&e=1783394028|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8?st=lFM2yUirju2bTEZSTWSeOwgkMp87TvvImJshAHHe3yk&e=1783387113|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8?st=Lf91TNgnukITNArDiMnxiHz4qQkRarEUd9aiyn1Oy4E&e=1783394028|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8?st=JWfukpnZcoh9aT-7PBaVIu5qUaMcSU8YN-CFs_QVrn8&e=1783387113|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8?st=9AZ5YK_OcfYH7gUXvFKRyGW3D--h_vmmxPIuIzMf9DE&e=1783394028|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": false
       },
       {
         "name": "Server 4",
-        "url": "https://instreams.pro/US/NFLHD1/index.m3u8|Referer=https://instream.click/wc-us.php?stream=NFLHD1&Origin=https://instream.click/wc-us.php?stream=NFLHD1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/hdchnl1.m3u8?md5=_ZhjsmjL0x8QT3tYF8BrPw&expires=1783387221|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 5",
-        "url": "http://193.47.62.47/hls/JMMMCZckkkqqq.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://instreams.pro/US/NFLHD1/index.m3u8|Referer=https://instream.click/wc-us.php?stream=NFLHD1&Origin=https://instream.click/wc-us.php?stream=NFLHD1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 6",
-        "url": "http://193.47.62.47/hls/JMMMCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "http://193.47.62.47/hls/JMMMCZckkkqqq.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 7",
-        "url": "http://193.47.62.47/hls/JMMMCZckkkqqqX.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "http://193.47.62.47/hls/JMMMCZckkkqqqq.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 8",
-        "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cbb70/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYjcwOjE3ODMzOTUwNTg1ODI6Y2RubGl2ZXR2LnR2OjJkOTAyMGRlZjY4ZWM0MzEuNzI5ODMyMmViNjAyNmE5NjY5YmVhYWNmNzRhZTkyMTQxZTgzYWYzYmYyOGNhOWYzYTAyZGQyYWNmYmRmZmM0OA|Referer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free&Origin=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459805.m3u8?txSecret=dacc24d0d5d67c73adbd72e320d480a5&txTime=6A4D7C80|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 9",
-        "url": "http://193.47.62.47/hls/JMMMCZckkkqr.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "http://193.47.62.47/hls/JMMMCZckkkqqqX.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 10",
-        "url": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://obstreamx.click/live/esx51jdn9y.m3u8|Referer=https://getembed.live/embed-player?stream=esx51jdn9y&Origin=https://getembed.live/embed-player?stream=esx51jdn9y&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 11",
-        "url": "https://cdn12.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=w2oCLyG8XmSZZE9R3soW2Q&expires=1783387854|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=mi8RK3O0-quTFHpaW6C8rQ&expires=1783393248|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 12",
+        "url": "https://chatgpt.hereisman.net/playlist/53005/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/53005?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53005?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 13",
+        "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cbb70/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYjcwOjE3ODMzOTUwNTg1ODI6Y2RubGl2ZXR2LnR2OjJkOTAyMGRlZjY4ZWM0MzEuNzI5ODMyMmViNjAyNmE5NjY5YmVhYWNmNzRhZTkyMTQxZTgzYWYzYmYyOGNhOWYzYTAyZGQyYWNmYmRmZmM0OA|Referer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free&Origin=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 14",
+        "url": "https://lb2.wfty.st/secure/7WUsJgNq12LlOoTswzjKCg/easy/united-states-belgium/1/4754293/1783405822/playlist.m3u8|Referer=https://sportsembed.su/embed/4754293/united-states-belgium/easy/1?player=clappr&autoplay=true&Origin=https://sportsembed.su/embed/4754293/united-states-belgium/easy/1?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 15",
         "url": "https://admin.shadow-ran.online/tsn.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 16",
+        "url": "https://mdbacks.s3.us-east-1.amazonaws.com/premier.m3u8|Referer=https://sportspass.shop/soccer/fifa2026.html&Origin=https://sportspass.shop/soccer/fifa2026.html&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783381491006-7",
+    "id": "imported-1783387579118-7",
     "matchName": "Brooklyn Nets - Golden State Warriors",
     "sportType": "Basketball",
     "league": "NBA",
@@ -355,30 +375,40 @@
     "homeTeamLogo": "https://embedhd.org/images/team-logos/BrooklynNets.png",
     "awayTeamName": "Golden State Warriors",
     "awayTeamLogo": "https://embedhd.org/images/team-logos/GoldenStateWarriors.png",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "06:00 AM 07/07/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?st=1nx1kpdsEpJZODdlWVX25TkX76UsZiqIPr-NBEkvBDU&e=1783387113|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream3.pro/hls/hfsdqtaxvb67.m3u8?st=L7P4eGZbjy0sEPQMLL7ivsYxBnnQ4QDm0ziv3aD10c4&e=1783394028|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://tedesco.shadow-ran.online/nba3.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://pul-tenm.gkykp.com/live/sd-2-3923318.m3u8?txSecret=0ef76d23a1b3adaa318829d9f45f3af1&txTime=6A4D8C70|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://cdn10.zohanayaan.com:1686/hls/mbrooklynnets.m3u8?md5=w8GG25Tw5QejUPLDNYY8Bg&expires=1783387855|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://chatgpt.hereisman.net/playlist/53017/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/53017?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53017?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://cdn4.zohanayaan.com:1686/hls/mbrooklynnets.m3u8?md5=L0guhoHG-Mz2NK_UaHJ9Bg&expires=1783393249|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://tedesco.shadow-ran.online/nba3.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783381491006-8",
+    "id": "imported-1783387579118-8",
     "matchName": "Utah Jazz - Memphis Grizzlies",
     "sportType": "Basketball",
     "league": "NBA",
@@ -386,30 +416,40 @@
     "homeTeamLogo": "https://embedhd.org/images/team-logos/UtahJazz.png",
     "awayTeamName": "Memphis Grizzlies",
     "awayTeamLogo": "https://embedhd.org/images/team-logos/MemphisGrizzlies.png",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "07:00 AM 07/07/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8?st=328GTumBG_25f1kSKKQI8mPMKM7HkbpP4PlSX6qsVqk&e=1783387112|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?st=N0rJ0-QCb8fu0AD5NeHDZeDBeQZkvDLlk4ZADuM8w-c&e=1783394027|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "http://193.47.62.41/hls/GGGGFQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://chatgpt.hereisman.net/playlist/53018/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/53018?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53018?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 3",
+        "url": "https://cdn14.zohanayaan.com:1686/hls/mutahjazz.m3u8?md5=HkWoo58-UpgKbK1H5tGw3A&expires=1783391411|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "http://193.47.62.41/hls/GGGGFQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
         "url": "https://tedesco.shadow-ran.online/nba.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783381491006-9",
+    "id": "imported-1783387579118-9",
     "matchName": "San Diego Padres - Arizona Diamondbacks",
     "sportType": "Baseball",
     "league": "MLB",
@@ -424,7 +464,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream1.pro/hls/jkzahzadach20.m3u8?st=4vkbYIZxYC6v2gzFfdirKBnEBFz4oqzbpu-FVmlgiEE&e=1783387112|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream2.pro/hls/jkzahzadach20.m3u8?st=kQMsxOQyV1_GgOYe0-qPpY4FWJCILF8-ipiBaReoCWc&e=1783394027|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -435,7 +475,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-10",
+    "id": "imported-1783387579118-10",
     "matchName": "San Francisco Giants - Toronto Blue Jays",
     "sportType": "Baseball",
     "league": "MLB",
@@ -450,7 +490,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream2.pro/hls/ojzkajnach21.m3u8?st=UtfQjn1IvesksKLwtd7L8_VaySeIxOIPp_4OhS4zOpM&e=1783387112|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream1.pro/hls/ojzkajnach21.m3u8?st=jJGnjnouLAvEdr7Ty_CyYNPORp0imZKE2d7Il1-UaLo&e=1783394027|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -461,7 +501,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-11",
+    "id": "imported-1783387579118-11",
     "matchName": "Sacramento Kings - Milwaukee Bucks",
     "sportType": "Basketball",
     "league": "NBA",
@@ -476,7 +516,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?st=EoyywPEDcy5uHWscMcICiDoWZy0ETx6JMf_lNnWmyr4&e=1783387111|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?st=vl9XGRXynQYS3CVRS_pGT5ocMV1WXVxEIQE_Qp2K7t4&e=1783394026|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -487,7 +527,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-12",
+    "id": "imported-1783387579118-12",
     "matchName": "Golden State Warriors - Miami Heat",
     "sportType": "Basketball",
     "league": "NBA",
@@ -502,7 +542,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8?st=sYGri5cjYosidfpFyzhGT5YSF93o2olGxlzl1qwhxLc&e=1783387111|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8?st=gOAbXdy7GPLiL6yw9ZT7kJ-Mh6u21QLHxULiWsJerAI&e=1783394026|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -513,7 +553,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-13",
+    "id": "imported-1783387579118-13",
     "matchName": "Los Angeles Dodgers - Colorado Rockies",
     "sportType": "Baseball",
     "league": "MLB",
@@ -528,7 +568,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream1.pro/hls/ijfnakfidch22.m3u8?st=zxMHY9sQ7Lv4TbHPfiBc6Elixyu5XiA-T5vnnlwAzb0&e=1783387111|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8?st=89cNUBHWb70sf-3sB963OoUI9s3pa1pSgXOJaIYlCv4&e=1783394026|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -539,7 +579,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-14",
+    "id": "imported-1783387579118-14",
     "matchName": "Argentina - Egypt",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -560,7 +600,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-15",
+    "id": "imported-1783387579118-15",
     "matchName": "St. Louis Cardinals - Milwaukee Brewers",
     "sportType": "Baseball",
     "league": "MLB",
@@ -581,7 +621,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-16",
+    "id": "imported-1783387579118-16",
     "matchName": "Switzerland - Colombia",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -602,7 +642,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-17",
+    "id": "imported-1783387579118-17",
     "matchName": "Baltimore Orioles - Chicago Cubs",
     "sportType": "Baseball",
     "league": "MLB",
@@ -623,7 +663,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-18",
+    "id": "imported-1783387579118-18",
     "matchName": "Detroit Tigers - Athletics",
     "sportType": "Baseball",
     "league": "MLB",
@@ -644,7 +684,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-19",
+    "id": "imported-1783387579118-19",
     "matchName": "Pittsburgh Pirates - Atlanta Braves",
     "sportType": "Baseball",
     "league": "MLB",
@@ -665,7 +705,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-20",
+    "id": "imported-1783387579118-20",
     "matchName": "Tampa Bay Rays - New York Yankees",
     "sportType": "Baseball",
     "league": "MLB",
@@ -680,7 +720,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?st=FFfPJU-c97-p4mXjcW8ifAOyOFvYz1Ph2cpjJ5NAIoA&e=1783387114|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?st=0oHQwLYx0lY3jjGbX8r133SjYRAZXjYzwYEAjVbp264&e=1783394028|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -690,7 +730,7 @@
       },
       {
         "name": "Server 3",
-        "url": "https://cdn4.zohanayaan.com:1686/hls/mtampabayrays.m3u8?md5=QoKyhFLofqZS6f1O8N9ahA&expires=1783384256|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://cdn15.zohanayaan.com:1686/hls/mtampabayrays.m3u8?md5=wHfCGrTqa4PtWLmgupfGzQ&expires=1783389629|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
@@ -721,7 +761,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-21",
+    "id": "imported-1783387579118-21",
     "matchName": "Miami Marlins - Seattle Mariners",
     "sportType": "Baseball",
     "league": "MLB",
@@ -742,7 +782,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-22",
+    "id": "imported-1783387579118-22",
     "matchName": "Washington Nationals - Houston Astros",
     "sportType": "Baseball",
     "league": "MLB",
@@ -757,7 +797,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?st=tGeV0ugMzRlF5E77BVNFNCIbyqOTXI-8lvbZ9ZNiciM&e=1783387114|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?st=pBbOSGvifvlf7wQ_7UuYnhItkKnk_dxJDgRu0jPFIR4&e=1783394028|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -767,7 +807,7 @@
       },
       {
         "name": "Server 3",
-        "url": "https://cdn8.zohanayaan.com:1686/hls/mwashingtonnationals.m3u8?md5=L_J81Xg1QamBBbquGf-3EQ&expires=1783384257|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/mwashingtonnationals.m3u8?md5=Lj8Kmfud4Lh7wURyNRG3jg&expires=1783389632|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
@@ -789,11 +829,16 @@
         "name": "Server 7",
         "url": "https://admin.formaturamaxi.com.br/mlb3.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
+      },
+      {
+        "name": "Server 8",
+        "url": "https://lb6.wfty.st/secure/O3oB6fm0fP9ZewzSkTY3dg/easy/washington-nationals-houston-astros/1/401816045/1783404043/playlist.m3u8|Referer=https://sportsembed.su/embed/401816045/washington-nationals-houston-astros/easy/1?player=clappr&autoplay=true&Origin=https://sportsembed.su/embed/401816045/washington-nationals-houston-astros/easy/1?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783381491006-23",
+    "id": "imported-1783387579118-23",
     "matchName": "Memphis Grizzlies - Atlanta Hawks",
     "sportType": "Basketball",
     "league": "NBA",
@@ -814,7 +859,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-24",
+    "id": "imported-1783387579118-24",
     "matchName": "New York Mets - Kansas City Royals",
     "sportType": "Baseball",
     "league": "MLB",
@@ -835,7 +880,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-25",
+    "id": "imported-1783387579118-25",
     "matchName": "Cincinnati Reds - Philadelphia Phillies",
     "sportType": "Baseball",
     "league": "MLB",
@@ -856,7 +901,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-26",
+    "id": "imported-1783387579118-26",
     "matchName": "Chicago White Sox - Boston Red Sox",
     "sportType": "Baseball",
     "league": "MLB",
@@ -877,7 +922,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-27",
+    "id": "imported-1783387579118-27",
     "matchName": "Minnesota Twins - Cleveland Guardians",
     "sportType": "Baseball",
     "league": "MLB",
@@ -898,7 +943,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-28",
+    "id": "imported-1783387579118-28",
     "matchName": "St. Louis Cardinals - Milwaukee Brewers",
     "sportType": "Baseball",
     "league": "MLB",
@@ -919,7 +964,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-29",
+    "id": "imported-1783387579118-29",
     "matchName": "Texas Rangers - Los Angeles Angels",
     "sportType": "Baseball",
     "league": "MLB",
@@ -940,7 +985,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-30",
+    "id": "imported-1783387579118-30",
     "matchName": "Utah Jazz - Oklahoma City Thunder",
     "sportType": "Basketball",
     "league": "NBA",
@@ -961,7 +1006,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-31",
+    "id": "imported-1783387579118-31",
     "matchName": "San Diego Padres - Arizona Diamondbacks",
     "sportType": "Baseball",
     "league": "MLB",
@@ -976,7 +1021,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream1.pro/hls/jkzahzadach20.m3u8?st=4vkbYIZxYC6v2gzFfdirKBnEBFz4oqzbpu-FVmlgiEE&e=1783387112|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream2.pro/hls/jkzahzadach20.m3u8?st=kQMsxOQyV1_GgOYe0-qPpY4FWJCILF8-ipiBaReoCWc&e=1783394027|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -987,7 +1032,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-32",
+    "id": "imported-1783387579118-32",
     "matchName": "San Francisco Giants - Toronto Blue Jays",
     "sportType": "Baseball",
     "league": "MLB",
@@ -1002,7 +1047,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream2.pro/hls/ojzkajnach21.m3u8?st=UtfQjn1IvesksKLwtd7L8_VaySeIxOIPp_4OhS4zOpM&e=1783387112|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream1.pro/hls/ojzkajnach21.m3u8?st=jJGnjnouLAvEdr7Ty_CyYNPORp0imZKE2d7Il1-UaLo&e=1783394027|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -1013,7 +1058,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-33",
+    "id": "imported-1783387579118-33",
     "matchName": "Los Angeles Dodgers - Colorado Rockies",
     "sportType": "Baseball",
     "league": "MLB",
@@ -1028,7 +1073,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream1.pro/hls/ijfnakfidch22.m3u8?st=zxMHY9sQ7Lv4TbHPfiBc6Elixyu5XiA-T5vnnlwAzb0&e=1783387111|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8?st=89cNUBHWb70sf-3sB963OoUI9s3pa1pSgXOJaIYlCv4&e=1783394026|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
@@ -1039,7 +1084,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-34",
+    "id": "imported-1783387579118-34",
     "matchName": "France - Morocco",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1060,7 +1105,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-35",
+    "id": "imported-1783387579118-35",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -1081,7 +1126,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-36",
+    "id": "imported-1783387579118-36",
     "matchName": "West Indies vs Sri Lanka",
     "sportType": "Cricket",
     "league": "West Indies vs Sri Lanka",
@@ -1102,7 +1147,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-37",
+    "id": "imported-1783387579118-37",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -1123,7 +1168,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-38",
+    "id": "imported-1783387579118-38",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
@@ -1144,7 +1189,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-39",
+    "id": "imported-1783387579118-39",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -1165,7 +1210,7 @@
     ]
   },
   {
-    "id": "imported-1783381491006-40",
+    "id": "imported-1783387579118-40",
     "matchName": "3rd T20 India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
