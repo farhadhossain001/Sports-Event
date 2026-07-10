@@ -1,32 +1,6 @@
 [
   {
-    "id": "imported-1783665827112-0",
-    "matchName": "LA Clippers - Sacramento Kings",
-    "sportType": "Basketball",
-    "league": "NBA",
-    "homeTeamName": "LA Clippers",
-    "homeTeamLogo": "https://embedhd.org/images/team-logos/LaClippers.png",
-    "awayTeamName": "Sacramento Kings",
-    "awayTeamLogo": "https://embedhd.org/images/team-logos/SacramentoKings.png",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "09:00 AM 10/07/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "https://edgestream1.pro/hls/ztyarueaghj71.m3u8?st=wQLpDz0lgIUC4cD1izbbFKTiMphA_gNkv8IcCKkQNYE&e=1783670203|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://cdn14.zohanayaan.com:1686/hls/mlosangelesclippers.m3u8?md5=fMvDKVfdwrPbh1uPA0sjMg&expires=1783657820|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1783665827112-1",
+    "id": "imported-1783678298537-0",
     "matchName": "Spain - Belgium",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -40,14 +14,29 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8?st=gocyptAa3a20vwYgjPUmyuxCzVuMlheGtT14T5fzHJ0&e=1783682935|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://edgestream3.pro/hls/eJmauBDCIf.m3u8?st=j_jOsKSqRTnMC-mJg35f8OfPuDvQBL2aUp33qZmUDVo&e=1783682935|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8?st=jfqVn4neyx65JzHkPZGFFDrBdRn7La0E1AWfAyIR2ug&e=1783682935|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://edgestream1.pro/hls/sqdahach1ax.m3u8?st=2LsYG0CSXRV8WN3ELK7s_PIP3UmAyOcro3ArTrvkX8g&e=1783682935|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783665827112-2",
+    "id": "imported-1783678298537-1",
     "matchName": "Miami Heat - Milwaukee Bucks",
     "sportType": "Basketball",
     "league": "NBA",
@@ -61,14 +50,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream2.pro/hls/mlkijfezag65.m3u8?st=7uiFVyNZGAIqhwQmUzRTvv0Ccs2rx8ynP6_hJ2-A-9k&e=1783682935|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-3",
+    "id": "imported-1783678298537-2",
     "matchName": "Indiana Pacers - Cleveland Cavaliers",
     "sportType": "Basketball",
     "league": "NBA",
@@ -82,14 +71,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8?st=O9x8-BQpBQDWBNXzoAzYZWvh1SkASDeWEhs4AjuFtRI&e=1783682935|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-4",
+    "id": "imported-1783678298537-3",
     "matchName": "New York Knicks - Brooklyn Nets",
     "sportType": "Basketball",
     "league": "NBA",
@@ -103,14 +92,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?st=veAkxa5WTq5fUbUKHQmqPlMU7-2l6hhnClUqCddJfdM&e=1783682934|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-5",
+    "id": "imported-1783678298537-4",
     "matchName": "Denver Nuggets - Houston Rockets",
     "sportType": "Basketball",
     "league": "NBA",
@@ -124,14 +113,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?st=0-iGzA6cIUtgcvYlXSRrb-CkbvOdpmZzm7i67vmj01A&e=1783682934|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-6",
+    "id": "imported-1783678298537-5",
     "matchName": "Pittsburgh Pirates - Milwaukee Brewers",
     "sportType": "Baseball",
     "league": "MLB",
@@ -145,14 +134,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream2.pro/hls/dazhfiach15.m3u8?st=EtTOBcESwtoltna85pfLfn9YFiX1AOrys7eyEKJWJYU&e=1783682934|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-7",
+    "id": "imported-1783678298537-6",
     "matchName": "Detroit Tigers - Philadelphia Phillies",
     "sportType": "Baseball",
     "league": "MLB",
@@ -166,14 +155,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?st=uG641SOWBq_8QtoUI8Ne2ZrMMJNsx0OrBnzl7I0Nm3Q&e=1783682934|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-8",
+    "id": "imported-1783678298537-7",
     "matchName": "Washington Nationals - New York Yankees",
     "sportType": "Baseball",
     "league": "MLB",
@@ -187,14 +176,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8?st=3CABL9RugzxKN9AutIy_PKzepdl6gs1V4f1lm5KMirM&e=1783682934|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-9",
+    "id": "imported-1783678298537-8",
     "matchName": "Baltimore Orioles - Kansas City Royals",
     "sportType": "Baseball",
     "league": "MLB",
@@ -208,14 +197,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8?st=yAWIiCTvUY10KWDxB9v67wJQDSfRX_jOzKmfQlsq3ys&e=1783682934|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-10",
+    "id": "imported-1783678298537-9",
     "matchName": "Cincinnati Reds - Chicago Cubs",
     "sportType": "Baseball",
     "league": "MLB",
@@ -229,14 +218,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream2.pro/hls/bzagLHzach19.m3u8?st=fG-Z9D7jH7eq8up9KJVWetcXVgwv4wi7nxbgOJV1GMw&e=1783682933|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-11",
+    "id": "imported-1783678298537-10",
     "matchName": "Miami Marlins - Cleveland Guardians",
     "sportType": "Baseball",
     "league": "MLB",
@@ -250,14 +239,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream2.pro/hls/jkzahzadach20.m3u8?st=_zYZ6LqI-uNoXuviTYR4sWbBiWaHPkhlwvWYCSYuyMY&e=1783682934|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-12",
+    "id": "imported-1783678298537-11",
     "matchName": "Tampa Bay Rays - Seattle Mariners",
     "sportType": "Baseball",
     "league": "MLB",
@@ -271,14 +260,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream3.pro/hls/ojzkajnach21.m3u8?st=S7-46uUALmmDTT17aRGjnPBHapj_-Gz1-T-beoxmF54&e=1783682934|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-13",
+    "id": "imported-1783678298537-12",
     "matchName": "New York Mets - Boston Red Sox",
     "sportType": "Baseball",
     "league": "MLB",
@@ -292,14 +281,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream1.pro/hls/ijfnakfidch22.m3u8?st=H51xqhOjFetsGLcSpC7CmjjdojtWqHwVwrzWpqIm8Js&e=1783682933|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-14",
+    "id": "imported-1783678298537-13",
     "matchName": "Chicago White Sox - Athletics",
     "sportType": "Baseball",
     "league": "MLB",
@@ -313,14 +302,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream3.pro/hls/jnzkdzjfanch23.m3u8?st=zRwimjlnai_I5X4FHEvAjzXAk6CnGmihd8ICuluAj5o&e=1783682933|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-15",
+    "id": "imported-1783678298537-14",
     "matchName": "Memphis Grizzlies - Chicago Bulls",
     "sportType": "Basketball",
     "league": "NBA",
@@ -334,14 +323,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?st=2IKh2R5nUnhxg8WnxVz45h9aBuMhHChVxGRsaslE-dU&e=1783682933|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-16",
+    "id": "imported-1783678298537-15",
     "matchName": "Texas Rangers - Houston Astros",
     "sportType": "Baseball",
     "league": "MLB",
@@ -355,14 +344,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream1.pro/hls/fskjanach24.m3u8?st=aidjVJAic83sMwaGc8ud5tiL2ArSXcXhVWPFneyPb8Q&e=1783682933|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-17",
+    "id": "imported-1783678298537-16",
     "matchName": "Minnesota Twins - Los Angeles Angels",
     "sportType": "Baseball",
     "league": "MLB",
@@ -376,14 +365,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream1.pro/hls/kjhfzua25.m3u8?st=iLTZekUi-0zbTxbURW-ttJa72PGxd1kMic8qbA7FtEo&e=1783682933|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-18",
+    "id": "imported-1783678298537-17",
     "matchName": "St. Louis Cardinals - Atlanta Braves",
     "sportType": "Baseball",
     "league": "MLB",
@@ -404,7 +393,7 @@
     ]
   },
   {
-    "id": "imported-1783665827112-19",
+    "id": "imported-1783678298537-18",
     "matchName": "Toronto Raptors - Boston Celtics",
     "sportType": "Basketball",
     "league": "NBA",
@@ -418,14 +407,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8?st=xLWTGW-mmuEVa957TF1Kd8e6Ldc8Jp7BtlzsAVk9dts&e=1783682932|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-20",
+    "id": "imported-1783678298537-19",
     "matchName": "San Diego Padres - Toronto Blue Jays",
     "sportType": "Baseball",
     "league": "MLB",
@@ -439,14 +428,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream3.pro/hls/jzabfazkbf27.m3u8?st=UI7159e0cw9H3Aho1foEji40oKlM3G1lo2EAu3JQGzs&e=1783682932|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-21",
+    "id": "imported-1783678298537-20",
     "matchName": "Los Angeles Lakers - Oklahoma City Thunder",
     "sportType": "Basketball",
     "league": "NBA",
@@ -460,14 +449,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8?st=5LaLubU8xDE1TvWMgZ2fgPx3_whhRHApxXTA5Ug0IqQ&e=1783682931|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-22",
+    "id": "imported-1783678298537-21",
     "matchName": "Los Angeles Dodgers - Arizona Diamondbacks",
     "sportType": "Baseball",
     "league": "MLB",
@@ -481,14 +470,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?st=ITWZnN1QDIEMVcmqykanrlahG8hrswgCEGFZ55Umxxg&e=1783682931|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-23",
+    "id": "imported-1783678298537-22",
     "matchName": "San Francisco Giants - Colorado Rockies",
     "sportType": "Baseball",
     "league": "MLB",
@@ -503,27 +492,27 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream3.pro/hls/jzabfazkbf27.m3u8?st=8SRwtfeIoL3E0MM9j3qL92BwsaCGLx1LTEC-y45AA-0&e=1783670204|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://edgestream3.pro/hls/hfzljfahzcax29.m3u8?st=cErVmRvjuW_wpOzum5C_THq6qI0Un7z6e7ih9v-NGCU&e=1783682931|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://admin.formaturamaxi.com.br/mlb13.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
         "url": "https://chatgpt.hereisman.net/playlist/53146/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/53146?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53146?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
-        "name": "Server 4",
+        "name": "Server 3",
         "url": "http://193.47.62.41/hls/LLLLQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
-        "name": "Server 5",
+        "name": "Server 4",
         "url": "https://node-8bba18be.4587.website/6a50c9b6.abe6c143i5c3b601d.8642.84683872/free.live.espn/master.m3u8|Referer=https://mlb24all.ir&Origin=https://mlb24all.ir&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://admin.formaturamaxi.com.br/mlb13.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
@@ -544,7 +533,7 @@
     ]
   },
   {
-    "id": "imported-1783665827112-24",
+    "id": "imported-1783678298537-23",
     "matchName": "Phoenix Suns - Portland Trail Blazers",
     "sportType": "Basketball",
     "league": "NBA",
@@ -558,14 +547,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?st=DOI6ZB8dsumCkkinJpv6eQjs3wHJaD3_KTO8J1zAyFA&e=1783682931|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783665827112-25",
+    "id": "imported-1783678298537-24",
     "matchName": "Norway - England",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -586,7 +575,7 @@
     ]
   },
   {
-    "id": "imported-1783665827112-26",
+    "id": "imported-1783678298537-25",
     "matchName": "Argentina - Switzerland",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -607,7 +596,7 @@
     ]
   },
   {
-    "id": "imported-1783665827112-27",
+    "id": "imported-1783678298537-26",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -628,7 +617,7 @@
     ]
   },
   {
-    "id": "imported-1783665827112-28",
+    "id": "imported-1783678298537-27",
     "matchName": "India Womens v England Womens",
     "sportType": "Cricket",
     "league": "Womens",
@@ -649,7 +638,7 @@
     ]
   },
   {
-    "id": "imported-1783665827112-29",
+    "id": "imported-1783678298537-28",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -670,7 +659,7 @@
     ]
   },
   {
-    "id": "imported-1783665827112-30",
+    "id": "imported-1783678298537-29",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
@@ -691,7 +680,7 @@
     ]
   },
   {
-    "id": "imported-1783665827112-31",
+    "id": "imported-1783678298537-30",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -706,8 +695,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream1.pro/hls/fdgsqdfawa73.m3u8?st=CnxzGi-L3oy_pfxoxxZz4QmbbFw7-QMniHI_K4dj2fo&e=1783670203|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8?st=O9x8-BQpBQDWBNXzoAzYZWvh1SkASDeWEhs4AjuFtRI&e=1783682935|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "isPrimary": false
       }
     ]
   }
