@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1783785289030-0",
+    "id": "imported-1783788977031-0",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1783785289030-1",
+    "id": "imported-1783788977031-1",
     "matchName": "India Womens v England Womens",
     "sportType": "Cricket",
     "league": "Womens",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1783785289030-2",
+    "id": "imported-1783788977031-2",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1783785289030-3",
+    "id": "imported-1783788977031-3",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
@@ -78,18 +78,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://bd-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/1080p.m3u8",
+        "url": "https://bd-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/1080p.m3u8|drmScheme=clearkey",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|drmScheme=clearkey",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783785289030-4",
+    "id": "imported-1783788977031-4",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -130,7 +125,7 @@
     ]
   },
   {
-    "id": "imported-1783785289030-5",
+    "id": "imported-1783788977031-5",
     "matchName": "5th T20 India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -171,7 +166,7 @@
     ]
   },
   {
-    "id": "imported-1783785289030-6",
+    "id": "imported-1783788977031-6",
     "matchName": "1st ODI New Zealand vs West Indies",
     "sportType": "Cricket",
     "league": "Nz vs Wi",
