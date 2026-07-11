@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1783758504063-0",
+    "id": "imported-1783764086112-0",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1783758504063-1",
+    "id": "imported-1783764086112-1",
     "matchName": "India Womens v England Womens",
     "sportType": "Cricket",
     "league": "Womens",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1783758504063-2",
+    "id": "imported-1783764086112-2",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1783758504063-3",
+    "id": "imported-1783764086112-3",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
@@ -80,11 +80,16 @@
         "name": "Server 1",
         "url": "https://bd-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/1080p.m3u8",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|drmScheme=clearkey",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783758504063-4",
+    "id": "imported-1783764086112-4",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -99,8 +104,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=E2JmHJADgkGAxtl4W6qRu1jYQ-ZObWgzVJXbRK2PGVA&e=1783713643|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "url": "https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=E2JmHJADgkGAxtl4W6qRu1jYQ-ZObWgzVJXbRK2PGVA&e=1783713643|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "isPrimary": false
       }
     ]
   }
