@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1783751815492-0",
+    "id": "imported-1783758504063-0",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1783751815492-1",
+    "id": "imported-1783758504063-1",
     "matchName": "India Womens v England Womens",
     "sportType": "Cricket",
     "league": "Womens",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1783751815492-2",
+    "id": "imported-1783758504063-2",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1783751815492-3",
+    "id": "imported-1783758504063-3",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
@@ -71,20 +71,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
     "awayTeamName": "Zimbabwe",
     "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "01:30 PM 11/07/2026",
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://bd-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/1080p.m3u8",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1783751815492-4",
+    "id": "imported-1783758504063-4",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -100,27 +100,6 @@
       {
         "name": "Server 1",
         "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=E2JmHJADgkGAxtl4W6qRu1jYQ-ZObWgzVJXbRK2PGVA&e=1783713643|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1783751815492-5",
-    "matchName": "1st ODI New Zealand vs West Indies",
-    "sportType": "Cricket",
-    "league": "Nz vs Wi",
-    "homeTeamName": "New Zealand",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "awayTeamName": "West Indies",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "12:30 AM 12/07/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
