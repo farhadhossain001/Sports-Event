@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1783976502215-0",
+    "id": "imported-1783980560868-0",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1783976502215-1",
+    "id": "imported-1783980560868-1",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1783976502215-2",
+    "id": "imported-1783980560868-2",
     "matchName": "2nd ODI New Zealand vs West Indies",
     "sportType": "Cricket",
     "league": "Nz vs Wi",
@@ -57,7 +57,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://bd-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784066285~_GO=Generated~acl=/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/*~Signature=AfBeBziZ8IXsuFmbtw7K4yFf-q24KrsZ_UZfzr7s6o-7_ijbHb9dFkESNyCfnyx_tXVoSMoT_j9fa8WgxtGaLap6-swP",
         "isPrimary": true
       },
       {
@@ -67,13 +67,18 @@
       },
       {
         "name": "Server 3",
+        "url": "https://bd-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8|drmScheme=clearkey",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
         "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|drmScheme=clearkey",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783976502215-3",
+    "id": "imported-1783980560868-3",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -90,16 +95,11 @@
         "name": "Server 1",
         "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=E2JmHJADgkGAxtl4W6qRu1jYQ-ZObWgzVJXbRK2PGVA&e=1783713643|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "http://193.47.62.44/hls/MMMMQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783976502215-4",
+    "id": "imported-1783980560868-4",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
