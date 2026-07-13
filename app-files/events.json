@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1783905299312-0",
+    "id": "imported-1783918188111-0",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1783905299312-1",
+    "id": "imported-1783918188111-1",
     "matchName": "India Womens v England Womens",
     "sportType": "Cricket",
     "league": "Womens",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1783905299312-2",
+    "id": "imported-1783918188111-2",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -63,7 +63,28 @@
     ]
   },
   {
-    "id": "imported-1783905299312-3",
+    "id": "imported-1783918188111-3",
+    "matchName": "2nd ODI New Zealand vs West Indies",
+    "sportType": "Cricket",
+    "league": "Nz vs Wi",
+    "homeTeamName": "New Zealand",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+    "awayTeamName": "West Indies",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:30 AM 14/07/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1783918188111-4",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -85,11 +106,16 @@
         "name": "Server 2",
         "url": "https://edgestream3.pro/hls/xcsfadafgzfg76.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://edgestream2.pro/hls/xcsfadafgzfg76.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783905299312-4",
+    "id": "imported-1783918188111-5",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
