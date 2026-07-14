@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1783984369092-0",
+    "id": "imported-1783987715462-0",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1783984369092-1",
+    "id": "imported-1783987715462-1",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1783984369092-2",
+    "id": "imported-1783987715462-2",
     "matchName": "2nd ODI New Zealand vs West Indies",
     "sportType": "Cricket",
     "league": "Nz vs Wi",
@@ -67,18 +67,13 @@
       },
       {
         "name": "Server 3",
-        "url": "https://bd-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8|drmScheme=clearkey",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
         "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|drmScheme=clearkey",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783984369092-3",
+    "id": "imported-1783987715462-3",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -99,7 +94,7 @@
     ]
   },
   {
-    "id": "imported-1783984369092-4",
+    "id": "imported-1783987715462-4",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
