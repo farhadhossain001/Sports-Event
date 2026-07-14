@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1783987715462-0",
+    "id": "imported-1783999971067-0",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1783987715462-1",
+    "id": "imported-1783999971067-1",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1783987715462-2",
+    "id": "imported-1783999971067-2",
     "matchName": "2nd ODI New Zealand vs West Indies",
     "sportType": "Cricket",
     "league": "Nz vs Wi",
@@ -57,23 +57,18 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://bd-mc-flive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784066285~_GO=Generated~acl=/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/*~Signature=AfBeBziZ8IXsuFmbtw7K4yFf-q24KrsZ_UZfzr7s6o-7_ijbHb9dFkESNyCfnyx_tXVoSMoT_j9fa8WgxtGaLap6-swP",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784066285~_GO=Generated~acl=/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/*~Signature=AfBeBziZ8IXsuFmbtw7K4yFf-q24KrsZ_UZfzr7s6o-7_ijbHb9dFkESNyCfnyx_tXVoSMoT_j9fa8WgxtGaLap6-swP|drmScheme=clearkey",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "http://193.47.62.44/hls/MMMMQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
         "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|drmScheme=clearkey",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1783987715462-3",
+    "id": "imported-1783999971067-3",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -94,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1783987715462-4",
+    "id": "imported-1783999971067-4",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
