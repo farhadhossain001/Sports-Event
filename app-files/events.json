@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784029448021-0",
+    "id": "imported-1784033621674-0",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1784029448021-1",
+    "id": "imported-1784033621674-1",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1784029448021-2",
+    "id": "imported-1784033621674-2",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -62,13 +62,18 @@
       },
       {
         "name": "Server 2",
+        "url": "http://193.47.62.44/hls/zzzz.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
         "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|drmScheme=clearkey",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784029448021-3",
+    "id": "imported-1784033621674-3",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
