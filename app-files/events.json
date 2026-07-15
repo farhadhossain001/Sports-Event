@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784110964461-0",
+    "id": "imported-1784116670071-0",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1784110964461-1",
+    "id": "imported-1784116670071-1",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1784110964461-2",
+    "id": "imported-1784116670071-2",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
@@ -56,14 +56,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/143403_english_hls_4b9e3a65fb80219_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784196305~_GO=Generated~acl=/mumbai/143403_english_hls_4b9e3a65fb80219_1ta-di_h264/*~Signature=AeRM5cVjOD2-iMMs4wUSjQApJBSzeHgLwDdXXXgvX56Eu39YQgpmK1nW85zKrkrbF1lDkv8jIUaz2UNneun4V4rZoLwG",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|drmScheme=clearkey",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784110964461-3",
+    "id": "imported-1784116670071-3",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
