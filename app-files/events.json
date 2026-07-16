@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784164104768-0",
+    "id": "imported-1784175925237-0",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1784164104768-1",
+    "id": "imported-1784175925237-1",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -29,30 +29,71 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "England",
     "awayTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "isLive": true,
+    "isLive": false,
     "isHot": false,
-    "startTime": "03:30 PM 14/07/2026",
+    "startTime": "05:30 PM 16/07/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
         "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=E2JmHJADgkGAxtl4W6qRu1jYQ-ZObWgzVJXbRK2PGVA&e=1783713643|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://edgestream2.pro/hls/sqhdghzavbxu75.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://edgestream1.pro/hls/mlkijfezag65.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784164104768-2",
-    "matchName": "Bangladesh vs Zimbabwe",
+    "id": "imported-1784175925237-2",
+    "matchName": "2nd ODI India vs England",
     "sportType": "Cricket",
-    "league": "Ban vs Zim",
-    "homeTeamName": "Bangladesh",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
-    "awayTeamName": "Zimbabwe",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": true,
+    "league": "India vs England",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "England",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "isLive": false,
     "isHot": false,
-    "startTime": "04:30 PM 15/07/2026",
+    "startTime": "06:00 PM 16/07/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Server 1",
+        "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=E2JmHJADgkGAxtl4W6qRu1jYQ-ZObWgzVJXbRK2PGVA&e=1783713643|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://edgestream2.pro/hls/sqhdghzavbxu75.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://edgestream1.pro/hls/mlkijfezag65.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1784175925237-3",
+    "matchName": "3rd ODI New Zealand vs West Indies",
+    "sportType": "Cricket",
+    "league": "Nz vs Wi",
+    "homeTeamName": "New Zealand",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+    "awayTeamName": "West Indies",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:30 AM 17/07/2026",
     "link": "",
     "streams": [
       {
@@ -63,7 +104,49 @@
     ]
   },
   {
-    "id": "imported-1784164104768-3",
+    "id": "imported-1784175925237-4",
+    "matchName": "Bangladesh vs Zimbabwe",
+    "sportType": "Cricket",
+    "league": "Ban vs Zim",
+    "homeTeamName": "Bangladesh",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+    "awayTeamName": "Zimbabwe",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "04:30 PM 17/07/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1784175925237-5",
+    "matchName": "Lanka Premier League 2026",
+    "sportType": "Cricket",
+    "league": "Lpl",
+    "homeTeamName": "Lanka Premier League 2026",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/lanka-premier-league-2026/logo.webp",
+    "awayTeamName": "Lpl",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/lpl/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "08:00 PM 17/07/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1784175925237-6",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
@@ -71,9 +154,9 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/t20-blast-2026/logo.webp",
     "awayTeamName": "Vitality T20 Blast",
     "awayTeamLogo": "https://cdn.img4every1.org/team/vitality-t20-blast/logo.webp",
-    "isLive": true,
+    "isLive": false,
     "isHot": false,
-    "startTime": "10:00 PM 15/07/2026",
+    "startTime": "04:00 PM 18/07/2026",
     "link": "",
     "streams": [
       {
