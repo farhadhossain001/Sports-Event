@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784244484714-0",
+    "id": "imported-1784250243498-0",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -17,16 +17,11 @@
         "name": "Server 1",
         "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=E2JmHJADgkGAxtl4W6qRu1jYQ-ZObWgzVJXbRK2PGVA&e=1783713643|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "http://193.47.62.48/hls/ZAZAZAQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784244484714-1",
+    "id": "imported-1784250243498-1",
     "matchName": "2nd ODI India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -43,16 +38,11 @@
         "name": "Server 1",
         "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=E2JmHJADgkGAxtl4W6qRu1jYQ-ZObWgzVJXbRK2PGVA&e=1783713643|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "http://193.47.62.48/hls/ZAZAZAQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784244484714-2",
+    "id": "imported-1784250243498-2",
     "matchName": "3rd ODI New Zealand vs West Indies",
     "sportType": "Cricket",
     "league": "Nz vs Wi",
@@ -67,28 +57,23 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://bd-mc-flive.fancode.com/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784325906~_GO=Generated~acl=/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/*~Signature=AeRM5cUjVu3Xr7FC4eFZpOdwH68WBYBpnA1mf34gnoVr8EwrfX-VMvdKNTPzHpqQhMfqYHF3eQK-92PXjhzfz4gYPo8P",
+        "url": "http://193.47.62.53/hls/HYYYZQQQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "http://193.47.62.53/hls/HYYYZQQQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784325906~_GO=Generated~acl=/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/*~Signature=AeRM5cUjVu3Xr7FC4eFZpOdwH68WBYBpnA1mf34gnoVr8EwrfX-VMvdKNTPzHpqQhMfqYHF3eQK-92PXjhzfz4gYPo8P|drmScheme=clearkey",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://bd-mc-flive.fancode.com/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784311504~_GO=Generated~acl=/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/*~Signature=AeRM5cXly0E7X3BCueAReteDgo_DYRKY3OhMPTTqygVlVyOnprv5JvL2epHx_0YJS7bC1RyT9fseumcgGhNFVXk90IUK|drmScheme=clearkey",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
         "url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|drmScheme=clearkey",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784244484714-3",
+    "id": "imported-1784250243498-3",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -109,7 +94,7 @@
     ]
   },
   {
-    "id": "imported-1784244484714-4",
+    "id": "imported-1784250243498-4",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
@@ -130,7 +115,7 @@
     ]
   },
   {
-    "id": "imported-1784244484714-5",
+    "id": "imported-1784250243498-5",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -151,7 +136,7 @@
     ]
   },
   {
-    "id": "imported-1784244484714-6",
+    "id": "imported-1784250243498-6",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
