@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784250243498-0",
+    "id": "imported-1784262294686-0",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -21,28 +21,7 @@
     ]
   },
   {
-    "id": "imported-1784250243498-1",
-    "matchName": "2nd ODI India vs England",
-    "sportType": "Cricket",
-    "league": "India vs England",
-    "homeTeamName": "India",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
-    "awayTeamName": "England",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "06:00 PM 16/07/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=E2JmHJADgkGAxtl4W6qRu1jYQ-ZObWgzVJXbRK2PGVA&e=1783713643|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1784250243498-2",
+    "id": "imported-1784262294686-1",
     "matchName": "3rd ODI New Zealand vs West Indies",
     "sportType": "Cricket",
     "league": "Nz vs Wi",
@@ -64,16 +43,11 @@
         "name": "Server 2",
         "url": "https://bd-mc-flive.fancode.com/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784325906~_GO=Generated~acl=/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/*~Signature=AeRM5cUjVu3Xr7FC4eFZpOdwH68WBYBpnA1mf34gnoVr8EwrfX-VMvdKNTPzHpqQhMfqYHF3eQK-92PXjhzfz4gYPo8P|drmScheme=clearkey",
         "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|drmScheme=clearkey",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784250243498-3",
+    "id": "imported-1784262294686-2",
     "matchName": "MLC T20",
     "sportType": "Cricket",
     "league": "Major League Cricket",
@@ -81,7 +55,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/mlc-t20/logo.webp",
     "awayTeamName": "Major League Cricket",
     "awayTeamLogo": "https://cdn.img4every1.org/team/major-league-cricket/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "07:30 AM 17/07/2026",
     "link": "",
@@ -94,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1784250243498-4",
+    "id": "imported-1784262294686-3",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
@@ -115,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1784250243498-5",
+    "id": "imported-1784262294686-4",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -136,7 +110,7 @@
     ]
   },
   {
-    "id": "imported-1784250243498-6",
+    "id": "imported-1784262294686-5",
     "matchName": "T20 Blast 2026",
     "sportType": "Cricket",
     "league": "Vitality T20 Blast",
