@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784493840994-0",
+    "id": "imported-1784496975082-0",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1784493840994-1",
+    "id": "imported-1784496975082-1",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1784493840994-2",
+    "id": "imported-1784496975082-2",
     "matchName": "4th ODI West Indies vs New Zealand",
     "sportType": "Cricket",
     "league": "Nz vs Wi",
@@ -83,11 +83,6 @@
       {
         "name": "Server 6",
         "url": "https://hoofoot.ru/stream/NTk4|Referer=https://hoofoot.ru&Origin=https://hoofoot.ru&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 7",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|drmScheme=clearkey",
         "isPrimary": false
       }
     ]
