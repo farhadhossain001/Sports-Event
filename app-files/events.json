@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784456805209-0",
+    "id": "imported-1784461003501-0",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1784456805209-1",
+    "id": "imported-1784461003501-1",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -48,11 +48,16 @@
         "name": "Server 3",
         "url": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|drmScheme=clearkey",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784456805209-2",
+    "id": "imported-1784461003501-2",
     "matchName": "3rd ODI India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -79,11 +84,16 @@
         "name": "Server 3",
         "url": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|drmScheme=clearkey",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784456805209-3",
+    "id": "imported-1784461003501-3",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
@@ -97,14 +107,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784541906~_GO=Generated~acl=/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/*~Signature=AeRM5cVztWRZi_a--T4iKUjyWly302pHopuVB5Og5TbbzpifUSxfrTv0VMtzCrBkdZTle6RQ9pfcghURTXv5sqB3Na4F",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|drmScheme=clearkey",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784456805209-4",
+    "id": "imported-1784461003501-4",
     "matchName": "4th ODI West Indies vs New Zealand",
     "sportType": "Cricket",
     "league": "Nz vs Wi",
