@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784490789286-0",
+    "id": "imported-1784493840994-0",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1784490789286-1",
+    "id": "imported-1784493840994-1",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1784490789286-2",
+    "id": "imported-1784493840994-2",
     "matchName": "4th ODI West Indies vs New Zealand",
     "sportType": "Cricket",
     "league": "Nz vs Wi",
@@ -87,11 +87,6 @@
       },
       {
         "name": "Server 7",
-        "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODQ0OTQ4MTQwNjE6Y2RubGl2ZXR2LnR2OjkzODY2MDk5YTUzZDhiMWIuZmZhNjAzMTVlMTYyZTc0NjM1NTMwNTQ2MmFiZjBkMGY5NGYzMWM1NDExMDgwZGI5M2Y4NmMwOWNlZjNlMTEwNg|Referer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free&Origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 8",
         "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|drmScheme=clearkey",
         "isPrimary": false
       }
