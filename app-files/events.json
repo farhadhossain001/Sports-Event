@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784464567857-0",
+    "id": "imported-1784470326763-0",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1784464567857-1",
+    "id": "imported-1784470326763-1",
     "matchName": "India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -29,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "England",
     "awayTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "03:30 PM 19/07/2026",
     "link": "",
@@ -41,23 +41,13 @@
       },
       {
         "name": "Server 2",
-        "url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
         "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|drmScheme=clearkey",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784464567857-2",
+    "id": "imported-1784470326763-2",
     "matchName": "3rd ODI India vs England",
     "sportType": "Cricket",
     "league": "India vs England",
@@ -65,7 +55,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "England",
     "awayTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "04:00 PM 19/07/2026",
     "link": "",
@@ -77,23 +67,13 @@
       },
       {
         "name": "Server 2",
-        "url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
         "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|drmScheme=clearkey",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784464567857-3",
+    "id": "imported-1784470326763-3",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ban vs Zim",
@@ -101,7 +81,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
     "awayTeamName": "Zimbabwe",
     "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "04:30 PM 19/07/2026",
     "link": "",
@@ -119,7 +99,7 @@
     ]
   },
   {
-    "id": "imported-1784464567857-4",
+    "id": "imported-1784470326763-4",
     "matchName": "4th ODI West Indies vs New Zealand",
     "sportType": "Cricket",
     "league": "Nz vs Wi",
@@ -133,9 +113,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/143606_english_hls_da7fa7ed2c55813_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784554625~_GO=Generated~acl=/mumbai/143606_english_hls_da7fa7ed2c55813_1ta-di_h264/*~Signature=AeRM5cXmggTPPuA-hzjENficIncSm2NVWRf03GuOp4qt8nU05ijXpU202AzndU7P5VSuLYFUovdE4ad7kFrrALuVWmcM",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.41/hls/DADADAQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   }
