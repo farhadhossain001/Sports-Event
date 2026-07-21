@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1784659735833-0",
-    "matchName": "Nepal vs Namibia",
-    "sportType": "Cricket",
-    "league": "ODI Match",
-    "homeTeamName": "Nepal",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
-    "awayTeamName": "Namibia",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/namibia/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "03:00 PM 21/07/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1784659735833-1",
+    "id": "imported-1784665069149-0",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -29,7 +8,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/lanka-premier-league-2026/logo.webp",
     "awayTeamName": "Lpl",
     "awayTeamLogo": "https://cdn.img4every1.org/team/lpl/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "08:00 PM 21/07/2026",
     "link": "",
@@ -42,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1784659735833-2",
+    "id": "imported-1784665069149-1",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -50,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/the-hundred-2026/logo.webp",
     "awayTeamName": "The Hundred",
     "awayTeamLogo": "https://cdn.img4every1.org/team/the-hundred/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "11:00 PM 21/07/2026",
     "link": "",
@@ -63,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1784659735833-3",
+    "id": "imported-1784665069149-2",
     "matchName": "5th ODI West Indies vs New Zealand",
     "sportType": "Cricket",
     "league": "Nz vs Wi",
@@ -71,20 +50,60 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
     "awayTeamName": "New Zealand",
     "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "12:30 AM 22/07/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ2Njc2MjE5ODI6Y2RubGl2ZXR2LnR2OjEzOGI2ODkyZjA1MzljZmMuNmFjNzA1YjBmNDY4ZDE5NmZkZTcxNGNiNGQ3NDhmZmZjMjE0MzAxMzg5NDdmNDNhZGFhMjE1NmY1NTY1ZjllYg|Referer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free&Origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784743503~_GO=Generated~acl=/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/*~Signature=AeouRp4h_0MGvEayNW0jRVtJa5sryeBb4Zn3Z5IWte2WqW9bEOnOIKuBhwPWBT_8gICdzQ6EDk2pYQFFSEjOqbD6ZsIF",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://hoofoot.ru/stream/NTg5|Referer=https://hoofoot.ru&Origin=https://hoofoot.ru&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://hoofoot.ru/stream/MzY4|Referer=https://hoofoot.ru&Origin=https://hoofoot.ru&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://hoofoot.ru/stream/NDEy|Referer=https://hoofoot.ru&Origin=https://hoofoot.ru&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://hoofoot.ru/stream/MzE=|Referer=https://hoofoot.ru&Origin=https://hoofoot.ru&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 6",
+        "url": "https://hoofoot.ru/stream/MzQ2|Referer=https://hoofoot.ru&Origin=https://hoofoot.ru&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 7",
+        "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ2Njc2MjE5ODI6Y2RubGl2ZXR2LnR2OjEzOGI2ODkyZjA1MzljZmMuNmFjNzA1YjBmNDY4ZDE5NmZkZTcxNGNiNGQ3NDhmZmZjMjE0MzAxMzg5NDdmNDNhZGFhMjE1NmY1NTY1ZjllYg|Referer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free&Origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 8",
+        "url": "http://193.47.62.41/hls/BGBGBG.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 9",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|drmScheme=clearkey",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784659735833-4",
+    "id": "imported-1784665069149-3",
     "matchName": "India vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ind vs Zim",
