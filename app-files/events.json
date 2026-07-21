@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784635188533-0",
+    "id": "imported-1784643186367-0",
     "matchName": "Nepal vs Namibia",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -8,20 +8,25 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
     "awayTeamName": "Namibia",
     "awayTeamLogo": "https://cdn.img4every1.org/team/namibia/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "03:00 PM 21/07/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://bd-mc-flive.fancode.com/mumbai/4246703_english_hls_88f844cf1d98968_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784709842~_GO=Generated~acl=/mumbai/4246703_english_hls_88f844cf1d98968_1ta-di_h264/*~Signature=AeouRp6d94JOwJ4Mttu8KTomDCcy9qpRcfKGNpti4GnYGrrXN6gqjAy2wb4Kt8QwlpP8WCGSZ3ai5JnDp1JAbUzvDRoG",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/4246703_english_hls_88f844cf1d98968_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784727843~_GO=Generated~acl=/mumbai/4246703_english_hls_88f844cf1d98968_1ta-di_h264/*~Signature=AeouRp5G5WNoIIkI0WANSyuA5w6Nh5AHRGQ27XRrUv2FIJsAkWVmQALQ3ojA3GTTWdriUczVjwfhgkwLWvYNmVzzxaAN",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/4246703_english_hls_88f844cf1d98968_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784709842~_GO=Generated~acl=/mumbai/4246703_english_hls_88f844cf1d98968_1ta-di_h264/*~Signature=AeouRp6d94JOwJ4Mttu8KTomDCcy9qpRcfKGNpti4GnYGrrXN6gqjAy2wb4Kt8QwlpP8WCGSZ3ai5JnDp1JAbUzvDRoG|drmScheme=clearkey",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784635188533-1",
+    "id": "imported-1784643186367-1",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -42,7 +47,7 @@
     ]
   },
   {
-    "id": "imported-1784635188533-2",
+    "id": "imported-1784643186367-2",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -63,7 +68,28 @@
     ]
   },
   {
-    "id": "imported-1784635188533-3",
+    "id": "imported-1784643186367-3",
+    "matchName": "5th ODI West Indies vs New Zealand",
+    "sportType": "Cricket",
+    "league": "Nz vs Wi",
+    "homeTeamName": "West Indies",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
+    "awayTeamName": "New Zealand",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:30 AM 22/07/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1784643186367-4",
     "matchName": "India vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ind vs Zim",
