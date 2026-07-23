@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784807512596-0",
+    "id": "imported-1784814780102-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784836253~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ec8666adf9aff8b3b51f9cd7ce2fc7f949833915adf91c1ee4fce1e98871852",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1784807512596-1",
+    "id": "imported-1784814780102-1",
     "matchName": "Nepal vs Netherlands",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -29,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
     "awayTeamName": "Netherlands",
     "awayTeamLogo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "03:00 PM 23/07/2026",
     "link": "",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1784807512596-2",
+    "id": "imported-1784814780102-2",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -50,7 +50,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/lanka-premier-league-2026/logo.webp",
     "awayTeamName": "Lpl",
     "awayTeamLogo": "https://cdn.img4every1.org/team/lpl/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "03:30 PM 23/07/2026",
     "link": "",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1784807512596-3",
+    "id": "imported-1784814780102-3",
     "matchName": "India vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ind vs Zim",
@@ -71,20 +71,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "Zimbabwe",
     "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "04:30 PM 23/07/2026",
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.55/hls/FEEE.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1784807512596-4",
+    "id": "imported-1784814780102-4",
     "matchName": "India vs Zimbabwe 1st T20",
     "sportType": "Cricket",
     "league": "Ind vs Zim",
@@ -92,7 +92,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "Zimbabwe 1st T20",
     "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe-1st-t20/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:00 PM 23/07/2026",
     "link": "",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1784807512596-5",
+    "id": "imported-1784814780102-5",
     "matchName": "Global Super League T20",
     "sportType": "Cricket",
     "league": "Gsl T20",
@@ -113,7 +113,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/global-super-league-t20/logo.webp",
     "awayTeamName": "Gsl T20",
     "awayTeamLogo": "https://cdn.img4every1.org/team/gsl-t20/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "07:45 PM 23/07/2026",
     "link": "",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "id": "imported-1784807512596-6",
+    "id": "imported-1784814780102-6",
     "matchName": "Lahore Qalandars vs Perth Scorchers",
     "sportType": "Cricket",
     "league": "Gsl T20",
@@ -140,14 +140,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ4MjI0MTUwODM6Y2RubGl2ZXR2LnR2OmNhZjFkNzI4Zjg0ZWRjZjAuZGRlZTNiZDBmN2NlYWU4ZWFlN2E5YjU0NWQ2NGMyNDE2Nzg2OTMzNTIwNjlmYzFlNzdiZmVkNzYwNDA1NDkzNw|Referer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free&Origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1784807512596-7",
+    "id": "imported-1784814780102-7",
     "matchName": "Guyana Amazon Warriors vs San Francisco Unicorns",
     "sportType": "Cricket",
     "league": "Gsl T20",
