@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784827238653-0",
+    "id": "imported-1784832313757-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784853196~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5e665bce3e390e6109403f34b4b69450d847773afacba1f155b9de435c0ab0ec",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1784827238653-1",
+    "id": "imported-1784832313757-1",
     "matchName": "Nepal vs Netherlands",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -35,14 +35,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8|drmScheme=clearkey",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1784827238653-2",
+    "id": "imported-1784832313757-2",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1784827238653-3",
+    "id": "imported-1784832313757-3",
     "matchName": "India vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ind vs Zim",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1784827238653-4",
+    "id": "imported-1784832313757-4",
     "matchName": "India vs Zimbabwe 1st T20",
     "sportType": "Cricket",
     "league": "Ind vs Zim",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1784827238653-5",
+    "id": "imported-1784832313757-5",
     "matchName": "Global Super League T20",
     "sportType": "Cricket",
     "league": "Gsl T20",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "id": "imported-1784827238653-6",
+    "id": "imported-1784832313757-6",
     "matchName": "Lahore Qalandars vs Perth Scorchers",
     "sportType": "Cricket",
     "league": "Gsl T20",
@@ -141,13 +141,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://bd-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8",
+        "url": "https://bd-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8|drmScheme=clearkey",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1784827238653-7",
+    "id": "imported-1784832313757-7",
     "matchName": "Guyana Amazon Warriors vs San Francisco Unicorns",
     "sportType": "Cricket",
     "league": "Gsl T20",
