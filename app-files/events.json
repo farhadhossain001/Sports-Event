@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784877444745-0",
+    "id": "imported-1784886214591-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1784877444745-1",
+    "id": "imported-1784886214591-1",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1784877444745-2",
+    "id": "imported-1784886214591-2",
     "matchName": "Global Super League T20",
     "sportType": "Cricket",
     "league": "Gsl T20",
@@ -63,28 +63,7 @@
     ]
   },
   {
-    "id": "imported-1784877444745-3",
-    "matchName": "Guyana Amazon Warriors vs San Francisco Unicorns",
-    "sportType": "Cricket",
-    "league": "Gsl T20",
-    "homeTeamName": "Guyana Amazon Warriors",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/guyana-amazon-warriors/logo.webp",
-    "awayTeamName": "San Francisco Unicorns",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/san-francisco-unicorns/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "05:00 AM 24/07/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "https://bd-mc-pdlive.fancode.com/mumbai/4247439_english_hls_6256e199d474694_1ta-di_h264/index.m3u8|drmScheme=clearkey",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1784877444745-4",
+    "id": "imported-1784886214591-3",
     "matchName": "India vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ind vs Zim",
@@ -105,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1784877444745-5",
+    "id": "imported-1784886214591-4",
     "matchName": "Pakistan vs West Indies 1st Test",
     "sportType": "Cricket",
     "league": "Pak vs Wi",
