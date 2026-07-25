@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1784953652457-0",
+    "id": "imported-1784961549148-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1784953652457-1",
+    "id": "imported-1784961549148-1",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1784953652457-2",
+    "id": "imported-1784961549148-2",
     "matchName": "India vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Ind vs Zim",
@@ -56,14 +56,49 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|drmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|drmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|drmScheme=clearkey&drmLicense=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://du63lhrf9y1yb.cloudfront.net/143351_hindi_hls_e275e99cda1596_1ta-di_h264/index.m3u8|drmScheme=clearkey",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://du63lhrf9y1yb.cloudfront.net/143351_english_hls_e275e99cda1596_1ta-di_h264/index.m3u8|drmScheme=clearkey",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 6",
+        "url": "https://bd-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8|drmScheme=clearkey",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 7",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|drmScheme=clearkey",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 8",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|drmScheme=clearkey",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1784953652457-3",
+    "id": "imported-1784961549148-3",
     "matchName": "Pakistan vs West Indies 1st Test",
     "sportType": "Cricket",
     "league": "Pak vs Wi",
@@ -84,7 +119,7 @@
     ]
   },
   {
-    "id": "imported-1784953652457-4",
+    "id": "imported-1784961549148-4",
     "matchName": "Global Super League T20",
     "sportType": "Cricket",
     "league": "Gsl T20",
