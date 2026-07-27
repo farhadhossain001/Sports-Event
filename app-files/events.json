@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1785138595096-0",
+    "id": "imported-1785151122275-0",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1785138595096-1",
+    "id": "imported-1785151122275-1",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1785138595096-2",
+    "id": "imported-1785151122275-2",
     "matchName": "Pakistan vs West Indies 1st Test",
     "sportType": "Cricket",
     "league": "Pak vs Wi",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1785138595096-3",
+    "id": "imported-1785151122275-3",
     "matchName": "Global Super League T20",
     "sportType": "Cricket",
     "league": "Gsl T20",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1785138595096-4",
+    "id": "imported-1785151122275-4",
     "matchName": "Nepal vs Namibia",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -92,14 +92,14 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
     "awayTeamName": "Namibia",
     "awayTeamLogo": "https://cdn.img4every1.org/team/namibia/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "03:00 PM 27/07/2026",
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://bd-mc-pdlive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8",
         "isPrimary": true
       }
     ]
