@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1785338914590-0",
+    "id": "imported-1785343864917-0",
     "matchName": "Pakistan vs West Indies 1st Test",
     "sportType": "Cricket",
     "league": "Pak vs Wi",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1785338914590-1",
+    "id": "imported-1785343864917-1",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -36,18 +36,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785354641~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3e0609cb62f89e47c5a5e9df09b1d8a2e38f27a0285ad3d150c5e6f2478134a0",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785354649~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cfb39e62dd6d13da6b3afcb173736e3925402e19056ceef245c278c78bc231d7",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1785338914590-2",
+    "id": "imported-1785343864917-2",
     "matchName": "Global Super League T20",
     "sportType": "Cricket",
     "league": "Gsl T20",
@@ -68,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1785338914590-3",
+    "id": "imported-1785343864917-3",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -89,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1785338914590-4",
+    "id": "imported-1785343864917-4",
     "matchName": "Nepal vs Netherlands",
     "sportType": "Cricket",
     "league": "ODI Match",
