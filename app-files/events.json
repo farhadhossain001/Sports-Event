@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1785601797564-0",
+    "id": "imported-1785605671800-0",
     "matchName": "Global Super League T20",
     "sportType": "Cricket",
     "league": "Gsl T20",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1785601797564-1",
+    "id": "imported-1785605671800-1",
     "matchName": "Asian Legends League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1785601797564-2",
+    "id": "imported-1785605671800-2",
     "matchName": "Delhi Premier League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1785601797564-3",
+    "id": "imported-1785605671800-3",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -78,18 +78,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785612403~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fac3eb6ec366d3e76b583f12add2f31ce7dc160a5312112e66c364388c518f59",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-WFML/master.m3u8?hdnea=exp=1785624662~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b903539d51b387139d920355e68ebf045a96f96f5f9e080b7b2c666fbe4ccf1b",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785612412~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aeba811200ace3bfd717ea114674d906a85fc7541e343d5e5dd8edc5adaf23c7",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1785601797564-4",
+    "id": "imported-1785605671800-4",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -110,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1785601797564-5",
+    "id": "imported-1785605671800-5",
     "matchName": "Pakistan vs West Indies 2nd Test",
     "sportType": "Cricket",
     "league": "Pak vs Wi",
