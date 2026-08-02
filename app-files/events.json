@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1785672999696-0",
+    "id": "imported-1785679644065-0",
     "matchName": "Asian Legends League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1785672999696-1",
+    "id": "imported-1785679644065-1",
     "matchName": "Delhi Premier League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1785672999696-2",
+    "id": "imported-1785679644065-2",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -56,14 +56,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785685844~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e033e7dcb4640bf174132c51b67288b419aeef2aebb845dd47d711bfdc387542",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1785672999696-3",
+    "id": "imported-1785679644065-3",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -77,14 +77,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/etcdsema5u/out/v1/6891f90908694c718495bfe005e07392/cenc.mpd?aws.sessionId=95ea5b9b-0b00-4899-8cbb-163606be7155|drmScheme=clearkey&drmLicense=54bfa3c834811c007885354912593547:65cabf948613b32d83d14179670f7a13",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1785672999696-4",
+    "id": "imported-1785679644065-4",
     "matchName": "Pakistan vs West Indies 2nd Test",
     "sportType": "Cricket",
     "league": "Pak vs Wi",
