@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1785679644065-0",
+    "id": "imported-1785683976569-0",
     "matchName": "Asian Legends League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1785679644065-1",
+    "id": "imported-1785683976569-1",
     "matchName": "Delhi Premier League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1785679644065-2",
+    "id": "imported-1785683976569-2",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -56,14 +56,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785703836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0b24ebd117f7400db8837d2061d0bcfc9397ae42973270027f03a1a1d252511c",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785703849~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=99c28a0c7b791012a4edd68d967c2951418ac7780420ccf29150105f0c2c5b09",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1785679644065-3",
+    "id": "imported-1785683976569-3",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -78,13 +83,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/etcdsema5u/out/v1/6891f90908694c718495bfe005e07392/cenc.mpd?aws.sessionId=95ea5b9b-0b00-4899-8cbb-163606be7155|drmScheme=clearkey&drmLicense=54bfa3c834811c007885354912593547:65cabf948613b32d83d14179670f7a13",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/2cfg2bnfy2/out/v1/e04f7be270f345f7b9712c6d619c9cc5/cenc.mpd|drmScheme=clearkey&drmLicense=54bfa3c834811c007885354912593547:65cabf948613b32d83d14179670f7a13",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1785679644065-4",
+    "id": "imported-1785683976569-4",
     "matchName": "Pakistan vs West Indies 2nd Test",
     "sportType": "Cricket",
     "league": "Pak vs Wi",
