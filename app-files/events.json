@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1785763514774-0",
+    "id": "imported-1785772904953-0",
     "matchName": "Asian Legends League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1785763514774-1",
+    "id": "imported-1785772904953-1",
     "matchName": "Delhi Premier League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1785763514774-2",
+    "id": "imported-1785772904953-2",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -56,14 +56,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785786641~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=711c048e122274ac23c3ffb39a3b0766085ec4be25684362bb23825053d4b4b2",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1785763514774-3",
+    "id": "imported-1785772904953-3",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1785763514774-4",
+    "id": "imported-1785772904953-4",
     "matchName": "Pakistan vs West Indies 2nd Test",
     "sportType": "Cricket",
     "league": "Pak vs Wi",
@@ -95,6 +95,27 @@
     "isLive": true,
     "isHot": false,
     "startTime": "08:00 PM 02/08/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1785772904953-5",
+    "matchName": "1st ODI Afghanistan vs Ireland",
+    "sportType": "Cricket",
+    "league": "Afg vs Irl",
+    "homeTeamName": "Afghanistan",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+    "awayTeamName": "Ireland",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "03:45 PM 05/08/2026",
     "link": "",
     "streams": [
       {
