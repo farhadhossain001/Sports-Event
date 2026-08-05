@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1785948043075-0",
+    "id": "imported-1785953455956-0",
     "matchName": "Pakistan vs West Indies 2nd Test",
     "sportType": "Cricket",
     "league": "Pak vs Wi",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1785948043075-1",
+    "id": "imported-1785953455956-1",
     "matchName": "Delhi Premier League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1785948043075-2",
+    "id": "imported-1785953455956-2",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -57,13 +57,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qlfjlgeaxh/out/v1/9b5a56804ead44f1983d7abba2cdfe44/cenc.mpd|drmScheme=clearkey&drmLicense=1e6728d7cde921927aac8b68b38273da:8f218d41cf6a64179ff1f2a9d3b4190f",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qlfjlgeaxh/out/v1/9b5a56804ead44f1983d7abba2cdfe44/cenc.mpd|drmScheme=clearkey&drmLicense=1e6728d7cde921927aac8b68b38273da:8f218d41cf6a64179ff1f2a9d3b4190f",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1785948043075-3",
+    "id": "imported-1785953455956-3",
     "matchName": "1st ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1785948043075-4",
+    "id": "imported-1785953455956-4",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -99,13 +99,8 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785959434~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=15633e402da39f4a689bcdb9b7d9e3dd55e0ef656ea43320fb30c495bd1efa4f",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-MTRBP/master.m3u8?hdnea=exp=1785972034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f8bd57d48de8aad25547a1f054f8beb209472880e2bffe6a7a81a745148c2e42",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WTRBP/master.m3u8?hdnea=exp=1785959443~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7ffbe6cfab971f6029245425d5346c824aa886db04b4faf53d83da2462fb874a",
-        "isPrimary": false
       }
     ]
   }
