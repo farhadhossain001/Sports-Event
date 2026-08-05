@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1785924367731-0",
+    "id": "imported-1785932160396-0",
     "matchName": "Asian Legends League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1785924367731-1",
+    "id": "imported-1785932160396-1",
     "matchName": "Delhi Premier League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1785924367731-2",
+    "id": "imported-1785932160396-2",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -56,14 +56,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785946835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=edb4d927c32b1de524ab82114a3116fe574bcb750a7f1cffc88d35b8646a8275",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1785924367731-3",
+    "id": "imported-1785932160396-3",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -78,13 +78,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/h1kfxvwp9c/out/v1/2899320e61bb4d218ccb5bf704c27cc2/cenc.mpd|drmScheme=clearkey&drmLicense=595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c",
+        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/h1kfxvwp9c/out/v1/2899320e61bb4d218ccb5bf704c27cc2/cenc.mpd|drmScheme=clearkey&drmLicense=595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1785924367731-4",
+    "id": "imported-1785932160396-4",
     "matchName": "Pakistan vs West Indies 2nd Test",
     "sportType": "Cricket",
     "league": "Pak vs Wi",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1785924367731-5",
+    "id": "imported-1785932160396-5",
     "matchName": "1st ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
@@ -122,11 +122,6 @@
         "name": "Server 1",
         "url": "https://bd-mc-pdlive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mpk9tjbvih/out/v1/6e9b46389891440b856e60332a2b432f/cenc.mpd|drmScheme=clearkey&drmLicense=6bba14af87d4c612d2374935291b33bd:6ac0fef8b7181dac3862a82bc491cc1a",
-        "isPrimary": false
       }
     ]
   }
