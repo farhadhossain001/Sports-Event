@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1785914274141-0",
+    "id": "imported-1785924367731-0",
     "matchName": "Asian Legends League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1785914274141-1",
+    "id": "imported-1785924367731-1",
     "matchName": "Delhi Premier League",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1785914274141-2",
+    "id": "imported-1785924367731-2",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1785914274141-3",
+    "id": "imported-1785924367731-3",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -77,14 +77,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/h1kfxvwp9c/out/v1/2899320e61bb4d218ccb5bf704c27cc2/cenc.mpd|drmScheme=clearkey&drmLicense=595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1785914274141-4",
+    "id": "imported-1785924367731-4",
     "matchName": "Pakistan vs West Indies 2nd Test",
     "sportType": "Cricket",
     "league": "Pak vs Wi",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1785914274141-5",
+    "id": "imported-1785924367731-5",
     "matchName": "1st ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
@@ -119,9 +119,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://bd-mc-pdlive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mpk9tjbvih/out/v1/6e9b46389891440b856e60332a2b432f/cenc.mpd|drmScheme=clearkey&drmLicense=6bba14af87d4c612d2374935291b33bd:6ac0fef8b7181dac3862a82bc491cc1a",
+        "isPrimary": false
       }
     ]
   }
