@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786093991186-0",
+    "id": "imported-1786097410259-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1786093991186-1",
+    "id": "imported-1786097410259-1",
     "matchName": "2nd ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
@@ -35,14 +35,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786183367-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-641b4851009618ef774d9371ba556973|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd|drmScheme=clearkey&drmLicense=400e3a6fbb3142beda746fc6ab908dbd:596117ca9b94249b73d0fba6060aac8b",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786093991186-2",
+    "id": "imported-1786097410259-2",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -63,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1786093991186-3",
+    "id": "imported-1786097410259-3",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -84,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1786093991186-4",
+    "id": "imported-1786097410259-4",
     "matchName": "Falcons vs Kingsmen",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
