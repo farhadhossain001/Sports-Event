@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786126256104-0",
+    "id": "imported-1786130112200-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1786126256104-1",
+    "id": "imported-1786130112200-1",
     "matchName": "India vs SLC",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -42,28 +42,7 @@
     ]
   },
   {
-    "id": "imported-1786126256104-2",
-    "matchName": "2nd ODI Afghanistan vs Ireland",
-    "sportType": "Cricket",
-    "league": "Afg vs Ire",
-    "homeTeamName": "Afghanistan",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
-    "awayTeamName": "Ireland",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "03:45 PM 07/08/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd|drmScheme=clearkey&drmLicense=400e3a6fbb3142beda746fc6ab908dbd:596117ca9b94249b73d0fba6060aac8b",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1786126256104-3",
+    "id": "imported-1786130112200-2",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -71,20 +50,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/lanka-premier-league-2026/logo.webp",
     "awayTeamName": "Lpl",
     "awayTeamLogo": "https://cdn.img4every1.org/team/lpl/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "08:00 PM 07/08/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/faytpc7cfl/out/v1/0ebd7ee78eb54076a7f1450458ba98a3/cenc.mpd|drmScheme=clearkey&drmLicense=c50d7c2fe1b774066ff219b377fe7573:b9062e22eb7e3b6f393d7c558b5ade3f",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1786126256104-4",
+    "id": "imported-1786130112200-3",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -105,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1786126256104-5",
+    "id": "imported-1786130112200-4",
     "matchName": "Falcons vs Kingsmen",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
