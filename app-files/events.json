@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786103824181-0",
+    "id": "imported-1786108152887-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -21,7 +21,28 @@
     ]
   },
   {
-    "id": "imported-1786103824181-1",
+    "id": "imported-1786108152887-1",
+    "matchName": "India vs SLC",
+    "sportType": "Cricket",
+    "league": "Ind vs Sl",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "SLC",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/slc/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "10:00 AM 07/08/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1786108152887-2",
     "matchName": "2nd ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
@@ -29,25 +50,25 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
     "awayTeamName": "Ireland",
     "awayTeamLogo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "03:45 PM 07/08/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786189652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f8836087ef9430d28bed9bdb7d1a3a15|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786194156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f446710245528c5d08f1a5cf895cff21|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd|drmScheme=clearkey&drmLicense=400e3a6fbb3142beda746fc6ab908dbd:596117ca9b94249b73d0fba6060aac8b",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd|drmScheme=clearkey&drmLicense=400e3a6fbb3142beda746fc6ab908dbd:596117ca9b94249b73d0fba6060aac8b",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786103824181-2",
+    "id": "imported-1786108152887-3",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -68,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1786103824181-3",
+    "id": "imported-1786108152887-4",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -89,7 +110,7 @@
     ]
   },
   {
-    "id": "imported-1786103824181-4",
+    "id": "imported-1786108152887-5",
     "matchName": "Falcons vs Kingsmen",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
