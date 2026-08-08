@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786158515863-0",
+    "id": "imported-1786162900697-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1786158515863-1",
+    "id": "imported-1786162900697-1",
     "matchName": "India vs SLC",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -35,14 +35,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786182630~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1135901d0c017e60c627d08b675efce68dbd5a5568b235aa9feebdf90ecf0a0d",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1786158515863-2",
+    "id": "imported-1786162900697-2",
     "matchName": "Lanka Premier League 2026",
     "sportType": "Cricket",
     "league": "Lpl",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1786158515863-3",
+    "id": "imported-1786162900697-3",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -78,13 +78,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpbktoimpn/out/v1/37b2c6133804491186aff2febea42f0e/cenc.mpd|drmScheme=clearkey&drmLicense=12b02d4beb3c9e98acaca0233a05b91b:498f083b126ee50aaff547940d883724",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpbktoimpn/out/v1/37b2c6133804491186aff2febea42f0e/cenc.mpd|drmScheme=clearkey&drmLicense=12b02d4beb3c9e98acaca0233a05b91b:498f083b126ee50aaff547940d883724",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1786158515863-4",
+    "id": "imported-1786162900697-4",
     "matchName": "Falcons vs Kingsmen",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -99,7 +99,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpbktoimpn/out/v1/37b2c6133804491186aff2febea42f0e/cenc.mpd|drmScheme=clearkey&drmLicense=12b02d4beb3c9e98acaca0233a05b91b:498f083b126ee50aaff547940d883724",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpbktoimpn/out/v1/37b2c6133804491186aff2febea42f0e/cenc.mpd|drmScheme=clearkey&drmLicense=12b02d4beb3c9e98acaca0233a05b91b:498f083b126ee50aaff547940d883724",
         "isPrimary": true
       }
     ]
