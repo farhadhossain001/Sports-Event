@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786293120644-0",
+    "id": "imported-1786295632441-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -15,18 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786303247~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=243f0bf663bdda0f67ebff0f6174935082ca4c1922012554318dc5c648c956d1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-MTRBP/master.m3u8?hdnea=exp=1786315830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=879feee809f71df02ec3ccf4112eb11b850dbeb035d27ec498a102ca55e19342",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786303254~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d25ad047d93dc99a383ac564a92246c0875e0a9da3238900edccc72dd9a0309d",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786293120644-1",
+    "id": "imported-1786295632441-1",
     "matchName": "India vs SLC",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -47,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1786293120644-2",
+    "id": "imported-1786295632441-2",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
