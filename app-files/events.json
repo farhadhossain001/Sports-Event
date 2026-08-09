@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786314516138-0",
+    "id": "imported-1786316490876-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1786314516138-1",
+    "id": "imported-1786316490876-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -35,14 +35,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wggd0kavgs/out/v1/3dd6c0550f904bde9d1dc1b59742e035/cenc.mpd|drmScheme=clearkey&drmLicense=ee7be87726ddb2707317c53d2359e012:075a609968f9052109f3c92982170396",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1786314516138-2",
+    "id": "imported-1786316490876-2",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1786314516138-3",
+    "id": "imported-1786316490876-3",
     "matchName": "Falcons vs Kings",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -78,13 +78,23 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.41/hls/EKKKA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786402077-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a01a92371c515d18c359636b2dcb6e7d|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.41/hls/EKKKA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wggd0kavgs/out/v1/3dd6c0550f904bde9d1dc1b59742e035/cenc.mpd|drmScheme=clearkey&drmLicense=ee7be87726ddb2707317c53d2359e012:075a609968f9052109f3c92982170396",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786314516138-4",
+    "id": "imported-1786316490876-4",
     "matchName": "3rd ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
