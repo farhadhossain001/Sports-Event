@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786383386459-0",
+    "id": "imported-1786386842869-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1786383386459-1",
+    "id": "imported-1786386842869-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1786383386459-2",
+    "id": "imported-1786386842869-2",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1786383386459-3",
+    "id": "imported-1786386842869-3",
     "matchName": "3rd ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
@@ -78,13 +78,8 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.41/hls/EOOOO.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ewgxa3j3d/out/v1/678c3d45170e407cab21ad7a0796ae2d/cenc.mpd|drmScheme=clearkey&drmLicense=d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4ewgxa3j3d/out/v1/678c3d45170e407cab21ad7a0796ae2d/cenc.mpd|drmScheme=clearkey&drmLicense=d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037",
-        "isPrimary": false
       }
     ]
   }
