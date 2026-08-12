@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786552554357-0",
+    "id": "imported-1786556532457-0",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -15,18 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WBPMI/master.m3u8?hdnea=exp=1786564264~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ef30285695c9fb11676b16c592fb48af5846b0593298d2a87a84368433893b1a",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-MBPMI/master.m3u8?hdnea=exp=1786576830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4bff79225e0826114970e0d137b1ab76a488cea976f287317e1ed52fe21e878a",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786564271~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d7cec12ba3e6f92b467c96ce5cd995ce8b7300ee008cf4f7e98aca40b1c0b3e1",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786552554357-1",
+    "id": "imported-1786556532457-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -47,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1786552554357-2",
+    "id": "imported-1786556532457-2",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -68,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1786552554357-3",
+    "id": "imported-1786556532457-3",
     "matchName": "4th ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
@@ -88,13 +83,13 @@
       },
       {
         "name": "Server 2",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd|drmScheme=clearkey&drmLicense=3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9",
+        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd|drmScheme=clearkey&drmLicense=3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786552554357-4",
+    "id": "imported-1786556532457-4",
     "matchName": "1st Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
