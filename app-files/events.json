@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786605899152-0",
+    "id": "imported-1786611045080-0",
     "matchName": "1st Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
@@ -15,28 +15,23 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786691856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6d598c41880aaad9292c89a564cc5bba|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.192/hls/NNNND.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "http://193.47.62.192/hls/NNNND.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
         "url": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/0/master_3000.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg|User-Agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36",
         "isPrimary": false
       },
       {
-        "name": "Server 4",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/myv7jssb9c/out/v1/65bfe5217f1a4af3b9956d756d22a8aa/cenc.mpd|drmScheme=clearkey&drmLicense=4c476ca9f8aefdae6cb0d420f4004a4d:cf88a53fadee1f756c5aba2e45928546",
+        "name": "Server 3",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myv7jssb9c/out/v1/65bfe5217f1a4af3b9956d756d22a8aa/cenc.mpd|drmScheme=clearkey&drmLicense=4c476ca9f8aefdae6cb0d420f4004a4d:cf88a53fadee1f756c5aba2e45928546",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786605899152-1",
+    "id": "imported-1786611045080-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -57,7 +52,7 @@
     ]
   },
   {
-    "id": "imported-1786605899152-2",
+    "id": "imported-1786611045080-2",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -78,7 +73,7 @@
     ]
   },
   {
-    "id": "imported-1786605899152-3",
+    "id": "imported-1786611045080-3",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -99,7 +94,7 @@
     ]
   },
   {
-    "id": "imported-1786605899152-4",
+    "id": "imported-1786611045080-4",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -120,7 +115,7 @@
     ]
   },
   {
-    "id": "imported-1786605899152-5",
+    "id": "imported-1786611045080-5",
     "matchName": "1st Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -141,7 +136,7 @@
     ]
   },
   {
-    "id": "imported-1786605899152-6",
+    "id": "imported-1786611045080-6",
     "matchName": "5th ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
