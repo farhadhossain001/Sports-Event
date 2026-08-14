@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786665498821-0",
+    "id": "imported-1786674332833-0",
     "matchName": "1st Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
@@ -15,13 +15,33 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/0/master_3000.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg|User-Agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786760278-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4714370124cc5549d161246a56a2b448|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.192/hls/NNNND.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/0/master_3000.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg|User-Agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://cdn-vip3.football77.org/vip3/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQWOFQbLkRtFSRCDkp8CxVdYgwJRmcXPwA_HEcXPglNIRdkQTwyWSg5Jn4SIH8KdCoHUXcbM3Y0IiBXXkZ0cG49QXwBLH10JxgGAGwqOQp5CSVhZg1sbz9aEhQUJX9dTyw5NVYsD1tlRBdmbU8YV0RJBG1GIDhca109QFcACGUPejEYV1YfcQ0XJgZWLQdqSDNgd1Q9Ml0qAR5UU1c1VEkGOQsGHi9HBhs3fGcoHWN3MT5_bE9mdws7bnlWNS15HCQfanw6BlQGHzpkUU4VbRY2InphM2xXaVhsf1ANFUJaJwkAeDkgDhQfBwVZShsAECUAf2cbGkAnGDBhU1EqURl8BnwBKCQGcCZhcE4oAlBzHytTUDodTT0MYkVNIQJFXB43KWkHJnE5JzBiTV1-fxVCYGNBH2x_bDkVX2QyFFxQeDgpfV0lYBgaGVxOAHpAZhggDE8kJlYJX2p7flQOZ3IaHjt2S3l1Lz1md3Ive3ZZFTl7Sx1sXR1cbBQUJRRwTB0ZLkNbDX90GnQAZw8JWEdVYHISHhsNDlQuAmo1L1QdEQVvBgx4VjkCZ0YTSjpzVCQ-WUFAH3cLLxBoaxMtQls6Ahx5S3l1FwweARQLHwlmHzsNdxgNfQ4aNWgQEzwHZQM1LnULeWcmIDwFbhI4C2w-HGx2QzZ9GyQ7Q3FVJ1JbDjIUfyd6XSE5E0JDGTpPEjhkd2NAM01tPChJbVEyQR17PT99KypbEjkoXUQyDXhsJ2FMFU4SQBE0A2RRJgUEaDAVEwciCXZ4MwlrUUB6UlAianhlHmJfFwcXW3M3KnVJLCkdWgUNU3kRHUFHDTp0QSRnRUshE0IUOQNFFSpyT3IBPRwDKCVYCTUzWk4NDW9vPCJCcAYia2xUP0NpVSVMXnw4CGEJeAYYM3QAYxMVfUUVHQFBNTxLD1wsfHwBJAJeGCEzcCcgXDcQNGAYKSNYTB0RfQFFEmEYChJEaiYcY2cgBi5hADNPMxIoWxUBBQtSEncGZhJmfiQ1A1JtBX4BaD0yYUZWM3wlGTtFbgIJXQZCEHsdRSQJLxgQFBQlEnFpfQFoCzY4QCU0O3hKMAF2SRg1AGAcNU4WLy4IdgYUXm85MRF-KgVSEA86YQRKCg0QJWJzQT9tdhoUG3pzVDxmQX4VaAorEUJ0HigBTjciTFETAlxRIwR6PDg7QmAWAXBFPR9pAAMoASo0ZQZZECMBTkJjRHIBP3oNXRdiURICT2cNRg1iJQ8DNAQ5eVEyDlNNQRwAHT8zCiYdClVTESFTXC4HEQMaDk0aJBp5S0A4AUQUa1tMFGdJHyYSAmlUA2R6AUBoVikSXBYjOAZUSyZTQRg4Bm8HEgAfIz5mH1YUAFwuIBJBNChHKgxnR3Q7fmhhFBREAUUWXjhUAH1nOyxUEiUpCFkUG2IEPgZHGQ4VbGUSGnATGiB1FggycFJRJ2NcfDwoBickDw4SNEtRDg18QhsVUGkUEUA2Oyh9QDIqT0l_JztSHzJTBhshdEsWI1EVOBcFYTRmTyQfb1JOVStQHCU7NmsaMlMiMgBbFDEiW08pHV1PDy1yMQxpaWMUBH5kDyEcYhZuBQIeBhcTPiJ9ThUGBEAtEw4wHzsDYRFzYh1wADIGHW4FAg4LU2wrK2htESZ2ZkUcCTpfOGZPRnR0cgoFHEUrAQMpLCNQbwB0VRoqOG1ILhoPaCxrX00nEVBleB4AChhuBQYlC1MQHiteEUYdXVYtFQ87GhdyQgoBck8RJiFnCDl0Mx9ldEkvBktIMhZ6fCENSyYVb1BzEg4HQX4JGgUcIVU3ERsKazwBV2cdF05LPwxKbCMAYWEBK1weITloACoDcHczKWsESg5gd0UaeXEmPksWWX8DYAYvdA96NXwBLAJeNgQDAnkKfQpMPyJZcycXYjkKInI&expires=1786676700&token=b64511e68a8cdfe070711c091131828f45d7f5e9d9f32871a28d85701d35830e|Referer=https://embedsport.live/&Origin=https://embedsport.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4h44dz4jjt/out/v1/5d50be7f265d49c398bd324160a2722a/cenc.mpd|drmScheme=clearkey&drmLicense=39940cfcd0fe9b262d3cf16a58cc23cf:790f0f14a81197fb17f31518cc23992e",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786665498821-1",
+    "id": "imported-1786674332833-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -29,20 +49,25 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
     "awayTeamName": "Caribbean Premier League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:00 AM 14/08/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dgly6ezivq/out/v1/e1748eea04034eb688b927e4ed47438c/cenc.mpd|drmScheme=clearkey&drmLicense=674390473f712ac5c75e5d3ea67277c2:aca500cdee918538beeb65b1c458fd67",
+        "url": "http://193.47.62.190/hls/DDDD.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dgly6ezivq/out/v1/e1748eea04034eb688b927e4ed47438c/cenc.mpd|drmScheme=clearkey&drmLicense=674390473f712ac5c75e5d3ea67277c2:aca500cdee918538beeb65b1c458fd67",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786665498821-2",
+    "id": "imported-1786674332833-2",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -63,7 +88,7 @@
     ]
   },
   {
-    "id": "imported-1786665498821-3",
+    "id": "imported-1786674332833-3",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
@@ -84,7 +109,7 @@
     ]
   },
   {
-    "id": "imported-1786665498821-4",
+    "id": "imported-1786674332833-4",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -105,7 +130,7 @@
     ]
   },
   {
-    "id": "imported-1786665498821-5",
+    "id": "imported-1786674332833-5",
     "matchName": "1st Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -126,7 +151,7 @@
     ]
   },
   {
-    "id": "imported-1786665498821-6",
+    "id": "imported-1786674332833-6",
     "matchName": "5th ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
