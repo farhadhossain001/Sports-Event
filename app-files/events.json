@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786820186115-0",
+    "id": "imported-1786821674904-0",
     "matchName": "1st Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1786820186115-1",
+    "id": "imported-1786821674904-1",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -36,18 +36,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://cdn5.zohanayaan.com:1686/hls/do12.m3u8?md5=ov-N9FtTM4XgogKw1QnVOA&expires=1786820494|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "https://cdn10.zohanayaan.com:1686/hls/do12.m3u8?md5=AqZJe1M-tw4YeWdCTMeBfA&expires=1786825886|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1786820186115-2",
+    "id": "imported-1786821674904-2",
     "matchName": "1st Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -62,18 +57,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://cdn5.zohanayaan.com:1686/hls/do12.m3u8?md5=ov-N9FtTM4XgogKw1QnVOA&expires=1786820494|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "https://cdn10.zohanayaan.com:1686/hls/do12.m3u8?md5=AqZJe1M-tw4YeWdCTMeBfA&expires=1786825886|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1786820186115-3",
+    "id": "imported-1786821674904-3",
     "matchName": "5th ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
@@ -94,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1786820186115-4",
+    "id": "imported-1786821674904-4",
     "matchName": "National Champions Cup 2026",
     "sportType": "Cricket",
     "league": "Domestic",
@@ -115,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1786820186115-5",
+    "id": "imported-1786821674904-5",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -136,7 +126,7 @@
     ]
   },
   {
-    "id": "imported-1786820186115-6",
+    "id": "imported-1786821674904-6",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -157,7 +147,7 @@
     ]
   },
   {
-    "id": "imported-1786820186115-7",
+    "id": "imported-1786821674904-7",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
