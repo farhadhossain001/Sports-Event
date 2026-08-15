@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786834011204-0",
+    "id": "imported-1786835900915-0",
     "matchName": "1st Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1786834011204-1",
+    "id": "imported-1786835900915-1",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -35,14 +35,24 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60e240d7f718fae49588d2/chunks.m3u8?is_vip=false&token=1786921423-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a6c8b28363e5171cfc021326d19c2ae|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60e240d7f718fae49588c1-backup/chunks.m3u8?is_vip=false&token=1786921424-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2844d293ec1d8d7b9474eaa3446f3014|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60e240d7f718fae49588c1/chunks.m3u8?is_vip=false&token=1786921425-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-227b27b638c78c21b6e8136091827d21|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786834011204-2",
+    "id": "imported-1786835900915-2",
     "matchName": "1st Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -56,14 +66,24 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60e240d7f718fae49588d2/chunks.m3u8?is_vip=false&token=1786921423-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a6c8b28363e5171cfc021326d19c2ae|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60e240d7f718fae49588c1-backup/chunks.m3u8?is_vip=false&token=1786921424-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2844d293ec1d8d7b9474eaa3446f3014|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60e240d7f718fae49588c1/chunks.m3u8?is_vip=false&token=1786921425-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-227b27b638c78c21b6e8136091827d21|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786834011204-3",
+    "id": "imported-1786835900915-3",
     "matchName": "5th ODI Afghanistan vs Ireland",
     "sportType": "Cricket",
     "league": "Afg vs Ire",
@@ -84,7 +104,7 @@
     ]
   },
   {
-    "id": "imported-1786834011204-4",
+    "id": "imported-1786835900915-4",
     "matchName": "National Champions Cup 2026",
     "sportType": "Cricket",
     "league": "Domestic",
@@ -105,7 +125,7 @@
     ]
   },
   {
-    "id": "imported-1786834011204-5",
+    "id": "imported-1786835900915-5",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -126,7 +146,7 @@
     ]
   },
   {
-    "id": "imported-1786834011204-6",
+    "id": "imported-1786835900915-6",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -147,7 +167,7 @@
     ]
   },
   {
-    "id": "imported-1786834011204-7",
+    "id": "imported-1786835900915-7",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
