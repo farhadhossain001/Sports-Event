@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1786849080927-0",
+    "id": "imported-1786852333909-0",
     "matchName": "1st Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
@@ -15,23 +15,33 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.192/hls/NNNND.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=1786938448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dd958803c4ffce52368f013c5ab58079|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/0/master_3000.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg|User-Agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36",
+        "url": "http://193.47.62.192/hls/NNNND.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/a5ho235pm6/out/v1/1c97371aa3014f0291ada5751a1e0d42/cenc.mpd|drmScheme=clearkey&drmLicense=1b103b7869788ae6748155df33f7b233:8b2e85a7f1e48f2f6263a3d337c655bc",
+        "url": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/0/master_3000.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg|User-Agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://embedsport.site/vip3/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSkVNRxcewV2W2EKDEl6FkQHIRlTFDEHOQQ-DH8yMBMYDhcNCgs8dBNGG1dPSCN0UVVgdhIBYncuVBVDQBkqXFx8IBB_WQ1VNjc0e0IANktPFzQFSwAmXysZNldgCXUCZSA2EWUaBE9lRBMKbDU9UVFCdwZmPQdBbCY5YhUNIldlLBswfBd6YAk1OVtSLiZeFB4BfxYCDHwTIzJYbAQifmEQEhxlHRkFED0fWVs-eElZJjZYEgQ7YB0uEAZ0AnZaQj1GaBZcDQABARJLZR8jCHYUBAUVMyZ_L1oUS0g2M2UTHwQtfgcqZQ8sP0dKOn9gGxkDDUglGWsuXx5Uf1c8BX9tQR9HFj5wMj4hWHJKHwtGEiJFQDQXfDAjGX1_Jy9jfCwRGn8JfVtwOBhZFS8kfWwZAnpQAg1RbwcLAlYpdkceGzQXBgAzUwIUF2AUGgNMdSMwekYGA1F7XxhlRzklAlJ6RDJVWw5dKCMAQE01PGNOBWNNYhINDD0BLnlTCxFzHgI6aXkmOXsJHyJTRwgWU2caGAdzD3EKHBkPYEAmDmIfJwIMcSluBQYBB3hiFAoIdjwnWlUvEW81Jm1JFDAJR0EeS2ALBCNUKz0ycFIaDXBrKgFOAUUScDoZG3xMK2MEbANKPUddEm8BMxx7eTY8DlMRJGNdO2J3aQBqA1JQYwRsMgc9agA7fBASFlURXX5_WTkAZR0fbHAXORJIFCEHYWIDQwpKNwZycRsHeGI3NGhrAncGYgI5HWwvNHIUMH5iQwQRPkMBIgQuQQJ7WREKVlI3J3YVExAADQppYE8Xd25ZDjobeC8cTRcAHwVvSS5-aEcoY2EmFVUWCwxIajE0V0VwJQpABhFyCRwQcXMoHHYTH2VuVgA_VBg0IFp-UQdHZgQnfAEsA392GxliTwE0dBQgCnYUJj0JGw8XB0UBKEwTBEodZj46XC0SBEB5OSVrTjoEWGM-ZHA_BitXExAIc35tQR9VWBwDBxwjdldNG3ATOGFeRT4jbxE6N2FEFWMEbDg5NkklIF0zJBQDahEOfAZCEExuMmZhDTV_A2QqDlETL0E1dj44eCIYYEZgARVgRzwYRk5OHH5sJzhlFjR2ZkJ5OzZ9Km4FBg8_YmoZIU0XNTxuQiIfVhFcFAZFCQcDYgsCNVwWKG8WPGhdSyg7Vmc8N1hGDRBbKwUvXUBGdHQfADAyVAcgRREmEFFtHgdvagRjfGkbIkBnSGh3FBsnWl8eOR9FCQNDcUESXBA8AVZFQQB7QQcZHWwvGQUDUQReYRwcYV0EDVAsHCNTZiB9AHEAZgRhHWZTPxhiCBRbA1B7eTQ2dlluBQYVBmhnTSh0TBhrDWpELA4xOT5kHjl3TG8ERyoWXAlxFFNjdFZOBAF1AwBzcDo4XwQGHl9XKB9HQSsEKERdfk86NzdKTUg6CUsaE35gHBZXBllicGwFKl0SG0ofQQAZexgTIl8TCxlqZhQ2ZGAAF0kJITx0SxowQ30vMm19NG4FBj0BBEtdfntOABNkbjs3CAQpPxQUJSFEQBg3N3RWCU8QGQRbeDwZSXMfJAIdBmddOTg3QnJRKUZGcEAxYA1zcTMkPnB7TzRyQCQ2Z2gVA1FnORdFUAt-e2Y7BTBDNi94OUcdFxM6dAx3MTB-FA4wURMUI3kWOwADZx0BPn80InF4EgR7bxkYS1QFBFkBRRZKNg8sB0EAHk9EDwAQSgkvdBROAHcUSiQAbgclTmUdbFo0GB0BEkZ0cFo_F20WXA0OKQQ9ZXgCDk1XG2NhTkMHYDRIaHdNNQxQXnkbI3QmO1EnETgHUzIudBQIZFJRICd-DBQ8aBE2ImRIKjstBlwtRCsPF1ppAgtVZCYhc0M0BHoqBDZ8EDl3fBt-CRx0IQRjCBVhUEdIBlZPGmdZazkdbSxeM1NSERxUZylLDA&expires=1786862100&token=3bddc069fbed6f565a166afc43504d74ddc3e5314c76e67450d6d3b8c5946bc6|Referer=https://embedsport.live/&Origin=https://embedsport.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a5ho235pm6/out/v1/1c97371aa3014f0291ada5751a1e0d42/cenc.mpd|drmScheme=clearkey&drmLicense=1b103b7869788ae6748155df33f7b233:8b2e85a7f1e48f2f6263a3d337c655bc",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1786849080927-1",
+    "id": "imported-1786852333909-1",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -45,14 +55,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786873833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=74b16bedf49077097d167dcfe8ace6c695f6c8154f782d8f267655799b7d7994",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1786849080927-2",
+    "id": "imported-1786852333909-2",
     "matchName": "1st Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -66,14 +76,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786873833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=74b16bedf49077097d167dcfe8ace6c695f6c8154f782d8f267655799b7d7994",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1786849080927-3",
+    "id": "imported-1786852333909-3",
     "matchName": "National Champions Cup 2026",
     "sportType": "Cricket",
     "league": "Domestic",
@@ -94,7 +104,7 @@
     ]
   },
   {
-    "id": "imported-1786849080927-4",
+    "id": "imported-1786852333909-4",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -115,7 +125,7 @@
     ]
   },
   {
-    "id": "imported-1786849080927-5",
+    "id": "imported-1786852333909-5",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -130,13 +140,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/quxkswiof8/out/v1/fedc63e9309843daa3d77c9e8725fe9b/cenc.mpd|drmScheme=clearkey&drmLicense=b314d10a2f70eee1c346b60a2f49fb8e:f42ce2e9eed095d4d4ffd004ad3e5c21",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/quxkswiof8/out/v1/fedc63e9309843daa3d77c9e8725fe9b/cenc.mpd|drmScheme=clearkey&drmLicense=b314d10a2f70eee1c346b60a2f49fb8e:f42ce2e9eed095d4d4ffd004ad3e5c21",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1786849080927-6",
+    "id": "imported-1786852333909-6",
     "matchName": "The Hundred 2026",
     "sportType": "Cricket",
     "league": "The Hundred",
