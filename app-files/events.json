@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787056850486-0",
+    "id": "imported-1787059805732-0",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -15,28 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787141859-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6dfc1d5140dadd7f7f5c8cb9fba21d3c|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787062833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d46c0772fd6469b5c26e67ad1a117c056374a6ea73215cc9b0a344cc1575d118",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
         "url": "http://193.47.62.190/hls/KKKK.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ehjcsyqvx2/out/v1/f9cfef4fe2bd445b939ad4f7a24829db/cenc.mpd|drmScheme=clearkey&drmLicense=1b549c9708f7789b0d4ab6c713d4de5e:94e123e5f00b8d1caa96a8d1d553c811",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1787056850486-1",
+    "id": "imported-1787059805732-1",
     "matchName": "1st Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -51,28 +36,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787141859-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6dfc1d5140dadd7f7f5c8cb9fba21d3c|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787062833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d46c0772fd6469b5c26e67ad1a117c056374a6ea73215cc9b0a344cc1575d118",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
         "url": "http://193.47.62.190/hls/KKKK.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ehjcsyqvx2/out/v1/f9cfef4fe2bd445b939ad4f7a24829db/cenc.mpd|drmScheme=clearkey&drmLicense=1b549c9708f7789b0d4ab6c713d4de5e:94e123e5f00b8d1caa96a8d1d553c811",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1787056850486-2",
+    "id": "imported-1787059805732-2",
     "matchName": "National Champions Cup 2026",
     "sportType": "Cricket",
     "league": "Domestic",
@@ -93,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1787056850486-3",
+    "id": "imported-1787059805732-3",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -114,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1787056850486-4",
+    "id": "imported-1787059805732-4",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
