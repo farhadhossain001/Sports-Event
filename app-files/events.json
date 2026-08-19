@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787119013557-0",
+    "id": "imported-1787122035745-0",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -25,13 +25,13 @@
       },
       {
         "name": "Server 3",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd|drmScheme=clearkey&drmLicense=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd|drmScheme=clearkey&drmLicense=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787119013557-1",
+    "id": "imported-1787122035745-1",
     "matchName": "1st Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -56,13 +56,13 @@
       },
       {
         "name": "Server 3",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd|drmScheme=clearkey&drmLicense=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd|drmScheme=clearkey&drmLicense=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787119013557-2",
+    "id": "imported-1787122035745-2",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -83,7 +83,7 @@
     ]
   },
   {
-    "id": "imported-1787119013557-3",
+    "id": "imported-1787122035745-3",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -104,28 +104,7 @@
     ]
   },
   {
-    "id": "imported-1787119013557-4",
-    "matchName": "Kingsmen vs Patriots",
-    "sportType": "Cricket",
-    "league": "Caribbean Premier League",
-    "homeTeamName": "Kingsmen",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/kingsmen/logo.webp",
-    "awayTeamName": "Patriots",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/patriots/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "06:00 AM 19/08/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "http://193.47.62.40/hls/ORRR.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1787119013557-5",
+    "id": "imported-1787122035745-4",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -146,7 +125,7 @@
     ]
   },
   {
-    "id": "imported-1787119013557-6",
+    "id": "imported-1787122035745-5",
     "matchName": "Pakistan vs England 1st Test",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
