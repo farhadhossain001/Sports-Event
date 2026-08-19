@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787110161628-0",
+    "id": "imported-1787112604716-0",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -15,13 +15,23 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.40/hls/ORRR.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787133030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=95cf299be462b6b3958a0c8f4ad70312326d77c9e6d33d816d4ba66d613eccc3",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.40/hls/ORRR.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd|drmScheme=clearkey&drmLicense=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787110161628-1",
+    "id": "imported-1787112604716-1",
     "matchName": "1st Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -36,13 +46,23 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.40/hls/ORRR.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787133030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=95cf299be462b6b3958a0c8f4ad70312326d77c9e6d33d816d4ba66d613eccc3",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.40/hls/ORRR.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd|drmScheme=clearkey&drmLicense=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787110161628-2",
+    "id": "imported-1787112604716-2",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -63,7 +83,7 @@
     ]
   },
   {
-    "id": "imported-1787110161628-3",
+    "id": "imported-1787112604716-3",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -78,13 +98,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tgfgmtonq5/out/v1/13f06165dad74cf4837a14135ffdb3f2/cenc.mpd|drmScheme=clearkey&drmLicense=403486270e5bfe12a4dec8b57267326c:95ebeacd316be1f0d9852b896701b3ee",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tgfgmtonq5/out/v1/13f06165dad74cf4837a14135ffdb3f2/cenc.mpd|drmScheme=clearkey&drmLicense=403486270e5bfe12a4dec8b57267326c:95ebeacd316be1f0d9852b896701b3ee",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1787110161628-4",
+    "id": "imported-1787112604716-4",
     "matchName": "Kingsmen vs Patriots",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -99,23 +119,18 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787195848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd67b50ba608ba12f39f2c5a5fa85f54|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.40/hls/ORRR.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "http://193.47.62.40/hls/ORRR.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tgfgmtonq5/out/v1/13f06165dad74cf4837a14135ffdb3f2/cenc.mpd|drmScheme=clearkey&drmLicense=403486270e5bfe12a4dec8b57267326c:95ebeacd316be1f0d9852b896701b3ee",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tgfgmtonq5/out/v1/13f06165dad74cf4837a14135ffdb3f2/cenc.mpd|drmScheme=clearkey&drmLicense=403486270e5bfe12a4dec8b57267326c:95ebeacd316be1f0d9852b896701b3ee",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787110161628-5",
+    "id": "imported-1787112604716-5",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -136,7 +151,7 @@
     ]
   },
   {
-    "id": "imported-1787110161628-6",
+    "id": "imported-1787112604716-6",
     "matchName": "Pakistan vs England 1st Test",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
