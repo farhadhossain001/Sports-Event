@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787164328554-0",
+    "id": "imported-1787166477244-0",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1787164328554-1",
+    "id": "imported-1787166477244-1",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1787164328554-2",
+    "id": "imported-1787166477244-2",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1787164328554-3",
+    "id": "imported-1787166477244-3",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -78,23 +78,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787170836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bf8f48460fa032cb48b25e8121d488dfba4bbb0fda39e1eca80becec4678f53a",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "http://193.47.62.194/hls/QQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/3amgoohuyk/out/v1/2593db7b5e144e73862c1a6f7460abaa/cenc.mpd|drmScheme=clearkey&drmLicense=bbbbf36eb1942bfa4154a54252dad7b5:f6d1b5529c367871a43d846a7d23f5cb",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1787164328554-4",
+    "id": "imported-1787166477244-4",
     "matchName": "Pakistan vs England 1st Test",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
