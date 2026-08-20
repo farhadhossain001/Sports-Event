@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787252582053-0",
+    "id": "imported-1787255116817-0",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -15,18 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/master.m3u8?hdnea=exp=1787257235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=58ead12328a8ec50a7ff7b2755df5f318665bbdd506c5a7ed71fcec2516c365f",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "http://193.47.62.194/hls/QQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1787252582053-1",
+    "id": "imported-1787255116817-1",
     "matchName": "Pakistan vs England 1st Test",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -47,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1787252582053-2",
+    "id": "imported-1787255116817-2",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -68,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1787252582053-3",
+    "id": "imported-1787255116817-3",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -89,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1787252582053-4",
+    "id": "imported-1787255116817-4",
     "matchName": "2nd Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
@@ -110,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1787252582053-5",
+    "id": "imported-1787255116817-5",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -131,7 +126,7 @@
     ]
   },
   {
-    "id": "imported-1787252582053-6",
+    "id": "imported-1787255116817-6",
     "matchName": "2nd Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
