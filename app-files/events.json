@@ -1,69 +1,6 @@
 [
   {
-    "id": "imported-1787249695292-0",
-    "matchName": "India vs Sri Lanka",
-    "sportType": "Cricket",
-    "league": "Ind vs Sl",
-    "homeTeamName": "India",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
-    "awayTeamName": "Sri Lanka",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "10:00 AM 15/08/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1787249695292-1",
-    "matchName": "TNPL T20",
-    "sportType": "Cricket",
-    "league": "T20 League",
-    "homeTeamName": "TNPL T20",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/tnpl-t20/logo.webp",
-    "awayTeamName": "T20 League",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "08:00 PM 18/08/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1787249695292-2",
-    "matchName": "Caribbean Premier League",
-    "sportType": "Cricket",
-    "league": "Caribbean Premier League",
-    "homeTeamName": "Caribbean Premier League",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "awayTeamName": "Caribbean Premier League",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "06:00 AM 19/08/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1787249695292-3",
+    "id": "imported-1787252582053-0",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -85,16 +22,11 @@
         "name": "Server 2",
         "url": "http://193.47.62.194/hls/QQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/koc8anrj2t/out/v1/6333afb5e11340338ab382a3891ffcd9/cenc.mpd|drmScheme=clearkey&drmLicense=5d99fdaca6d45a2a1e882cf6d9e6d874:fb7579beeb6e29d1bec76bcd1dc68c5d",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787249695292-4",
+    "id": "imported-1787252582053-1",
     "matchName": "Pakistan vs England 1st Test",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -104,7 +36,112 @@
     "awayTeamLogo": "https://cdn.img4every1.org/team/england-1st-test/logo.webp",
     "isLive": true,
     "isHot": false,
-    "startTime": "04:00 PM 19/08/2026",
+    "startTime": "04:00 PM 20/08/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1787252582053-2",
+    "matchName": "TNPL T20",
+    "sportType": "Cricket",
+    "league": "T20 League",
+    "homeTeamName": "TNPL T20",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/tnpl-t20/logo.webp",
+    "awayTeamName": "T20 League",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "08:00 PM 20/08/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1787252582053-3",
+    "matchName": "Caribbean Premier League",
+    "sportType": "Cricket",
+    "league": "Caribbean Premier League",
+    "homeTeamName": "Caribbean Premier League",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
+    "awayTeamName": "Caribbean Premier League",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:00 AM 21/08/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1787252582053-4",
+    "matchName": "2nd Test Australia vs Bangladesh",
+    "sportType": "Cricket",
+    "league": "Ban vs Aus",
+    "homeTeamName": "Australia",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
+    "awayTeamName": "Bangladesh",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "06:00 AM 22/08/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1787252582053-5",
+    "matchName": "India vs Sri Lanka",
+    "sportType": "Cricket",
+    "league": "Ind vs Sl",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "Sri Lanka",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "10:00 AM 23/08/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1787252582053-6",
+    "matchName": "2nd Test India vs Sri Lanka",
+    "sportType": "Cricket",
+    "league": "Ind vs Sl",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "Sri Lanka",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "10:30 AM 23/08/2026",
     "link": "",
     "streams": [
       {
