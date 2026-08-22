@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787389065901-0",
+    "id": "imported-1787391039388-0",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1787389065901-1",
+    "id": "imported-1787391039388-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1787389065901-2",
+    "id": "imported-1787391039388-2",
     "matchName": "2nd Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1787389065901-3",
+    "id": "imported-1787391039388-3",
     "matchName": "Top End T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -83,18 +83,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/8cmdowyygj/out/v1/0ddc95beeadc4a738fff413339af20d4/cenc.mpd|drmScheme=clearkey&drmLicense=5e82d75ac3a646f8de91831df04b2e07:af211d0b99fd3d973aaa6ac7e23a3e01",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd|drmScheme=clearkey&drmLicense=628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd|drmScheme=clearkey&drmLicense=628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787389065901-4",
+    "id": "imported-1787391039388-4",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -115,7 +110,7 @@
     ]
   },
   {
-    "id": "imported-1787389065901-5",
+    "id": "imported-1787391039388-5",
     "matchName": "2nd Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -136,7 +131,7 @@
     ]
   },
   {
-    "id": "imported-1787389065901-6",
+    "id": "imported-1787391039388-6",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
