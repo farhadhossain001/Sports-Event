@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787391039388-0",
+    "id": "imported-1787392758660-0",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1787391039388-1",
+    "id": "imported-1787392758660-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1787391039388-2",
+    "id": "imported-1787392758660-2",
     "matchName": "2nd Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1787391039388-3",
+    "id": "imported-1787392758660-3",
     "matchName": "Top End T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -83,13 +83,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd|drmScheme=clearkey&drmLicense=628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd|drmScheme=clearkey&drmLicense=628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1787391039388-4",
+    "id": "imported-1787392758660-4",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "id": "imported-1787391039388-5",
+    "id": "imported-1787392758660-5",
     "matchName": "2nd Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "id": "imported-1787391039388-6",
+    "id": "imported-1787392758660-6",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -145,9 +145,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1787478480-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-77371a879beab22f3125d8e5adee1246|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rg8nsgom6a/out/v1/74fe21d7154e4ac9ac03a32e3cca354d/cenc.mpd|drmScheme=clearkey&drmLicense=df690854b7a01c573aa7c3b152bdbd6b:b03b9cb561de53bc81d9f66416cfca82",
+        "isPrimary": false
       }
     ]
   }
