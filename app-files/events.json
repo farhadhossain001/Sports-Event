@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787410046067-0",
+    "id": "imported-1787411903110-0",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1787410046067-1",
+    "id": "imported-1787411903110-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1787410046067-2",
+    "id": "imported-1787411903110-2",
     "matchName": "2nd Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1787410046067-3",
+    "id": "imported-1787411903110-3",
     "matchName": "Top End T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1787410046067-4",
+    "id": "imported-1787411903110-4",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -98,14 +98,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://cdn3.zohanayaan.com:1686/hls/do99.m3u8?md5=E-srgZjBLNCfc6kA2PiX2w&expires=1787418096|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1787410046067-5",
+    "id": "imported-1787411903110-5",
     "matchName": "2nd Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -119,14 +119,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://cdn3.zohanayaan.com:1686/hls/do99.m3u8?md5=E-srgZjBLNCfc6kA2PiX2w&expires=1787418096|Referer=https://exposestrat.com&Origin=https://exposestrat.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1787410046067-6",
+    "id": "imported-1787411903110-6",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -141,7 +141,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rg8nsgom6a/out/v1/74fe21d7154e4ac9ac03a32e3cca354d/cenc.mpd|drmScheme=clearkey&drmLicense=df690854b7a01c573aa7c3b152bdbd6b:b03b9cb561de53bc81d9f66416cfca82",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rg8nsgom6a/out/v1/74fe21d7154e4ac9ac03a32e3cca354d/cenc.mpd|drmScheme=clearkey&drmLicense=df690854b7a01c573aa7c3b152bdbd6b:b03b9cb561de53bc81d9f66416cfca82",
         "isPrimary": true
       }
     ]
