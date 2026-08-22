@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787387204489-0",
+    "id": "imported-1787389065901-0",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1787387204489-1",
+    "id": "imported-1787389065901-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1787387204489-2",
+    "id": "imported-1787389065901-2",
     "matchName": "2nd Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
@@ -64,16 +64,11 @@
         "name": "Server 2",
         "url": "http://193.47.62.59/hls/DIIID.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cpk0gpw0df/out/v1/0c07d26a7c844eb08c34cb9fa6905888/cenc.mpd|drmScheme=clearkey&drmLicense=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787387204489-3",
+    "id": "imported-1787389065901-3",
     "matchName": "Top End T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -88,13 +83,18 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8cmdowyygj/out/v1/0ddc95beeadc4a738fff413339af20d4/cenc.mpd|drmScheme=clearkey&drmLicense=5e82d75ac3a646f8de91831df04b2e07:af211d0b99fd3d973aaa6ac7e23a3e01",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/8cmdowyygj/out/v1/0ddc95beeadc4a738fff413339af20d4/cenc.mpd|drmScheme=clearkey&drmLicense=5e82d75ac3a646f8de91831df04b2e07:af211d0b99fd3d973aaa6ac7e23a3e01",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd|drmScheme=clearkey&drmLicense=628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787387204489-4",
+    "id": "imported-1787389065901-4",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -115,7 +115,7 @@
     ]
   },
   {
-    "id": "imported-1787387204489-5",
+    "id": "imported-1787389065901-5",
     "matchName": "2nd Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -136,7 +136,7 @@
     ]
   },
   {
-    "id": "imported-1787387204489-6",
+    "id": "imported-1787389065901-6",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
