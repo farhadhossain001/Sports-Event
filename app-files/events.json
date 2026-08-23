@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1787464008893-0",
-    "matchName": "TNPL T20",
-    "sportType": "Cricket",
-    "league": "T20 League",
-    "homeTeamName": "TNPL T20",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/tnpl-t20/logo.webp",
-    "awayTeamName": "T20 League",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "08:00 PM 20/08/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1787464008893-1",
+    "id": "imported-1787467027508-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -42,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1787464008893-2",
+    "id": "imported-1787467027508-1",
     "matchName": "2nd Test Australia vs Bangladesh",
     "sportType": "Cricket",
     "league": "Ban vs Aus",
@@ -57,7 +36,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=1787549546-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a07857e542a1a270c0d6f1f88c5c6094|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=1787553147-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d6989562fed050ddb4130acff3666a63|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
@@ -69,16 +48,11 @@
         "name": "Server 3",
         "url": "https://server1.embedfootball.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSkVNRxcewV2W2EKDEp_FkYDIRlUGCZMYQozVRslI1BgfVZrdQMOfjgCOlNCNANNEyMIfVYFPB1sKw9yfjM-eXIhBThgPhhRNxd0AGcPaQthEmVZYDEWXyw5a1QDUQQBWW1BHwM-Mg4yRBUCSwkLW3U2dwZmAW1KHQMIWkcUPGUSKSEsfAETdmVEE3RNTXwNWxoFYHcZH3sMLwlhbFISTGAZIzUCP3pUMEU-cxUAdXwGQhRacBUsWToALAhgFCp8E3AQNmcgJnQMGWcLSyp7e2gcBXtWNABBMl0jWFcndkwdCwc-BT4MUhY8FFxpQCFWEUYBBhU_bHMmJDsHTwweRh4CB2p_NzECEz48WndABkBhRiN7XgEsWTknAl8XFH4TGAoaDGUvLlYYJjZ4dw0kfmYhNFERIA1KazwDY2sGYwRoJhEXQTc-ezonMnpAMy5AGgkbbWFCDVlpGmpHExUPRW4OOTJlKDpRLj4UakUPPGl1NxVYAUUSdg8lLnVoGQMCEysYG2U_OUN0PTMHFw94YUgIJgdIHRBsLgAuQGMaHl1CLRZvVABycSg6FWtuEyVUFCQLB2U4P3QuHT1pXw1jBGwQOS8DFCBABDwFeW1OaQtlAgh5fi0ecDc6DxQUJRFdST0dEUVXP0MILzAERg0FQ1Q9J04VP2B6FR1texZbKkdGLSAvSTsRVDNOBlh1FyRfYTo2Y1AWAHIKHA5jbCUfWxkiCh9iIA9GCS82YG4ieGwRNRdGa05xChgoPlhzCHUORz0-L1whIWAoOGZxBEoOSWhBKFdiLmN9ayo3S09aIRMYDhsoYRsCYCEHN1B0IQRxUio-eVcVNW4rXj5dQQcwT219Ry1JPhpBAzB0AGMUG1d3KitfaQ81HWwvD0BTLh5zfi80KkIdH1kaU2N0eRNpC2UXdwZmNRV-N1wqCUgaKENvCgYWawc-dQozMkMXMXR3TBo6RWU2GF45PhViTBEkWk0FP21kNioHNBo2Z28LKgFmQB1ybE5sCgcXKHxHLRBlZAEKF2ZYbgUGAzhgBEoKS3kWZEJhHmFOFzcVfXwtFEBOChI4XSEMTQ4hHVlWMxR1T0IEYmgxHAoUAjEGahAofmkKIBBgGiFuZUQXBUcrBmpWIBgCSkRxChwCL1dxMQlEEhs8IAJdfVgNQmYDZDkFQ1cjFHZpIjgdbCsQS2xRBQ5ucQUpVB0FcQ4eGRcTOnoMeUQ4QnVDMEAyNDFhawpjBGh-RD8DAC90KAIzXxAQKFFUQicRFjUiDTcgN0ZqMjd3fT8BHl09enIIIhlreEgEYVsxAUNXMT5KPxs2BUsmAQVuOgYOQjskBSokCwVnCyF7ZgcFbEs9IGsfCAxbYFArWV0bK3wBKCZ0JVNjcEZKDU8GQhR7TicbATMLCkB2NxdFHCxAPxZcDUQWGwJLEhoNbkU3A2JvHWVoBgcgYmUMLFQcDiZgez4aVC0bGWBLMjl_cUAXDQFFEkg8HTx7dEZ0cGcgRABePxlRBwEXVUkaPHJmQAVVFTgxHWwrakRJCDNFeBpLM38tEm11GhZWTggBDWg8M0JFOCUJGhsgeWsCclpOMBQdYjwnUygUNnBOFi14RhE9W2odbGt7XxhIEDArYE97PW9gACh0Dyc8engsCAhoCgJWAUUSDCkZaVdDOjxdZAUqIVgIA1YTEBZaUjoPHBE2OHBiGSViJAQ-VhMLJXF8DwUMRwAHAyMTPXlpQRRuGhVgWXQuBFsLHTZ1QjElfGweHjFSHSd0FU8nYVstHkt3GSZbZkZhQDwVYnxWBgkTGAo_Nn5bElg2JgN0bSIbck80YhEWNRJzaiM2dHVGdHRlERE9WF8BYDgQaFFzFBt_UD8YAXcaYUk_A2x1XiQOeH0pATVjXwRlBjgEahYABWhZNmVQdhs2VDVaEGdLBCsCHhwcOHohPkAzF2J0cTkhb2U2GUd0&expires=1787461500&token=405043ebd7b78b85ed568e757ecf2139471898d2320e8741b69c56b883da6b24|Referer=https://embedsport.live/&Origin=https://embedsport.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/phnvnlutln/out/v1/ada030ef3032419194d2af90d7771d62/cenc.mpd|drmScheme=clearkey&drmLicense=f3b91297bf1b32f957b9ad9df063cccf:1dffa592b7bbeeda714ac1ba3b70f04b",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787464008893-3",
+    "id": "imported-1787467027508-2",
     "matchName": "Top End T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -99,7 +73,7 @@
     ]
   },
   {
-    "id": "imported-1787464008893-4",
+    "id": "imported-1787467027508-3",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -107,14 +81,14 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "Sri Lanka",
     "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "10:00 AM 23/08/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787549555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca6b743929c181eefbad0b95017d462c|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787553150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d7460d8e5ac038935998fcfed59011c0|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
@@ -129,13 +103,13 @@
       },
       {
         "name": "Server 4",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wfoftkmuzq/out/v1/70cec870847f415bbb508ac012959b5f/cenc.mpd|drmScheme=clearkey&drmLicense=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wfoftkmuzq/out/v1/70cec870847f415bbb508ac012959b5f/cenc.mpd|drmScheme=clearkey&drmLicense=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787464008893-5",
+    "id": "imported-1787467027508-4",
     "matchName": "2nd Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -143,14 +117,14 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "Sri Lanka",
     "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "10:30 AM 23/08/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787549555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca6b743929c181eefbad0b95017d462c|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787553150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d7460d8e5ac038935998fcfed59011c0|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
@@ -165,13 +139,34 @@
       },
       {
         "name": "Server 4",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wfoftkmuzq/out/v1/70cec870847f415bbb508ac012959b5f/cenc.mpd|drmScheme=clearkey&drmLicense=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wfoftkmuzq/out/v1/70cec870847f415bbb508ac012959b5f/cenc.mpd|drmScheme=clearkey&drmLicense=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787464008893-6",
+    "id": "imported-1787467027508-5",
+    "matchName": "TNPL T20",
+    "sportType": "Cricket",
+    "league": "T20 League",
+    "homeTeamName": "TNPL T20",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/tnpl-t20/logo.webp",
+    "awayTeamName": "T20 League",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "08:00 PM 23/08/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1787467027508-6",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
