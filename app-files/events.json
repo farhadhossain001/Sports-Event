@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787540467601-0",
+    "id": "imported-1787544297638-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1787540467601-1",
+    "id": "imported-1787544297638-1",
     "matchName": "Top End T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1787540467601-2",
+    "id": "imported-1787544297638-2",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -57,13 +57,28 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.44/hls/ZEZEZE.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787565030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=059eb9f7ff07f8ac0343035d91df37014eb501204632b95a3d5fee7b0d91ffcd",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787630549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fb9be99c5eb9a64896ffd9a6ac5fa6f3|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "http://193.47.62.44/hls/ZEZEZE.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd|drmScheme=clearkey&drmLicense=6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787540467601-3",
+    "id": "imported-1787544297638-3",
     "matchName": "2nd Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -78,13 +93,28 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.44/hls/ZEZEZE.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787565030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=059eb9f7ff07f8ac0343035d91df37014eb501204632b95a3d5fee7b0d91ffcd",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787630549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fb9be99c5eb9a64896ffd9a6ac5fa6f3|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "http://193.47.62.44/hls/ZEZEZE.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd|drmScheme=clearkey&drmLicense=6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787540467601-4",
+    "id": "imported-1787544297638-4",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -105,7 +135,7 @@
     ]
   },
   {
-    "id": "imported-1787540467601-5",
+    "id": "imported-1787544297638-5",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
