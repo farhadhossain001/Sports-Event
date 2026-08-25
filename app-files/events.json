@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787625864722-0",
+    "id": "imported-1787628819603-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1787625864722-1",
+    "id": "imported-1787628819603-1",
     "matchName": "Top End T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1787625864722-2",
+    "id": "imported-1787628819603-2",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -59,11 +59,16 @@
         "name": "Server 1",
         "url": "http://193.47.62.44/hls/ZEZEZE.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ezxzrnbccf/out/v1/8d7e9f7b9d2040daa87ffa8a5789cfad/cenc.mpd|drmScheme=clearkey&drmLicense=3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787625864722-3",
+    "id": "imported-1787628819603-3",
     "matchName": "2nd Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -80,11 +85,16 @@
         "name": "Server 1",
         "url": "http://193.47.62.44/hls/ZEZEZE.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ezxzrnbccf/out/v1/8d7e9f7b9d2040daa87ffa8a5789cfad/cenc.mpd|drmScheme=clearkey&drmLicense=3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787625864722-4",
+    "id": "imported-1787628819603-4",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -105,7 +115,7 @@
     ]
   },
   {
-    "id": "imported-1787625864722-5",
+    "id": "imported-1787628819603-5",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
