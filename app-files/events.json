@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787713348418-0",
+    "id": "imported-1787716952056-0",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -14,14 +14,24 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787737838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aad72506c74223f61cc6a84d986844479ab876cbd45ad7938c309c7d457cb71c",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.59/hls/IGGGAAaA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/19klshmltr/out/v1/194eed055f2e4e6c8ff8159d82579bbc/cenc.mpd|drmScheme=clearkey&drmLicense=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787713348418-1",
+    "id": "imported-1787716952056-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -35,14 +45,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ympwnwu3du/out/v1/72c7db6ec94b4d3097f546ba657f2e01/cenc.mpd|drmScheme=clearkey&drmLicense=57df6a4c7b2f3d79491836b1cb164376:d23efbd1cff9e0c5f4d7d8329a16460c",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1787713348418-2",
+    "id": "imported-1787716952056-2",
     "matchName": "Top End T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -63,7 +73,7 @@
     ]
   },
   {
-    "id": "imported-1787713348418-3",
+    "id": "imported-1787716952056-3",
     "matchName": "2nd Test India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Ind vs Sl",
@@ -77,14 +87,24 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787737838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aad72506c74223f61cc6a84d986844479ab876cbd45ad7938c309c7d457cb71c",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.59/hls/IGGGAAaA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/19klshmltr/out/v1/194eed055f2e4e6c8ff8159d82579bbc/cenc.mpd|drmScheme=clearkey&drmLicense=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1787713348418-4",
+    "id": "imported-1787716952056-4",
     "matchName": "TNPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -105,7 +125,7 @@
     ]
   },
   {
-    "id": "imported-1787713348418-5",
+    "id": "imported-1787716952056-5",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
