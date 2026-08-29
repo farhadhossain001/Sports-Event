@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1787969737114-0",
+    "id": "imported-1787994977027-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ftbfyuilhj/out/v1/547ff6902c6941b89865a333c60b1a09/cenc.mpd|drmScheme=clearkey&drmLicense=08bededba73d57019eecdbca2476fc23:7447ad5ccdd221509cad32e2e1dda0cf",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1787969737114-1",
+    "id": "imported-1787994977027-1",
     "matchName": "Top End T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -36,13 +36,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ofwgoj6854/out/v1/d0db5c87eca14b00a1b4935c02f53542/cenc.mpd|drmScheme=clearkey&drmLicense=97f55b799526127f546d75e65880e247:31f42cfc3ba50567226d995a7139eecf",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nhdmhpvi3b/out/v1/bc705429eaf94036ab154f1981760316/cenc.mpd|drmScheme=clearkey&drmLicense=99e1d49c1d6fb66884e9d3a9a273cc1b:b5f5f8ce01b3a92a07272f90b3dcfd76",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1787969737114-2",
+    "id": "imported-1787994977027-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -56,8 +56,8 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd|drmScheme=clearkey&drmLicense=0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410",
         "isPrimary": true
       }
     ]
