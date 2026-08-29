@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1788014259932-0",
+    "id": "imported-1788026048813-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1788014259932-1",
+    "id": "imported-1788026048813-1",
     "matchName": "Top End T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1788014259932-2",
+    "id": "imported-1788026048813-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -57,22 +57,17 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1788099463-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6531c3005e58185a099a2c5ce85f2dc3|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1788112065-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7dea398fca5fc0a32be9598ae7b271bc|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/master.m3u8?hdnea=exp=1788034836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=57d38b062d3a423cc1fe8ae83457a483ef9f639d431e07b546089ad9fd40698e",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
         "url": "http://193.47.62.42/hls/FTTTA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
-        "name": "Server 4",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd|drmScheme=clearkey&drmLicense=0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410",
+        "name": "Server 3",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd|drmScheme=clearkey&drmLicense=0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410",
         "isPrimary": false
       }
     ]
