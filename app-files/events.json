@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1788043427675-0",
+    "id": "imported-1788050732747-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0ly3syp4vu/out/v1/fa5becce41784086ab6db593f98002d2/cenc.mpd|drmScheme=clearkey&drmLicense=6e72d8f2521f9878dc62710c2ff0b57d:0d5b23fec2afcb3a792675f20a1dae48",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1788043427675-1",
+    "id": "imported-1788050732747-1",
     "matchName": "Top End T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -35,14 +35,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y5no8uudng/out/v1/1bf8185806ba496687c763b70a943664/cenc.mpd|drmScheme=clearkey&drmLicense=4e17e6d149ea932864ce6e5d84079f3e:ba5d2b0d3d833f023b2015aa00eeb10d",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lyoltjhzxw/out/v1/e590ff964b654e408762d566320f57dd/cenc.mpd|drmScheme=clearkey&drmLicense=8dbfa5e75324763c430e42c7b7810c6a:ef819f20671c0ee7d12d5fb3b4bfcbcc",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1788043427675-2",
+    "id": "imported-1788050732747-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
