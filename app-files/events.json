@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1788135603380-0",
+    "id": "imported-1788155648052-0",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1788135603380-1",
+    "id": "imported-1788155648052-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -29,20 +29,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
     "awayTeamName": "Caribbean Premier League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "04:45 AM 31/08/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aztxby6zzc/out/v1/cf316d004456441b9fe512945896d5ba/cenc.mpd|drmScheme=clearkey&drmLicense=2729e118e56f80088a6ee29c4386c9b0:283c9498c5d418fa90dc296ff5610c77",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1788135603380-2",
+    "id": "imported-1788155648052-2",
     "matchName": "Patriots vs Falcons",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -50,30 +50,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/patriots/logo.webp",
     "awayTeamName": "Falcons",
     "awayTeamLogo": "https://cdn.img4every1.org/team/falcons/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:00 AM 31/08/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788221857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d506f97f596edafe7dedf163b74b91e9|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "http://193.47.62.41/hls/ZJJJ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aztxby6zzc/out/v1/cf316d004456441b9fe512945896d5ba/cenc.mpd|drmScheme=clearkey&drmLicense=2729e118e56f80088a6ee29c4386c9b0:283c9498c5d418fa90dc296ff5610c77",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1788135603380-3",
+    "id": "imported-1788155648052-3",
     "matchName": "Nepal vs Bahrain",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -81,7 +71,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
     "awayTeamName": "Bahrain",
     "awayTeamLogo": "https://cdn.img4every1.org/team/bahrain/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "07:30 AM 31/08/2026",
     "link": "",
@@ -94,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1788135603380-4",
+    "id": "imported-1788155648052-4",
     "matchName": "Namibia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "T20i Tri-Series",
@@ -115,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1788135603380-5",
+    "id": "imported-1788155648052-5",
     "matchName": "South Africa vs Zimbabwe",
     "sportType": "Cricket",
     "league": "T20i Tri-Series",
