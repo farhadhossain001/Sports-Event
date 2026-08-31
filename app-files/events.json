@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1788203711164-0",
+    "id": "imported-1788218043164-0",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jtmi1al3lz/out/v1/f0b7aa65b1fe4c2aa7f58753a2255769/cenc.mpd|drmScheme=clearkey&drmLicense=1431684af4cc3956f438facb1165d27a:31b484dc30462b8f87ffaa1e88a96992",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1788203711164-1",
+    "id": "imported-1788218043164-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -35,35 +35,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zimkjjnb8i/out/v1/8849c836cbdb448590b3c5231807f66d/cenc.mpd|drmScheme=clearkey&drmLicense=71b910e0fe05470e0e13c169a45a67d7:ab0e9a780cb7cf91c2320b5967983b9d",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1788203711164-2",
-    "matchName": "Namibia vs Zimbabwe",
-    "sportType": "Cricket",
-    "league": "T20i Tri-Series",
-    "homeTeamName": "Namibia",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/namibia/logo.webp",
-    "awayTeamName": "Zimbabwe",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "06:00 PM 31/08/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1788203711164-3",
+    "id": "imported-1788218043164-2",
     "matchName": "South Africa vs Zimbabwe",
     "sportType": "Cricket",
     "league": "T20i Tri-Series",
