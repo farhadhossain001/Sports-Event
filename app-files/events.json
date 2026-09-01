@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1788266417863-0",
-    "matchName": "Caribbean Premier League",
-    "sportType": "Cricket",
-    "league": "Caribbean Premier League",
-    "homeTeamName": "Caribbean Premier League",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "awayTeamName": "Caribbean Premier League",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "04:45 AM 31/08/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1788266417863-1",
+    "id": "imported-1788281740744-0",
     "matchName": "South Africa vs Zimbabwe",
     "sportType": "Cricket",
     "league": "T20i Tri-Series",
@@ -29,7 +8,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
     "awayTeamName": "Zimbabwe",
     "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "06:00 PM 01/09/2026",
     "link": "",
@@ -42,7 +21,49 @@
     ]
   },
   {
-    "id": "imported-1788266417863-2",
+    "id": "imported-1788281740744-1",
+    "matchName": "Caribbean Premier League",
+    "sportType": "Cricket",
+    "league": "Caribbean Premier League",
+    "homeTeamName": "Caribbean Premier League",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
+    "awayTeamName": "Caribbean Premier League",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "04:45 AM 02/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1788281740744-2",
+    "matchName": "Patriots vs Tridents",
+    "sportType": "Cricket",
+    "league": "Caribbean Premier League",
+    "homeTeamName": "Patriots",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/patriots/logo.webp",
+    "awayTeamName": "Tridents",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/tridents/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:00 AM 02/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1788281740744-3",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
