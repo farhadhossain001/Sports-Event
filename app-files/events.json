@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1788444505930-0",
+    "id": "imported-1788457903666-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1788444505930-1",
+    "id": "imported-1788457903666-1",
     "matchName": "Namibia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "T20i Tri-Series",
@@ -29,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/namibia/logo.webp",
     "awayTeamName": "Zimbabwe",
     "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "06:00 PM 03/09/2026",
     "link": "",
@@ -42,7 +42,28 @@
     ]
   },
   {
-    "id": "imported-1788444505930-2",
+    "id": "imported-1788457903666-2",
+    "matchName": "Patriots vs Kings",
+    "sportType": "Cricket",
+    "league": "Caribbean Premier League",
+    "homeTeamName": "Patriots",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/patriots/logo.webp",
+    "awayTeamName": "Kings",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/kings/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:00 AM 04/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1788457903666-3",
     "matchName": "Namibia vs South Africa",
     "sportType": "Cricket",
     "league": "T20i Tri-Series",
@@ -63,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1788444505930-3",
+    "id": "imported-1788457903666-4",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
