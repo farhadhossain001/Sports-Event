@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1788396087082-0",
+    "id": "imported-1788411964342-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kgxqapdel8/out/v1/2736150644d2417ea38c9139cf11960f/cenc.mpd|drmScheme=clearkey&drmLicense=803f1e2fda33aaece2e8e7886559ad84:2e1216fadbfdcfc93125f3a660caa89b",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1788396087082-1",
+    "id": "imported-1788411964342-1",
     "matchName": "Malaysia vs Nepal",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -29,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/malaysia/logo.webp",
     "awayTeamName": "Nepal",
     "awayTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "07:30 AM 03/09/2026",
     "link": "",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1788396087082-2",
+    "id": "imported-1788411964342-2",
     "matchName": "Namibia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "T20i Tri-Series",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1788396087082-3",
+    "id": "imported-1788411964342-3",
     "matchName": "Namibia vs South Africa",
     "sportType": "Cricket",
     "league": "T20i Tri-Series",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1788396087082-4",
+    "id": "imported-1788411964342-4",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
