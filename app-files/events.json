@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1788551526335-0",
+    "id": "imported-1788559597730-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -21,17 +21,17 @@
     ]
   },
   {
-    "id": "imported-1788551526335-1",
-    "matchName": "Namibia vs South Africa",
+    "id": "imported-1788559597730-1",
+    "matchName": "South Africa vs Zimbabwe",
     "sportType": "Cricket",
     "league": "T20i Tri-Series",
-    "homeTeamName": "Namibia",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/namibia/logo.webp",
-    "awayTeamName": "South Africa",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-    "isLive": true,
+    "homeTeamName": "South Africa",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
+    "awayTeamName": "Zimbabwe",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
+    "isLive": false,
     "isHot": false,
-    "startTime": "06:00 PM 04/09/2026",
+    "startTime": "06:00 PM 06/09/2026",
     "link": "",
     "streams": [
       {
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1788551526335-2",
+    "id": "imported-1788559597730-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
