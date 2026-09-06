@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1788656244530-0",
+    "id": "imported-1788673232285-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -8,25 +8,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
     "awayTeamName": "Caribbean Premier League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "04:45 AM 06/09/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ffcxmxukky/out/v1/0009229173a84399a4a9b36c5659b5e2/cenc.mpd|drmScheme=clearkey&drmLicense=9cbab0068b63b9eacc992be538f5e93c:9f37508ad14dc7250749588d4b42d338",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/y2ocxvr9hn/out/v1/a33866d566f64f52a9c6d460460e64d3/cenc.mpd|drmScheme=clearkey&drmLicense=eddd7bc446b945026204022b6395963f:e75adb7b80da458c13af3a13893bccaa",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1788656244530-1",
+    "id": "imported-1788673232285-1",
     "matchName": "Nepal vs Saudi Arabia",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -34,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
     "awayTeamName": "Saudi Arabia",
     "awayTeamLogo": "https://cdn.img4every1.org/team/saudi-arabia/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "07:30 AM 06/09/2026",
     "link": "",
@@ -47,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1788656244530-2",
+    "id": "imported-1788673232285-2",
     "matchName": "South Africa vs Zimbabwe",
     "sportType": "Cricket",
     "league": "T20i Tri-Series",
@@ -68,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1788656244530-3",
+    "id": "imported-1788673232285-3",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
