@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1788700119451-0",
+    "id": "imported-1788711409775-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -14,14 +14,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cnydncqk2i/out/v1/8707627b31324816bc153597a1269eb2/cenc.mpd|drmScheme=clearkey&drmLicense=32eebf5858f0af48f29b6f5ad021dd33:873db6ff3445cb92a5a9090bba44c67e",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a8w6wgfr5q/out/v1/7a7423fb7cd74c78b45f5f794d977942/cenc.mpd|drmScheme=clearkey&drmLicense=496c0620ac8432f5bb4b5172e5a390ea:95cb4176cfc7f814f15c81f8fde53cb8",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1788700119451-1",
+    "id": "imported-1788711409775-1",
     "matchName": "South Africa vs Zimbabwe",
     "sportType": "Cricket",
     "league": "T20i Tri-Series",
@@ -29,7 +34,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
     "awayTeamName": "Zimbabwe",
     "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "06:00 PM 06/09/2026",
     "link": "",
@@ -42,7 +47,7 @@
     ]
   },
   {
-    "id": "imported-1788700119451-2",
+    "id": "imported-1788711409775-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
