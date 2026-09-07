@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1788734479326-0",
+    "id": "imported-1788740476115-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -15,18 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a8w6wgfr5q/out/v1/7a7423fb7cd74c78b45f5f794d977942/cenc.mpd|drmScheme=clearkey&drmLicense=496c0620ac8432f5bb4b5172e5a390ea:95cb4176cfc7f814f15c81f8fde53cb8",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/umvuxfduwv/out/v1/1c74d43344244971b90df034725fe28c/cenc.mpd|drmScheme=clearkey&drmLicense=b24fed5aa908b1365b97e9595854c992:50e8b80e62a3875830b0d60792959f83",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/umvuxfduwv/out/v1/1c74d43344244971b90df034725fe28c/cenc.mpd|drmScheme=clearkey&drmLicense=b24fed5aa908b1365b97e9595854c992:50e8b80e62a3875830b0d60792959f83",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1788734479326-1",
+    "id": "imported-1788740476115-1",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
