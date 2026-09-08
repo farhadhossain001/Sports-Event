@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1788876676735-0",
+    "id": "imported-1788890126550-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -21,7 +21,28 @@
     ]
   },
   {
-    "id": "imported-1788876676735-1",
+    "id": "imported-1788890126550-1",
+    "matchName": "Namibia vs South Africa",
+    "sportType": "Cricket",
+    "league": "ODI Match",
+    "homeTeamName": "Namibia",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/namibia/logo.webp",
+    "awayTeamName": "South Africa",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "01:30 PM 09/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1788890126550-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
