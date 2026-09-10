@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789003087902-0",
+    "id": "imported-1789021256737-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1yuligges/out/v1/5c3a5a60f150446ebd33ee4f29daa106/cenc.mpd|drmScheme=clearkey&drmLicense=ee4c96132f7caeabed47b2409c774426:81f7786f15984de961ad068f3c9ea49e",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789003087902-1",
+    "id": "imported-1789021256737-1",
     "matchName": "Namibia vs South Africa",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789003087902-2",
+    "id": "imported-1789021256737-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1789003087902-3",
+    "id": "imported-1789021256737-3",
     "matchName": "Nepal vs Oman",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -71,7 +71,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
     "awayTeamName": "Oman",
     "awayTeamLogo": "https://cdn.img4every1.org/team/oman/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "07:30 AM 10/09/2026",
     "link": "",
