@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789064871820-0",
+    "id": "imported-1789074403568-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1789064871820-1",
+    "id": "imported-1789074403568-1",
     "matchName": "Namibia vs South Africa",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789064871820-2",
+    "id": "imported-1789074403568-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -53,6 +53,27 @@
     "isLive": true,
     "isHot": false,
     "startTime": "03:30 PM 09/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1789074403568-3",
+    "matchName": "India vs Afghanistan",
+    "sportType": "Cricket",
+    "league": "India vs Afg",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "Afghanistan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "07:30 PM 13/09/2026",
     "link": "",
     "streams": [
       {
