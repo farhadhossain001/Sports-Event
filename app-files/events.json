@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789052994309-0",
+    "id": "imported-1789064871820-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gaouc4wk6r/out/v1/203a732484b84e4690f8d9d77a5a4e22/cenc.mpd|drmScheme=clearkey&drmLicense=a77e3f0377c40110a19a34f10575b7b3:fc36344d932bada1bf40729f60b71664",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789052994309-1",
+    "id": "imported-1789064871820-1",
     "matchName": "Namibia vs South Africa",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789052994309-2",
+    "id": "imported-1789064871820-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -56,24 +56,9 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789138950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b81dce69a871b204fb445836bbd4fa2c|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "http://193.47.62.41/hls/DDDDAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kuqdfxtlty/out/v1/6159375de7de4fee9f81b7a9bc8cc61c/cenc.mpd|drmScheme=clearkey&drmLicense=bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad",
-        "isPrimary": false
       }
     ]
   }
