@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789151533327-0",
+    "id": "imported-1789161527390-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1789151533327-1",
+    "id": "imported-1789161527390-1",
     "matchName": "Namibia vs South Africa",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789151533327-2",
+    "id": "imported-1789161527390-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -56,19 +56,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.41/hls/DDDDAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kbatzaazbo/out/v1/e12d4e78342c47348c272f5d5979eeec/cenc.mpd|drmScheme=clearkey&drmLicense=4b449e62d6400a82c000f057837d3c34:6726fe4c78a06a3861c5403c716ea96f",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1789151533327-3",
+    "id": "imported-1789161527390-3",
     "matchName": "Nepal vs UAE",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -89,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1789151533327-4",
+    "id": "imported-1789161527390-4",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "India vs Afg",
