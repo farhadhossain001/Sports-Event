@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789221158737-0",
+    "id": "imported-1789231518964-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -15,13 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fd56p9i0qq/out/v1/19aca7d85f6b4feebd7f4079e77bd2b7/cenc.mpd|drmScheme=clearkey&drmLicense=fcf5dfcd9f356b9db1e17119c30d52df:edc25ded4b149f4623c7026550134bc9",
+        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fd56p9i0qq/out/v1/19aca7d85f6b4feebd7f4079e77bd2b7/cenc.mpd|drmScheme=clearkey&drmLicense=fcf5dfcd9f356b9db1e17119c30d52df:edc25ded4b149f4623c7026550134bc9",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789221158737-1",
+    "id": "imported-1789231518964-1",
     "matchName": "Namibia vs South Africa",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789221158737-2",
+    "id": "imported-1789231518964-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -57,23 +57,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789307270-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-51478b36b8e082d5ed895d9fcafab83d|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789317154-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-01c2370cc4270134e0bcd7b8f82d849e|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "http://193.47.62.41/hls/DDDDAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd|drmScheme=clearkey&drmLicense=227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1789221158737-3",
+    "id": "imported-1789231518964-3",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "India vs Afg",
