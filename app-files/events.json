@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789193429434-0",
+    "id": "imported-1789209925570-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1789193429434-1",
+    "id": "imported-1789209925570-1",
     "matchName": "Namibia vs South Africa",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789193429434-2",
+    "id": "imported-1789209925570-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -56,35 +56,24 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789295577-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d870438d5a2e33574249edf2770c7a4b|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1789193429434-3",
-    "matchName": "Nepal vs UAE",
-    "sportType": "Cricket",
-    "league": "ODI Match",
-    "homeTeamName": "Nepal",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
-    "awayTeamName": "UAE",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/uae/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "07:30 AM 12/09/2026",
-    "link": "",
-    "streams": [
+      },
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
+        "name": "Server 2",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive1209/ENG/master.m3u8?hdnea=exp=1789249833~acl=/*~id=02908444677400515923681973450610~hmac=a5ddce227586c4e0836883c67a9afafb219b5af4599046ad9ec67683a1f121c4",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd|drmScheme=clearkey&drmLicense=227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1789193429434-4",
+    "id": "imported-1789209925570-3",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "India vs Afg",
