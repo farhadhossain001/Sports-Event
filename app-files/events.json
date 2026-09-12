@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789176284359-0",
+    "id": "imported-1789193429434-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -14,19 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://lb5.wfty.st/secure/kMuLtIH50UnqpozbEBSZWA/sigma/warriors-riders/2/1540216/1789194629/playlist.m3u8|Referer=https://sportsembed.su/embed/1540216/warriors-riders/sigma/2?player=clappr&autoplay=true&Origin=https://sportsembed.su/embed/1540216/warriors-riders/sigma/2?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vq1jdgtj3r/out/v1/935e2383b209418d8d764339421c8e12/cenc.mpd|drmScheme=clearkey&drmLicense=3f1c39aa3fab7242ca5f334870ce55b5:6651dbed0adc6a2311fe9875c1f001f1",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1789176284359-1",
+    "id": "imported-1789193429434-1",
     "matchName": "Namibia vs South Africa",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -47,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789176284359-2",
+    "id": "imported-1789193429434-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -68,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1789176284359-3",
+    "id": "imported-1789193429434-3",
     "matchName": "Nepal vs UAE",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -76,7 +71,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
     "awayTeamName": "UAE",
     "awayTeamLogo": "https://cdn.img4every1.org/team/uae/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "07:30 AM 12/09/2026",
     "link": "",
@@ -89,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1789176284359-4",
+    "id": "imported-1789193429434-4",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "India vs Afg",
