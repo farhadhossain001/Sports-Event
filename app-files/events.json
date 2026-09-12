@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789231518964-0",
+    "id": "imported-1789238936417-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -15,13 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fd56p9i0qq/out/v1/19aca7d85f6b4feebd7f4079e77bd2b7/cenc.mpd|drmScheme=clearkey&drmLicense=fcf5dfcd9f356b9db1e17119c30d52df:edc25ded4b149f4623c7026550134bc9",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/sbgt1be6li/out/v1/ac277874eb6b4065b8c470378e94a986/cenc.mpd|drmScheme=clearkey&drmLicense=a661503178d68c007f666b91ec743c88:6315c9513e2d17d59838e56282afdc10",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789231518964-1",
+    "id": "imported-1789238936417-1",
     "matchName": "Namibia vs South Africa",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789231518964-2",
+    "id": "imported-1789238936417-2",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -56,14 +56,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789317154-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-01c2370cc4270134e0bcd7b8f82d849e|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789231518964-3",
+    "id": "imported-1789238936417-3",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "India vs Afg",
