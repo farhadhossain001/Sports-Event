@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789332577793-0",
+    "id": "imported-1789339958985-0",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "India vs Afg",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.41/hls/TAAADDDDx.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789332577793-1",
+    "id": "imported-1789339958985-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -36,13 +36,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3d7cq326me/out/v1/fd9665c4a0df4945ae69e83d215157d0/cenc.mpd|drmScheme=clearkey&drmLicense=e28f700c0854c3f8cd7ddda798593bff:3f2543cc40178c87540573fb302cbc22",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o8nyyyttqm/out/v1/36b86367be03450fbf4ead4c839b97f3/cenc.mpd|drmScheme=clearkey&drmLicense=78a2ee35ebe3d529889f079d1a9c7eee:ffcd4e609f64e0fdfcfd6192f39b8257",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789332577793-2",
+    "id": "imported-1789339958985-2",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1789332577793-3",
+    "id": "imported-1789339958985-3",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
