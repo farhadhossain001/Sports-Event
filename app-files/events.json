@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789311496111-0",
+    "id": "imported-1789322507974-0",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "India vs Afg",
@@ -8,30 +8,30 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "Afghanistan",
     "awayTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "07:30 PM 13/09/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789397280-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-994265f429ae6eba518243755bda8bc5|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789408048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-05d8a1e99a6613631d5817eebcf54d62|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "http://193.47.62.41/hls/TAAADDDD.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "http://193.47.62.41/hls/TAAADDDDx.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/va142ya1td/out/v1/aae3c310bf7446e9a8dd88ed7de5b1ee/cenc.mpd|drmScheme=clearkey&drmLicense=34d9aa9c9437b91d9235b62cbe5ce551:6851a07451382c5eadffe9cb7a130440",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/va142ya1td/out/v1/aae3c310bf7446e9a8dd88ed7de5b1ee/cenc.mpd|drmScheme=clearkey&drmLicense=34d9aa9c9437b91d9235b62cbe5ce551:6851a07451382c5eadffe9cb7a130440",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1789311496111-1",
+    "id": "imported-1789322507974-1",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -45,14 +45,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3d7cq326me/out/v1/fd9665c4a0df4945ae69e83d215157d0/cenc.mpd|drmScheme=clearkey&drmLicense=e28f700c0854c3f8cd7ddda798593bff:3f2543cc40178c87540573fb302cbc22",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789311496111-2",
+    "id": "imported-1789322507974-2",
     "matchName": "Namibia vs South Africa",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -73,7 +73,7 @@
     ]
   },
   {
-    "id": "imported-1789311496111-3",
+    "id": "imported-1789322507974-3",
     "matchName": "Pakistan vs England",
     "sportType": "Cricket",
     "league": "Pak vs Eng",
@@ -88,18 +88,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1789397264-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-114b47a860b210b39959f7b99c799043|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnsovhkuca/out/v1/0c1a2ea0b0e04a72a49192d3562118dc/cenc.mpd|drmScheme=clearkey&drmLicense=15d2b353281a88de31654670f124c65c:b4b938844991c7b023584b4281f1ac4f",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789311496111-4",
+    "id": "imported-1789322507974-4",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -120,7 +115,7 @@
     ]
   },
   {
-    "id": "imported-1789311496111-5",
+    "id": "imported-1789322507974-5",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
