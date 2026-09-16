@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789513348008-0",
+    "id": "imported-1789521899239-0",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "India vs Afg",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1789513348008-1",
+    "id": "imported-1789521899239-1",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789513348008-2",
+    "id": "imported-1789521899239-2",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -57,53 +57,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.59/hls/IVVVAAAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://cdn4.zohanayaan.com:1686/hls/do31.m3u8?md5=C3BcmO6_XbSo6TgefO6sdg&expires=1789509675|Referer=https://forgemindly.com/&Origin=https://forgemindly.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://cdn7.zohanayaan.com:1686/hls/do55.m3u8?md5=FEsomVImpzLzWv7OUP4LuA&expires=1789509677|Referer=https://forgemindly.com/&Origin=https://forgemindly.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "https://instreams.pro/live/tv401914284/index.m3u8?st=vtH4Eov4sESSsb6gUYIG6A&e=1789506051|Referer=https://instream.click/livetv.php?stream=tv401914284&Origin=https://instream.click/livetv.php?stream=tv401914284&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 5",
-        "url": "http://193.47.62.41/hls/GPPPRQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 6",
-        "url": "https://www.rtmpcdn.com/live/158dc6a1-67ad-44cd-a5cf-5c7bd1c72ec1.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 7",
-        "url": "http://193.47.62.59/hls/afffba.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 8",
         "url": "https://edgestream2.pro/hls/hflfkrtib42.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 9",
-        "url": "https://instreams.live/live/tv401914284/index.m3u8?st=J3methverQAJ9tiUdrtwEA&e=1789516940|Referer=https://instream.click/livetv.php?stream=tv401914284&Origin=https://instream.click/livetv.php?stream=tv401914284&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789513348008-3",
+    "id": "imported-1789521899239-3",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
