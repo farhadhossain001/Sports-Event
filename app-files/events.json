@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789559731430-0",
+    "id": "imported-1789575000112-0",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "India vs Afg",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1789559731430-1",
+    "id": "imported-1789575000112-1",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789559731430-2",
+    "id": "imported-1789575000112-2",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -56,14 +56,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://edgestream2.pro/hls/hflfkrtib42.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789559731430-3",
+    "id": "imported-1789575000112-3",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -77,8 +77,8 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kb3jthsigm/out/v1/7961dc758db74f4dad07808037385cca/cenc.mpd|drmScheme=clearkey&drmLicense=863be6e9b89112e9dde3ac9b9a2d19a6:2a951608542047e41ee47f35321db1fc",
         "isPrimary": true
       }
     ]
