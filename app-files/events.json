@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789640875834-0",
+    "id": "imported-1789658015955-0",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "India vs Afg",
@@ -14,14 +14,24 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789743752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-569039aa84a95fca2c22894b456fee3c|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.52/hls/VAVAVAAAAAAX.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/r5nicrqiyf/out/v1/6659e5152b4e4bb89917f57640f594fb/cenc.mpd|drmScheme=clearkey&drmLicense=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1789640875834-1",
+    "id": "imported-1789658015955-1",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -42,7 +52,7 @@
     ]
   },
   {
-    "id": "imported-1789640875834-2",
+    "id": "imported-1789658015955-2",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -63,7 +73,7 @@
     ]
   },
   {
-    "id": "imported-1789640875834-3",
+    "id": "imported-1789658015955-3",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
