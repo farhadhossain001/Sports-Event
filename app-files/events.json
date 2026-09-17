@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789605961732-0",
+    "id": "imported-1789623874880-0",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "India vs Afg",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1789605961732-1",
+    "id": "imported-1789623874880-1",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789605961732-2",
+    "id": "imported-1789623874880-2",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1789605961732-3",
+    "id": "imported-1789623874880-3",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -71,14 +71,14 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
     "awayTeamName": "Caribbean Premier League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "04:45 AM 17/09/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/buawn8tvhe/out/v1/d51b1adb57b249b881666d9e08a8c167/cenc.mpd|drmScheme=clearkey&drmLicense=e7d895d5bccb125fbd0034cc7af3b24e:76b51bcfdaf396f17fcec1ba4543f988",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
