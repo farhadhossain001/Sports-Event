@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789761289520-0",
+    "id": "imported-1789769868350-0",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.44/hls/ssss.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789761289520-1",
+    "id": "imported-1789769868350-1",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789761289520-2",
+    "id": "imported-1789769868350-2",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -53,6 +53,27 @@
     "isLive": true,
     "isHot": false,
     "startTime": "04:45 AM 17/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1789769868350-3",
+    "matchName": "Queensland vs Victoria",
+    "sportType": "Cricket",
+    "league": "Domestic",
+    "homeTeamName": "Queensland",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/queensland/logo.webp",
+    "awayTeamName": "Victoria",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/victoria/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "10:00 AM 19/09/2026",
     "link": "",
     "streams": [
       {
