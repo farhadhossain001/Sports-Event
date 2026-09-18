@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789690720936-0",
+    "id": "imported-1789707586519-0",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1789690720936-1",
+    "id": "imported-1789707586519-1",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1789690720936-2",
+    "id": "imported-1789707586519-2",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -56,8 +56,8 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qxf3t6uovz/out/v1/0e4b5f368309487c852a212b34ea2fbf/cenc.mpd|drmScheme=clearkey&drmLicense=3f556ce52c9162e87e8fddb1fb41b874:a786dba73d7f1fde1cc2d2c0f051947c",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
