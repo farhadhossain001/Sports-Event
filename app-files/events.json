@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789809191227-0",
+    "id": "imported-1789823518545-0",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1789809191227-1",
+    "id": "imported-1789823518545-1",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -35,14 +35,44 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789909468-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-26beac436308559993c76cbcbcb99820|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.41/hls/grrraaaaa.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/bmg-m05/playlist.m3u8?tk=beQjmeZBcRDf8e0lAFd10w&e=1789866012|Referer=https://ondemand.st/embed/?id=bundesliga/2026-09-19/bmg-m05&Origin=https://ondemand.st/embed/?id=bundesliga/2026-09-19/bmg-m05&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "http://193.47.62.44/hls/JYYYAAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://lb4.wfty.st/secure/vhXYJXGwlT5XDXnBXeCawg/deluxe/barnsley-leicester-city/1/4746798/1789840833/playlist.m3u8|Referer=https://sportsembed.su/embed/4746798/barnsley-leicester-city/deluxe/1?player=clappr&autoplay=true&Origin=https://sportsembed.su/embed/4746798/barnsley-leicester-city/deluxe/1?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 6",
+        "url": "https://epidd.hundxvision.co.uk/main/secure/ffd47669fabaf4cfabd26dde5c67493cd2642ae7d210bcced2170e828875d8d5/1789831821/skysportuno-it.m3u8|Referer=https://epiembeds.online/flyemd/skysportuno-it&Origin=https://epiembeds.online/flyemd/skysportuno-it&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 7",
+        "url": "http://193.47.62.44/hls/JYYY.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1789809191227-2",
+    "id": "imported-1789823518545-2",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -63,7 +93,7 @@
     ]
   },
   {
-    "id": "imported-1789809191227-3",
+    "id": "imported-1789823518545-3",
     "matchName": "Queensland vs Victoria",
     "sportType": "Cricket",
     "league": "Domestic",
@@ -71,7 +101,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/queensland/logo.webp",
     "awayTeamName": "Victoria",
     "awayTeamLogo": "https://cdn.img4every1.org/team/victoria/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "10:00 AM 19/09/2026",
     "link": "",
