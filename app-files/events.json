@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789844161532-0",
+    "id": "imported-1789852734337-0",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1789844161532-1",
+    "id": "imported-1789852734337-1",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -36,23 +36,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/bmg-m05/playlist.m3u8?tk=beQjmeZBcRDf8e0lAFd10w&e=1789866012|Referer=https://ondemand.st/embed/?id=bundesliga/2026-09-19/bmg-m05&Origin=https://ondemand.st/embed/?id=bundesliga/2026-09-19/bmg-m05&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "http://193.47.62.44/hls/JYYYAAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://type.futtv.nx.kg/mainz/index.m3u8|Referer=https://www.futbol-x.top&Origin=https://www.futbol-x.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789844161532-2",
+    "id": "imported-1789852734337-2",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -73,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1789844161532-3",
+    "id": "imported-1789852734337-3",
     "matchName": "Leicestershire vs Middlesex",
     "sportType": "Cricket",
     "league": "Domestic",
