@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789823518545-0",
+    "id": "imported-1789835463849-0",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1789823518545-1",
+    "id": "imported-1789835463849-1",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -36,12 +36,12 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789909468-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-26beac436308559993c76cbcbcb99820|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789921065-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d4831946751cb1ac3e6364339ed2de92|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "http://193.47.62.41/hls/grrraaaaa.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/master.m3u8?hdnea=exp=1789867239~acl=/*~id=21195613403916179743840517613079~hmac=c5f270177aa3506e171d4e9751c069d55a4823a30324de9124fb9a11a017e774",
         "isPrimary": false
       },
       {
@@ -56,23 +56,38 @@
       },
       {
         "name": "Server 5",
-        "url": "https://lb4.wfty.st/secure/vhXYJXGwlT5XDXnBXeCawg/deluxe/barnsley-leicester-city/1/4746798/1789840833/playlist.m3u8|Referer=https://sportsembed.su/embed/4746798/barnsley-leicester-city/deluxe/1?player=clappr&autoplay=true&Origin=https://sportsembed.su/embed/4746798/barnsley-leicester-city/deluxe/1?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://type.futtv.nx.kg/mainz/index.m3u8|Referer=https://www.futbol-x.top&Origin=https://www.futbol-x.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       },
       {
         "name": "Server 6",
-        "url": "https://epidd.hundxvision.co.uk/main/secure/ffd47669fabaf4cfabd26dde5c67493cd2642ae7d210bcced2170e828875d8d5/1789831821/skysportuno-it.m3u8|Referer=https://epiembeds.online/flyemd/skysportuno-it&Origin=https://epiembeds.online/flyemd/skysportuno-it&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://streamfree.top/live-cdn/mainz-vs-borussia-m%C3%B6nchengladbach1080p3/index.m3u8?_e=1789855211&_n=86c098560bb9801d&_t=l3C9uDmNCd4sQQkyXDZWNA|Referer=https://streamfree.top&Origin=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       },
       {
         "name": "Server 7",
-        "url": "http://193.47.62.44/hls/JYYY.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://epidd.hundxvision.co.uk/main/secure/81775f707f0da9c3589b74f7f964b1840b33149a4cf0750eed5f424529c24446/1789839015/skysportuno-it.m3u8|Referer=https://epiembeds.online/flyemd/skysportuno-it&Origin=https://epiembeds.online/flyemd/skysportuno-it&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 8",
+        "url": "https://lb4.wfty.st/secure/GDeaZVoafjU26-xfSz7JHg/pro/borussia-monchengladbach-mainz/2/401884786/1789848020/playlist.m3u8|Referer=https://sportsembed.su/embed/401884786/borussia-monchengladbach-mainz/pro/2?player=clappr&autoplay=true&Origin=https://sportsembed.su/embed/401884786/borussia-monchengladbach-mainz/pro/2?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 9",
+        "url": "https://www.rtmpcdn.com/live/0fa858ca-10b7-498e-b4dc-c8a3881fbf25.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 10",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/acwviu4yoa/out/v1/e2a305a5f12840cdbd24c1f8046fe1be/cenc.mpd|drmScheme=clearkey&drmLicense=e91b0ecde03ad0d00251784f516ff4f6:33790c0313d3853c4e1a941170827549",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1789823518545-2",
+    "id": "imported-1789835463849-2",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -93,17 +108,17 @@
     ]
   },
   {
-    "id": "imported-1789823518545-3",
-    "matchName": "Queensland vs Victoria",
+    "id": "imported-1789835463849-3",
+    "matchName": "Leicestershire vs Middlesex",
     "sportType": "Cricket",
     "league": "Domestic",
-    "homeTeamName": "Queensland",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/queensland/logo.webp",
-    "awayTeamName": "Victoria",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/victoria/logo.webp",
-    "isLive": true,
+    "homeTeamName": "Leicestershire",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/leicestershire/logo.webp",
+    "awayTeamName": "Middlesex",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/middlesex/logo.webp",
+    "isLive": false,
     "isHot": false,
-    "startTime": "10:00 AM 19/09/2026",
+    "startTime": "04:00 PM 20/09/2026",
     "link": "",
     "streams": [
       {
