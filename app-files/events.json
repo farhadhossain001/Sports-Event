@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789905010747-0",
+    "id": "imported-1789918066094-0",
     "matchName": "Australia vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Aus vs Zim",
@@ -14,56 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.44/hls/liiiQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789905010747-1",
-    "matchName": "England vs Sri Lanka",
-    "sportType": "Cricket",
-    "league": "Eng vs Sl",
-    "homeTeamName": "England",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "awayTeamName": "Sri Lanka",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "11:15 PM 15/09/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1789905010747-2",
-    "matchName": "Caribbean Premier League",
-    "sportType": "Cricket",
-    "league": "Caribbean Premier League",
-    "homeTeamName": "Caribbean Premier League",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "awayTeamName": "Caribbean Premier League",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "04:45 AM 17/09/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1789905010747-3",
+    "id": "imported-1789918066094-1",
     "matchName": "Leicestershire vs Middlesex",
     "sportType": "Cricket",
     "league": "Domestic",
@@ -80,6 +38,53 @@
         "name": "Server 1",
         "url": "https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/master.m3u8?hdnea=exp=1789941041~acl=/*~id=74876793339433776273922557818461~hmac=24b3d4090f2ba0c1a1490997083f4eb373863b070354541cb9a396f49fcb8573",
         "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1789918066094-2",
+    "matchName": "Caribbean Premier League",
+    "sportType": "Cricket",
+    "league": "Caribbean Premier League",
+    "homeTeamName": "Caribbean Premier League",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
+    "awayTeamName": "Caribbean Premier League",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "04:45 AM 21/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1789918066094-3",
+    "matchName": "England vs Sri Lanka",
+    "sportType": "Cricket",
+    "league": "Eng vs Sl",
+    "homeTeamName": "England",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "awayTeamName": "Sri Lanka",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:15 PM 22/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Server 1",
+        "url": "https://instreams.live/live/tv401884788/index.m3u8?st=fBMxvc6pzCvQc7Mf_sPsXg&e=1789922020|Referer=https://instream.click/livetv.php?stream=tv401884788&Origin=https://instream.click/livetv.php?stream=tv401884788&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://edgestream2.pro/hls/dzaugyvdgazc90.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   }
