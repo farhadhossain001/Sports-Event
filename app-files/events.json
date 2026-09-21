@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1789971608951-0",
-    "matchName": "Caribbean Premier League",
-    "sportType": "Cricket",
-    "league": "Caribbean Premier League",
-    "homeTeamName": "Caribbean Premier League",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "awayTeamName": "Caribbean Premier League",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "04:45 AM 21/09/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1789971608951-1",
+    "id": "imported-1789996121892-0",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -35,8 +14,8 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://edgestream2.pro/hls/dzaugyvdgazc90.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
