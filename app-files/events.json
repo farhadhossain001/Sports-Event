@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1789945684570-0",
+    "id": "imported-1789952678859-0",
     "matchName": "Caribbean Premier League",
     "sportType": "Cricket",
     "league": "Caribbean Premier League",
@@ -15,13 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zqttnrpszn/out/v1/4e3561c0771c46aaa625bff2338290da/cenc.mpd|drmScheme=clearkey&drmLicense=a983a40b395d5c3fc017322b8c4b1695:559dd7742a6c8dd7be5edb904a9a550f",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zqttnrpszn/out/v1/4e3561c0771c46aaa625bff2338290da/cenc.mpd|drmScheme=clearkey&drmLicense=a983a40b395d5c3fc017322b8c4b1695:559dd7742a6c8dd7be5edb904a9a550f",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1789945684570-1",
+    "id": "imported-1789952678859-1",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -36,7 +36,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream2.pro/hls/dzaugyvdgazc90.m3u8|Referer=https://streame.center&Origin=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://edgestream2.pro/hls/dzaugyvdgazc90.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
