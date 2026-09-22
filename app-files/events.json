@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1790104438372-0",
+    "id": "imported-1790115216897-0",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -15,43 +15,49 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790190156-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cbf8000abb3939fcb41802a6e89e7d8d|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.59/hls/K999.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790190159-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-41dabff495d6abe5bfc456f89dbaab59|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/master.m3u8?hdnea=exp=1790119241~acl=/*~id=50654049683125740759741101629018~hmac=19152f9dbf5f48537d33fcf4b6c3441109e1b44f6c2ee5aed2b2f2809f223c0a",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "http://193.47.62.59/hls/K999.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 5",
-        "url": "https://edgestream2.pro/hls/wxcgfaiiog63.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 6",
         "url": "http://193.47.62.50/hls/a444A.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       },
       {
-        "name": "Server 7",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ww2lshzug5/out/v1/de6a9587a2a3473ab685fb93d1de0929/cenc.mpd|drmScheme=clearkey&drmLicense=70b921e2eae48d00b0a2249b0de197b4:4b994f1b4666368565dd56a76975843e",
+        "name": "Server 3",
+        "url": "https://edgestream2.pro/hls/wxcgfaiiog63.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "http://193.47.62.48/hls/a444A.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1790104438372-1",
+    "id": "imported-1790115216897-1",
+    "matchName": "South Australia vs Tasmania",
+    "sportType": "Cricket",
+    "league": "Domestic",
+    "homeTeamName": "South Australia",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/south-australia/logo.webp",
+    "awayTeamName": "Tasmania",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/tasmania/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "06:30 AM 23/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1790115216897-2",
     "matchName": "Asian Games T20",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -72,7 +78,7 @@
     ]
   },
   {
-    "id": "imported-1790104438372-2",
+    "id": "imported-1790115216897-3",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
