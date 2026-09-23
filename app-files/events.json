@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1790123866476-0",
+    "id": "imported-1790140346620-0",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -15,23 +15,18 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.59/hls/K999.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://edgestream2.pro/hls/wxcgfaiiog63.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://edgestream2.pro/hls/wxcgfaiiog63.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://instreams.pro/live/tv401879648/index.m3u8?st=fNcuB4PnU9TtYfzgPcsBcA&e=1790127015|Referer=https://instream.click/livetv.php?stream=tv401879648&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://instreams.pro/live/tv401879648/index.m3u8?st=tp6zkBhd9vnxJMhn6N4RGQ&e=1790137815|Referer=https://instream.click/livetv.php?stream=tv401879648&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1790123866476-1",
+    "id": "imported-1790140346620-1",
     "matchName": "South Australia vs Tasmania",
     "sportType": "Cricket",
     "league": "Domestic",
@@ -39,7 +34,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/south-australia/logo.webp",
     "awayTeamName": "Tasmania",
     "awayTeamLogo": "https://cdn.img4every1.org/team/tasmania/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "06:30 AM 23/09/2026",
     "link": "",
@@ -52,7 +47,7 @@
     ]
   },
   {
-    "id": "imported-1790123866476-2",
+    "id": "imported-1790140346620-2",
     "matchName": "Asian Games T20",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -73,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1790123866476-3",
+    "id": "imported-1790140346620-3",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
