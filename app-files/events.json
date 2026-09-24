@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1790263369765-0",
+    "id": "imported-1790277838994-0",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -15,7 +15,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790349474-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d1dbed7aadf7f66912c32444572e5859|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790363969-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f55ba281d4b09e98fe5a47d2c3c8d881|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
@@ -30,13 +30,13 @@
       },
       {
         "name": "Server 4",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3qedwpltfa/out/v1/cc4dcca6d4434946bc70737267ffed31/cenc.mpd|drmScheme=clearkey&drmLicense=1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3qedwpltfa/out/v1/cc4dcca6d4434946bc70737267ffed31/cenc.mpd|drmScheme=clearkey&drmLicense=1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1790263369765-1",
+    "id": "imported-1790277838994-1",
     "matchName": "Asian Games T20",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "id": "imported-1790263369765-2",
+    "id": "imported-1790277838994-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -72,18 +72,8 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790349464-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c12deacd9cd23a161d6c15d436117c7f|Referer=https://iframe.rumsport8.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "http://193.47.62.59/hls/RRRRAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd|drmScheme=clearkey&drmLicense=71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   }
