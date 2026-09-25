@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1790365766390-0",
+    "id": "imported-1790377495830-0",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -17,11 +17,16 @@
         "name": "Server 1",
         "url": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://instreams.live/live/tv401879649/index.m3u8?st=_f7zDUIQLKmKZ4BIXrZobw&e=1790388054|Referer=https://instream.click/livetv.php?stream=tv401879649&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1790365766390-1",
+    "id": "imported-1790377495830-1",
     "matchName": "Asian Games T20",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -42,7 +47,7 @@
     ]
   },
   {
-    "id": "imported-1790365766390-2",
+    "id": "imported-1790377495830-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
