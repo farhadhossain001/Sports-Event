@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1790404636340-0",
+    "id": "imported-1790423300746-0",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -20,18 +20,13 @@
       },
       {
         "name": "Server 2",
-        "url": "https://instreams.live/live/tv401879649/index.m3u8?st=_f7zDUIQLKmKZ4BIXrZobw&e=1790388054|Referer=https://instream.click/livetv.php?stream=tv401879649&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
         "url": "https://instreams.pro/live/tv401879649/index.m3u8?st=Wgolfn9pXGiZmZdsjPLdjQ&e=1790398855|Referer=https://instream.click/livetv.php?stream=tv401879649&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1790404636340-1",
+    "id": "imported-1790423300746-1",
     "matchName": "Asian Games T20",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -52,7 +47,7 @@
     ]
   },
   {
-    "id": "imported-1790404636340-2",
+    "id": "imported-1790423300746-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -68,6 +63,79 @@
       {
         "name": "Server 1",
         "url": "https://khala.futlivehd.com/global/appletv7/index.m3u8?token=05bd1996defab178e281d50a1ca0ee329e3aa9f4-f0-1790429454-1790375454|Referer=https://streamxhd.com/live1.php?stream=appletv7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1790423300746-3",
+    "matchName": "India vs West Indies",
+    "sportType": "Cricket",
+    "league": "India vs Wi",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "West Indies",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "02:00 PM 27/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Server 1",
+        "url": "https://edgestream2.pro/hls/jnknjfzbk35.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://juxrd.hundxvision.co.uk/main/secure/62e2e90faec004a948dcce35e699e6a9f76828b371fa117af65fd18b81cb12e1/1790395267/fox-usa.m3u8|Referer=https://exmxbxe.cfd/flyemb/bhg7rkug&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://streamfree.top/live-cdn/northwestern-wildcats-vs-indiana-hoosiers1080p3/index.m3u8?_e=1790422249&_n=fe616abf45816d66&_t=VXMfxEl-DgeZquNROd6NDw|Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1790423300746-4",
+    "matchName": "Pakistan vs Hong Kong",
+    "sportType": "Cricket",
+    "league": "Asian Games",
+    "homeTeamName": "Pakistan",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+    "awayTeamName": "Hong Kong",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/hong-kong/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "06:00 AM 28/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1790423300746-5",
+    "matchName": "India vs Afghanistan",
+    "sportType": "Cricket",
+    "league": "Asian Games",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "Afghanistan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "11:00 AM 28/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
