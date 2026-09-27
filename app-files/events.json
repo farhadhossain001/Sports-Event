@@ -1,73 +1,6 @@
 [
   {
-    "id": "imported-1790468291874-0",
-    "matchName": "England vs Sri Lanka",
-    "sportType": "Cricket",
-    "league": "Eng vs Sl",
-    "homeTeamName": "England",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "awayTeamName": "Sri Lanka",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "05:15 PM 22/09/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://edgestream2.pro/hls/wxqsdafzaengfgu97.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://edgestream2.pro/hls/griogoehvn2.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 5",
-        "url": "https://instreams.pro/live/tv401879647/index.m3u8?st=qM8tRoQjwToG32OH3CwJJg&e=1790474466|Referer=https://instream.click/livetv.php?stream=tv401879647&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 6",
-        "url": "https://instreams.pro/live/tv401861064/index.m3u8?st=xgJzegmZTzMAuzQpnOsbLg&e=1790469072|Referer=https://instream.click/livetv.php?stream=tv401861064&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1790468291874-1",
-    "matchName": "Asian Games T20",
-    "sportType": "Cricket",
-    "league": "Asian Games",
-    "homeTeamName": "Asian Games T20",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/asian-games-t20/logo.webp",
-    "awayTeamName": "Asian Games",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/asian-games/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "05:45 AM 24/09/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1790468291874-2",
+    "id": "imported-1790487252303-0",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -75,30 +8,45 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
     "awayTeamName": "South Africa",
     "awayTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-    "isLive": true,
+    "isLive": false,
     "isHot": false,
-    "startTime": "01:45 PM 24/09/2026",
+    "startTime": "01:45 PM 27/09/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://khala.futlivehd.com/global/appletv7/index.m3u8?token=2adb5a3cc8bcf3f2dadf39bfe735ef3ff049e4f7-16-1790508670-1790454670|Referer=https://streamxhd.com/live1.php?stream=appletv7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.50/hls/TUUUF.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://instreams.pro/live/tv761839/index.m3u8?st=QFvJgMAIKNlXZmufuAgxdQ&e=1790478050|Referer=https://instream.click/livetv.php?stream=tv761839&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://chatgpt.hereisman.net/playlist/57225/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/57225?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://juxrd.hundxvision.co.uk/main/secure/f263a269f8f55f2047b7a2a7786d06584541ef2235970250e633a103b11a05ae/1790476249/mls-761839.m3u8|Referer=https://exmxbxe.cfd/0il95tgm-5530&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://lb4.wfty.st/secure/D97WNwJz3i9h1cr4EMJbsA/platinum/austin-fc-san-diego-fc/1/4621332/1790492452/playlist.m3u8|Referer=https://sportsembed.su/embed/4621332/austin-fc-san-diego-fc/platinum/1?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://khala.futlivehd.com/global/appletv7/index.m3u8?token=2adb5a3cc8bcf3f2dadf39bfe735ef3ff049e4f7-16-1790508670-1790454670|Referer=https://streamxhd.com/live1.php?stream=appletv7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://instreams.live/live/tv761839/index.m3u8?st=HD4Pdf24F-LOtN8DpAhwFA&e=1790488849|Referer=https://instream.click/livetv.php?stream=tv761839&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 6",
+        "url": "https://juxrd.hundxvision.co.uk/main/secure/d3a6a6ee911c25ebd9c864da305ffc1e8a0a32ec5895b2799d26b9b7a71ab32f/1790483464/mls-761839.m3u8|Referer=https://exmxbxe.cfd/0il95tgm-5530&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1790468291874-3",
+    "id": "imported-1790487252303-1",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -119,7 +67,69 @@
     ]
   },
   {
-    "id": "imported-1790468291874-4",
+    "id": "imported-1790487252303-2",
+    "matchName": "England vs Sri Lanka",
+    "sportType": "Cricket",
+    "league": "Eng vs Sl",
+    "homeTeamName": "England",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "awayTeamName": "Sri Lanka",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "03:30 PM 27/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Server 1",
+        "url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://edgestream2.pro/hls/wxqsdafzaengfgu97.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://instreams.pro/live/tv401879647/index.m3u8?st=qM8tRoQjwToG32OH3CwJJg&e=1790474466|Referer=https://instream.click/livetv.php?stream=tv401879647&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://edgestream2.pro/hls/griogoehvn2.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1790487252303-3",
+    "matchName": "Asian Games T20",
+    "sportType": "Cricket",
+    "league": "Asian Games",
+    "homeTeamName": "Asian Games T20",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/asian-games-t20/logo.webp",
+    "awayTeamName": "Asian Games",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/asian-games/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:45 AM 28/09/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1790487252303-4",
     "matchName": "Pakistan vs Hong Kong",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -140,7 +150,7 @@
     ]
   },
   {
-    "id": "imported-1790468291874-5",
+    "id": "imported-1790487252303-5",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "Asian Games",
