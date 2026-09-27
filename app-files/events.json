@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1790459771703-0",
+    "id": "imported-1790468291874-0",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Eng vs Sl",
@@ -15,38 +15,38 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream2.pro/hls/griogoehvn2.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://instreams.pro/live/tv401861064/index.m3u8?st=Y4gsQyWnjTlZacSlOP6kWw&e=1790458277|Referer=https://instream.click/livetv.php?stream=tv401861064&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 5",
         "url": "https://edgestream2.pro/hls/wxqsdafzaengfgu97.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       },
       {
+        "name": "Server 3",
+        "url": "https://edgestream2.pro/hls/griogoehvn2.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://instreams.pro/live/tv401879647/index.m3u8?st=qM8tRoQjwToG32OH3CwJJg&e=1790474466|Referer=https://instream.click/livetv.php?stream=tv401879647&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
         "name": "Server 6",
-        "url": "https://instreams.live/live/tv401861060/index.m3u8?st=8zGx8rReXkGnl6Oz-4zpbw&e=1790460052|Referer=https://instream.click/livetv.php?stream=tv401861060&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://instreams.pro/live/tv401861064/index.m3u8?st=xgJzegmZTzMAuzQpnOsbLg&e=1790469072|Referer=https://instream.click/livetv.php?stream=tv401861064&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1790459771703-1",
+    "id": "imported-1790468291874-1",
     "matchName": "Asian Games T20",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -67,7 +67,7 @@
     ]
   },
   {
-    "id": "imported-1790459771703-2",
+    "id": "imported-1790468291874-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -82,13 +82,23 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://khala.futlivehd.com/global/appletv7/index.m3u8?token=2a826baf4fa2ca0e5162a45d523ca4cb888307ac-91-1790488857-1790434857|Referer=https://streamxhd.com/live1.php?stream=appletv7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://khala.futlivehd.com/global/appletv7/index.m3u8?token=2adb5a3cc8bcf3f2dadf39bfe735ef3ff049e4f7-16-1790508670-1790454670|Referer=https://streamxhd.com/live1.php?stream=appletv7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://instreams.pro/live/tv761839/index.m3u8?st=QFvJgMAIKNlXZmufuAgxdQ&e=1790478050|Referer=https://instream.click/livetv.php?stream=tv761839&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://juxrd.hundxvision.co.uk/main/secure/f263a269f8f55f2047b7a2a7786d06584541ef2235970250e633a103b11a05ae/1790476249/mls-761839.m3u8|Referer=https://exmxbxe.cfd/0il95tgm-5530&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1790459771703-3",
+    "id": "imported-1790468291874-3",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -109,7 +119,7 @@
     ]
   },
   {
-    "id": "imported-1790459771703-4",
+    "id": "imported-1790468291874-4",
     "matchName": "Pakistan vs Hong Kong",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -130,7 +140,7 @@
     ]
   },
   {
-    "id": "imported-1790459771703-5",
+    "id": "imported-1790468291874-5",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "Asian Games",
