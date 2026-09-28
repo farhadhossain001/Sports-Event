@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1790557345896-0",
+    "id": "imported-1790578396053-0",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1790557345896-1",
+    "id": "imported-1790578396053-1",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1790557345896-2",
+    "id": "imported-1790578396053-2",
     "matchName": "Asian Games T20",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -50,7 +50,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/asian-games-t20/logo.webp",
     "awayTeamName": "Asian Games",
     "awayTeamLogo": "https://cdn.img4every1.org/team/asian-games/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:45 AM 28/09/2026",
     "link": "",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1790557345896-3",
+    "id": "imported-1790578396053-3",
     "matchName": "Pakistan vs Hong Kong",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -71,20 +71,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
     "awayTeamName": "Hong Kong",
     "awayTeamLogo": "https://cdn.img4every1.org/team/hong-kong/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "06:00 AM 28/09/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd|drmScheme=clearkey&drmLicense=4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1790557345896-4",
+    "id": "imported-1790578396053-4",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -101,6 +101,11 @@
         "name": "Server 1",
         "url": "http://193.47.62.50/hls/frrr.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d1dccovpea/out/v1/cb8f23c369044504b7a2a046ff2f92b8/cenc.mpd|drmScheme=clearkey&drmLicense=ede7c67754635ee32dfe0cb550358ee2:7e488d33ce781c3a8972b07adc774624",
+        "isPrimary": false
       }
     ]
   }
