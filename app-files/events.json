@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1790547996295-0",
+    "id": "imported-1790557345896-0",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1790547996295-1",
+    "id": "imported-1790557345896-1",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1790547996295-2",
+    "id": "imported-1790557345896-2",
     "matchName": "Asian Games T20",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1790547996295-3",
+    "id": "imported-1790557345896-3",
     "matchName": "Pakistan vs Hong Kong",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -77,14 +77,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd|drmScheme=clearkey&drmLicense=4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1790547996295-4",
+    "id": "imported-1790557345896-4",
     "matchName": "India vs Afghanistan",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -98,8 +98,8 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.50/hls/frrr.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
