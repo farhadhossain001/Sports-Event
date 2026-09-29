@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1790708018279-0",
+    "id": "imported-1790722209271-0",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -8,9 +8,9 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
     "awayTeamName": "South Africa",
     "awayTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-    "isLive": true,
+    "isLive": false,
     "isHot": false,
-    "startTime": "01:45 PM 27/09/2026",
+    "startTime": "01:45 PM 30/09/2026",
     "link": "",
     "streams": [
       {
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1790708018279-1",
+    "id": "imported-1790722209271-1",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -29,9 +29,9 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "West Indies",
     "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-    "isLive": true,
+    "isLive": false,
     "isHot": false,
-    "startTime": "02:00 PM 27/09/2026",
+    "startTime": "02:00 PM 30/09/2026",
     "link": "",
     "streams": [
       {
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1790708018279-2",
+    "id": "imported-1790722209271-2",
     "matchName": "Asian Games T20",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -50,9 +50,51 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/asian-games-t20/logo.webp",
     "awayTeamName": "Asian Games",
     "awayTeamLogo": "https://cdn.img4every1.org/team/asian-games/logo.webp",
-    "isLive": true,
+    "isLive": false,
     "isHot": false,
-    "startTime": "05:45 AM 28/09/2026",
+    "startTime": "05:45 AM 01/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1790722209271-3",
+    "matchName": "Pakistan vs Bangladesh",
+    "sportType": "Cricket",
+    "league": "Asian Games",
+    "homeTeamName": "Pakistan",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+    "awayTeamName": "Bangladesh",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "06:00 AM 01/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1790722209271-4",
+    "matchName": "India vs Sri Lanka",
+    "sportType": "Cricket",
+    "league": "Asian Games",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "Sri Lanka",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "11:00 AM 01/10/2026",
     "link": "",
     "streams": [
       {
