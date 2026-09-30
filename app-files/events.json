@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1790797805309-0",
+    "id": "imported-1790810925977-0",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -14,19 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.41/hls/fafafaAAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd|drmScheme=clearkey&drmLicense=a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1790797805309-1",
+    "id": "imported-1790810925977-1",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -40,14 +35,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.50/hls/ARRRaX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1790797805309-2",
+    "id": "imported-1790810925977-2",
     "matchName": "Asian Games T20",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -68,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1790797805309-3",
+    "id": "imported-1790810925977-3",
     "matchName": "Pakistan vs Bangladesh",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -82,14 +77,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/master.m3u8?hdnea=exp=1790853632~acl=/*~id=63007396512083183335282935725676~hmac=3496becc4a507d3d7e2798c5271dcfb499ff429839694cc6f8747a3b8438acf3",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1790797805309-4",
+    "id": "imported-1790810925977-4",
     "matchName": "India vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Asian Games",
