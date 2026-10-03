@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1791029762588-0",
+    "id": "imported-1791045295097-0",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -20,13 +20,18 @@
       },
       {
         "name": "Server 2",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd|drmScheme=clearkey&drmLicense=465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
+        "url": "http://193.47.62.50/hls/UBBBQQQQQ.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd|drmScheme=clearkey&drmLicense=465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1791029762588-1",
+    "id": "imported-1791045295097-1",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -34,20 +39,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/world-championship-of-legends/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:30 PM 03/10/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/pbidfsvt6s/out/v1/fa36ffe7709740a08bda86c6a3281782/cenc.mpd|drmScheme=clearkey&drmLicense=e8dfce98828222c090e14a5f39f5bf33:ad47b761acd8ba42ee10390a3775e0e7",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1791029762588-2",
+    "id": "imported-1791045295097-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
