@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1790980472901-0",
+    "id": "imported-1790990846683-0",
     "matchName": "Asian Games T20",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1790980472901-1",
+    "id": "imported-1790990846683-1",
     "matchName": "Bangladesh vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -35,14 +35,24 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/master.m3u8?hdnea=exp=1791026437~acl=/*~id=63474090427168417258067324640330~hmac=666ecd914c78fa39d68ba0f92a6a9c4eeaef24cfc8c9c48d25fbebeebe848665",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.55/hls/AAAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vqg0oc1cjd/out/v1/f0c8600b39fe42148de4a926f44759cb/cenc.mpd|drmScheme=clearkey&drmLicense=d823341ae92c269213a9c39c1df891b0:e4f00dc75b4031b3c5fa2e00b03cd7b2",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1790980472901-2",
+    "id": "imported-1790990846683-2",
     "matchName": "Pakistan vs India",
     "sportType": "Cricket",
     "league": "Asian Games",
@@ -63,7 +73,7 @@
     ]
   },
   {
-    "id": "imported-1790980472901-3",
+    "id": "imported-1790990846683-3",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -84,7 +94,7 @@
     ]
   },
   {
-    "id": "imported-1790980472901-4",
+    "id": "imported-1790990846683-4",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
