@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1791121279224-0",
+    "id": "imported-1791136245275-0",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1791121279224-1",
+    "id": "imported-1791136245275-1",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1791121279224-2",
+    "id": "imported-1791136245275-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -56,9 +56,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://Ym9yZQ.fubo18.com:443/foxsports2_usa/mono.m3u8?token=cb8774fcac0c2f3a22ea9a4afbbbffeabd03ac9a-2d-1791152161-1791134161|Referer=https://tvf90.com/1.php?stream=foxsports2_usa&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://11.ftlly.com:443/foxsports2_usa/mono.m3u8?token=37830c20aeb7c7421dd123268bcfee1485dd5a43-80-1791152162-1791134162|Referer=https://tvf90.com/2.php?stream=foxsports2_usa&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   }
