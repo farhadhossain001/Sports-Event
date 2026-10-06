@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1791315708325-0",
+    "id": "imported-1791328618599-0",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1791315708325-1",
+    "id": "imported-1791328618599-1",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -29,20 +29,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "West Indies",
     "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "07:00 PM 06/10/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.41/hls/VUUUAAAXX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1791315708325-2",
+    "id": "imported-1791328618599-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
