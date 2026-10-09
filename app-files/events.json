@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1791530226214-0",
+    "id": "imported-1791556163798-0",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.44/hls/seee.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1791530226214-1",
+    "id": "imported-1791556163798-1",
     "matchName": "Test Match Bangladesh vs Afghanistan",
     "sportType": "Cricket",
     "league": "Afg vs Ban",
@@ -29,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/match-bangladesh/logo.webp",
     "awayTeamName": "Afghanistan",
     "awayTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "12:00 PM 09/10/2026",
     "link": "",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1791530226214-2",
+    "id": "imported-1791556163798-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -50,20 +50,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
     "awayTeamName": "South Africa",
     "awayTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "01:30 PM 09/10/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.50/hls/HHHHR.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.50/hls/HHHHRX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1791530226214-3",
+    "id": "imported-1791556163798-3",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -71,7 +71,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/world-championship-of-legends/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:30 PM 09/10/2026",
     "link": "",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1791530226214-4",
+    "id": "imported-1791556163798-4",
     "matchName": "1st T20 Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -98,8 +98,8 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.44/hls/VTTT.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
