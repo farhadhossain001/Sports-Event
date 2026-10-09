@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1791556163798-0",
+    "id": "imported-1791574803787-0",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -15,13 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.44/hls/seee.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.44/hls/seeeX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1791556163798-1",
+    "id": "imported-1791574803787-1",
     "matchName": "Test Match Bangladesh vs Afghanistan",
     "sportType": "Cricket",
     "league": "Afg vs Ban",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1791556163798-2",
+    "id": "imported-1791574803787-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -57,13 +57,18 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.50/hls/HHHHRX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.50/hls/DADADAAAAAQQ.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.50/hls/HHHHRX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1791556163798-3",
+    "id": "imported-1791574803787-3",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -84,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1791556163798-4",
+    "id": "imported-1791574803787-4",
     "matchName": "1st T20 Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -99,7 +104,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.44/hls/VTTT.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.44/hls/VTTTX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
