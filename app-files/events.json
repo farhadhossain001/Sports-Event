@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1791729500075-0",
+    "id": "imported-1791745887240-0",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1791729500075-1",
+    "id": "imported-1791745887240-1",
     "matchName": "Nepal vs Canada",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1791729500075-2",
+    "id": "imported-1791745887240-2",
     "matchName": "Test Match Bangladesh vs Afghanistan",
     "sportType": "Cricket",
     "league": "Afg vs Ban",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1791729500075-3",
+    "id": "imported-1791745887240-3",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -78,13 +78,18 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.50/hls/HHHHRX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.56/hls/VRVRVRAAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.50/hls/HHHHRX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1791729500075-4",
+    "id": "imported-1791745887240-4",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -105,7 +110,7 @@
     ]
   },
   {
-    "id": "imported-1791729500075-5",
+    "id": "imported-1791745887240-5",
     "matchName": "2nd T20 Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
