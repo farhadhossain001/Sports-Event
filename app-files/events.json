@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1791770607509-0",
+    "id": "imported-1791796293504-0",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -8,9 +8,9 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "West Indies",
     "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-    "isLive": true,
+    "isLive": false,
     "isHot": false,
-    "startTime": "07:00 PM 11/10/2026",
+    "startTime": "07:00 PM 14/10/2026",
     "link": "",
     "streams": [
       {
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1791770607509-1",
+    "id": "imported-1791796293504-1",
     "matchName": "Test Match Bangladesh vs Afghanistan",
     "sportType": "Cricket",
     "league": "Afg vs Ban",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1791770607509-2",
+    "id": "imported-1791796293504-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -56,24 +56,29 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.50/hls/HHHHRX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd|drmScheme=clearkey&drmLicense=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1791770607509-3",
-    "matchName": "World Championship of Legends",
+    "id": "imported-1791796293504-3",
+    "matchName": "Nepal vs Oman",
     "sportType": "Cricket",
-    "league": "T20 League",
-    "homeTeamName": "World Championship of Legends",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/world-championship-of-legends/logo.webp",
-    "awayTeamName": "T20 League",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": true,
+    "league": "ODI Match",
+    "homeTeamName": "Nepal",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
+    "awayTeamName": "Oman",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/oman/logo.webp",
+    "isLive": false,
     "isHot": false,
-    "startTime": "05:30 PM 11/10/2026",
+    "startTime": "12:00 PM 13/10/2026",
     "link": "",
     "streams": [
       {
@@ -84,7 +89,28 @@
     ]
   },
   {
-    "id": "imported-1791770607509-4",
+    "id": "imported-1791796293504-4",
+    "matchName": "World Championship of Legends",
+    "sportType": "Cricket",
+    "league": "T20 League",
+    "homeTeamName": "World Championship of Legends",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/world-championship-of-legends/logo.webp",
+    "awayTeamName": "T20 League",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:30 PM 13/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1791796293504-5",
     "matchName": "3rd T20 Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
