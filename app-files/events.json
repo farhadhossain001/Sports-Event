@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1791854475438-0",
+    "id": "imported-1791878770615-0",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1791854475438-1",
+    "id": "imported-1791878770615-1",
     "matchName": "Test Match Bangladesh vs Afghanistan",
     "sportType": "Cricket",
     "league": "Afg vs Ban",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1791854475438-2",
+    "id": "imported-1791878770615-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -56,14 +56,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.50/hls/HHHHRX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bqgyjksfjy/out/v1/7c68c890bd454021b45b3e0eb90cdf03/cenc.mpd|drmScheme=clearkey&drmLicense=7578716f99caa689b9a4d2bdce753651:24d34e5d771ed71f519c8f8e971c3bd8",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1791854475438-3",
+    "id": "imported-1791878770615-3",
     "matchName": "Nepal vs Oman",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -84,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1791854475438-4",
+    "id": "imported-1791878770615-4",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -105,7 +110,7 @@
     ]
   },
   {
-    "id": "imported-1791854475438-5",
+    "id": "imported-1791878770615-5",
     "matchName": "3rd T20 Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
