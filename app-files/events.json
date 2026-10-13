@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1791907084802-0",
+    "id": "imported-1791925564144-0",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/0o0sfxif50/out/v1/96ec63a0253f4f4dbca19d1977080209/cenc.mpd|drmScheme=clearkey&drmLicense=07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1791907084802-1",
+    "id": "imported-1791925564144-1",
     "matchName": "Test Match Bangladesh vs Afghanistan",
     "sportType": "Cricket",
     "league": "Afg vs Ban",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1791907084802-2",
+    "id": "imported-1791925564144-2",
     "matchName": "Nepal vs Oman",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1791907084802-3",
+    "id": "imported-1791925564144-3",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -77,19 +77,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd|drmScheme=clearkey&drmLicense=f68ee17bb04e91269fe9b7aa25638467:ea4b416e8694fa1dcf92e3b4b318c7d8",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/0o0sfxif50/out/v1/96ec63a0253f4f4dbca19d1977080209/cenc.mpd|drmScheme=clearkey&drmLicense=07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1791907084802-4",
+    "id": "imported-1791925564144-4",
     "matchName": "3rd T20 Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -104,13 +99,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/1izizyimsv/out/v1/8e83c58952df4181b17e46dd1253d66e/cenc.mpd|drmScheme=clearkey&drmLicense=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af",
+        "url": "http://193.47.62.41/hls/krrrX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1791907084802-5",
+    "id": "imported-1791925564144-5",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -124,8 +119,8 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.50/hls/HHHHRX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
