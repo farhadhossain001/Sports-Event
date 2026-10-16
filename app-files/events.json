@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1792186206129-0",
+    "id": "imported-1792194561306-0",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.44/hls/DYYYY.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1792186206129-1",
+    "id": "imported-1792194561306-1",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1792186206129-2",
+    "id": "imported-1792194561306-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
