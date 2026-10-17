@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1792259618915-0",
-    "matchName": "India vs West Indies",
-    "sportType": "Cricket",
-    "league": "India vs Wi",
-    "homeTeamName": "India",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
-    "awayTeamName": "West Indies",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "07:00 PM 14/10/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd|drmScheme=clearkey&drmLicense=c21cda3aab763439e2f05489f9a73827:582de22865b044837d559884992caf4f",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1792259618915-1",
+    "id": "imported-1792267688008-0",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -36,13 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd|drmScheme=clearkey&drmLicense=d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd|drmScheme=clearkey&drmLicense=d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1792259618915-2",
+    "id": "imported-1792267688008-1",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -63,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1792259618915-3",
+    "id": "imported-1792267688008-2",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -84,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1792259618915-4",
+    "id": "imported-1792267688008-3",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
