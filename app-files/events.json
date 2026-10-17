@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1792223209917-0",
+    "id": "imported-1792238314908-0",
     "matchName": "India vs West Indies",
     "sportType": "Cricket",
     "league": "India vs Wi",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1792223209917-1",
+    "id": "imported-1792238314908-1",
     "matchName": "Nepal vs Canada",
     "sportType": "Cricket",
     "league": "ODI Match",
@@ -29,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/nepal/logo.webp",
     "awayTeamName": "Canada",
     "awayTeamLogo": "https://cdn.img4every1.org/team/canada/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "11:30 AM 17/10/2026",
     "link": "",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1792223209917-2",
+    "id": "imported-1792238314908-2",
     "matchName": "Bangladesh vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -56,14 +56,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd|drmScheme=clearkey&drmLicense=d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1792223209917-3",
+    "id": "imported-1792238314908-3",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1792223209917-4",
+    "id": "imported-1792238314908-4",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
