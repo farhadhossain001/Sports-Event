@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1792349864243-0",
-    "matchName": "Pakistan vs Sri Lanka",
-    "sportType": "Cricket",
-    "league": "Tri-Series",
-    "homeTeamName": "Pakistan",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-    "awayTeamName": "Sri Lanka",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "02:00 PM 18/10/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1792349864243-1",
+    "id": "imported-1792358407334-0",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -35,19 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.41/hls/5NNN.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "http://193.47.62.44/hls/BEEEEAAAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1792349864243-2",
+    "id": "imported-1792358407334-1",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -55,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/world-championship-of-legends/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "09:30 PM 18/10/2026",
     "link": "",
@@ -68,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1792349864243-3",
+    "id": "imported-1792358407334-2",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -89,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1792349864243-4",
+    "id": "imported-1792358407334-3",
     "matchName": "England vs Pakistan",
     "sportType": "Cricket",
     "league": "Tri-Series",
