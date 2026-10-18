@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1792341705077-0",
+    "id": "imported-1792349864243-0",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd|drmScheme=clearkey&drmLicense=012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1792341705077-1",
+    "id": "imported-1792349864243-1",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -43,16 +43,11 @@
         "name": "Server 2",
         "url": "http://193.47.62.44/hls/BEEEEAAAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd|drmScheme=clearkey&drmLicense=783624418a73874b1bacbd79dda56c44:9c3a8a06ed069e28aa86c5e22dfeae67",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1792341705077-2",
+    "id": "imported-1792349864243-2",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -73,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1792341705077-3",
+    "id": "imported-1792349864243-3",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -94,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1792341705077-4",
+    "id": "imported-1792349864243-4",
     "matchName": "England vs Pakistan",
     "sportType": "Cricket",
     "league": "Tri-Series",
