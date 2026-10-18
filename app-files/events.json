@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1792282155747-0",
-    "matchName": "Bangladesh vs Zimbabwe",
-    "sportType": "Cricket",
-    "league": "Tri-Series",
-    "homeTeamName": "Bangladesh",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
-    "awayTeamName": "Zimbabwe",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "05:30 PM 17/10/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1792282155747-1",
+    "id": "imported-1792297956076-0",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -42,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1792282155747-2",
+    "id": "imported-1792297956076-1",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -63,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1792282155747-3",
+    "id": "imported-1792297956076-2",
     "matchName": "World Championship of Legends",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -74,6 +53,48 @@
     "isLive": false,
     "isHot": false,
     "startTime": "09:30 PM 18/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1792297956076-3",
+    "matchName": "Afghanistan vs Zimbabwe",
+    "sportType": "Cricket",
+    "league": "Tri-Series",
+    "homeTeamName": "Afghanistan",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+    "awayTeamName": "Zimbabwe",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:30 PM 19/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1792297956076-4",
+    "matchName": "England vs Pakistan",
+    "sportType": "Cricket",
+    "league": "Tri-Series",
+    "homeTeamName": "England",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "awayTeamName": "Pakistan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "02:00 PM 20/10/2026",
     "link": "",
     "streams": [
       {
