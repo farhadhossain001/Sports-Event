@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1792392686643-0",
+    "id": "imported-1792419618263-0",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -14,14 +14,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.44/hls/BEEEEAAAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dpmwhamcg5/out/v1/75e085ecbcf54d8082aa137858f9260b/cenc.mpd|drmScheme=clearkey&drmLicense=5d104ea685f4e34ca82b51758c4a1f1f:3817e044aa7cf3c012069fae8a1b17cb",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1792392686643-1",
+    "id": "imported-1792419618263-1",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -29,20 +34,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
     "awayTeamName": "Zimbabwe",
     "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:30 PM 19/10/2026",
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd|drmScheme=clearkey&drmLicense=b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1792392686643-2",
+    "id": "imported-1792419618263-2",
     "matchName": "England vs Pakistan",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -53,6 +58,90 @@
     "isLive": false,
     "isHot": false,
     "startTime": "02:00 PM 20/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1792419618263-3",
+    "matchName": "Bangladesh vs Afghanistan",
+    "sportType": "Cricket",
+    "league": "Tri-Series",
+    "homeTeamName": "Bangladesh",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+    "awayTeamName": "Afghanistan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:30 PM 21/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1792419618263-4",
+    "matchName": "1st T20 India vs New Zealand",
+    "sportType": "Cricket",
+    "league": "Ind vs Nz",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "New Zealand",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "01:00 PM 22/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1792419618263-5",
+    "matchName": "England vs Sri Lanka",
+    "sportType": "Cricket",
+    "league": "Tri-Series",
+    "homeTeamName": "England",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "awayTeamName": "Sri Lanka",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "02:00 PM 22/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1792419618263-6",
+    "matchName": "2nd T20 India vs New Zealand",
+    "sportType": "Cricket",
+    "league": "Ind vs Nz",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "New Zealand",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "01:00 PM 24/10/2026",
     "link": "",
     "streams": [
       {
