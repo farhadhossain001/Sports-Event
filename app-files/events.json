@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1792518851937-0",
+    "id": "imported-1792530919719-0",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -8,41 +8,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
     "awayTeamName": "South Africa",
     "awayTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-    "isLive": true,
+    "isLive": false,
     "isHot": false,
-    "startTime": "02:00 PM 18/10/2026",
+    "startTime": "02:00 PM 21/10/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.44/hls/BEEEEAAAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1792518851937-1",
-    "matchName": "England vs Pakistan",
-    "sportType": "Cricket",
-    "league": "Tri-Series",
-    "homeTeamName": "England",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "awayTeamName": "Pakistan",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "02:00 PM 20/10/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "http://193.47.62.55/hls/CCCCCC.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1792518851937-2",
+    "id": "imported-1792530919719-1",
     "matchName": "Bangladesh vs Afghanistan",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -63,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1792518851937-3",
+    "id": "imported-1792530919719-2",
     "matchName": "1st T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -84,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1792518851937-4",
+    "id": "imported-1792530919719-3",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -99,7 +78,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.55/hls/QFFFAAAQQQQA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
@@ -109,18 +88,38 @@
       },
       {
         "name": "Server 3",
-        "url": "https://edgestream1.pro/hls/lmdsjkfgv52.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       },
       {
         "name": "Server 4",
-        "url": "https://gate4.st/live3/tv401915403/index.m3u8?st=4sXabm27rGyeEu1L8obnJw&e=1792526405|Referer=https://xstream.st/livetv.php?stream=tv401915403&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://edgestream1.pro/hls/lmdsjkfgv52.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://gate4.st/live3/tv401915402/index.m3u8?st=wPyThPC7M0FOJOPaC_00fg&e=1792531817|Referer=https://xstream.st/livetv.php?stream=tv401915402&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 6",
+        "url": "https://gate4.st/live3/tv401880783/index.m3u8?st=zREsTkd3CeJrWa3XdS9ejg&e=1792531813|Referer=https://xstream.st/livetv.php?stream=tv401880783&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 7",
+        "url": "https://edgestream6.pro/hls/dza5z8f69.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 8",
+        "url": "https://edgestream6.pro/hls/lmdsjkfgv52.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1792518851937-5",
+    "id": "imported-1792530919719-4",
     "matchName": "2nd T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
