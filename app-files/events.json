@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1792501185783-0",
+    "id": "imported-1792518851937-0",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -17,16 +17,11 @@
         "name": "Server 1",
         "url": "http://193.47.62.44/hls/BEEEEAAAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd|drmScheme=clearkey&drmLicense=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1792501185783-1",
+    "id": "imported-1792518851937-1",
     "matchName": "England vs Pakistan",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -43,16 +38,11 @@
         "name": "Server 1",
         "url": "http://193.47.62.55/hls/CCCCCC.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd|drmScheme=clearkey&drmLicense=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1792501185783-2",
+    "id": "imported-1792518851937-2",
     "matchName": "Bangladesh vs Afghanistan",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -73,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1792501185783-3",
+    "id": "imported-1792518851937-3",
     "matchName": "1st T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -94,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1792501185783-4",
+    "id": "imported-1792518851937-4",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -109,23 +99,28 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream3.pro/hls/dza5z8f69.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://edgestream3.pro/hls/dza5z8f69.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       },
       {
         "name": "Server 3",
         "url": "https://edgestream1.pro/hls/lmdsjkfgv52.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://gate4.st/live3/tv401915403/index.m3u8?st=4sXabm27rGyeEu1L8obnJw&e=1792526405|Referer=https://xstream.st/livetv.php?stream=tv401915403&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1792501185783-5",
+    "id": "imported-1792518851937-5",
     "matchName": "2nd T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
