@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1792554233912-0",
+    "id": "imported-1792572858972-0",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd|drmScheme=clearkey&drmLicense=39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1792554233912-1",
+    "id": "imported-1792572858972-1",
     "matchName": "Bangladesh vs Afghanistan",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1792554233912-2",
+    "id": "imported-1792572858972-2",
     "matchName": "1st T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1792554233912-3",
+    "id": "imported-1792572858972-3",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -78,23 +78,23 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://edgestream6.pro/hls/lmdsjkfgv52.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://edgestream6.pro/hls/dza5z8f69.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://gate4.st/live3/tv401892541/index.m3u8?st=1afHROvf8M8eFN_P74vQ0w&e=1792546208|Referer=https://xstream.st/livetv.php?stream=tv401892541&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://edgestream6.pro/hls/lmdsjkfgv52.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://edgestream6.pro/hls/dza5z8f69.m3u8|Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://gate4.st/live3/tv401892541/index.m3u8?st=eM2IOJ1B6KyB19_w7-03Uw&e=1792557006|Referer=https://xstream.st/livetv.php?stream=tv401892541&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1792554233912-4",
+    "id": "imported-1792572858972-4",
     "matchName": "2nd T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
