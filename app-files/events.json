@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1792592463368-0",
+    "id": "imported-1792608532259-0",
     "matchName": "Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd|drmScheme=clearkey&drmLicense=39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1792592463368-1",
+    "id": "imported-1792608532259-1",
     "matchName": "Bangladesh vs Afghanistan",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -29,20 +29,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
     "awayTeamName": "Afghanistan",
     "awayTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:30 PM 21/10/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd|drmScheme=clearkey&drmLicense=a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd|drmScheme=clearkey&drmLicense=a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1792592463368-2",
+    "id": "imported-1792608532259-2",
     "matchName": "1st T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1792592463368-3",
+    "id": "imported-1792608532259-3",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1792592463368-4",
+    "id": "imported-1792608532259-4",
     "matchName": "2nd T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
