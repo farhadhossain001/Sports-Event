@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1792753303936-0",
+    "id": "imported-1792770292244-0",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -14,14 +14,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.50/hls/ZKKK.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jr2yukryn7/out/v1/2310db8f31c047c4b01ebd3ab96d815d/cenc.mpd|drmScheme=clearkey&drmLicense=dbad433264aa645af31c76701ae83e38:f8fb07f5bc0a587bf4faa5ca640b1c00",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1792753303936-1",
+    "id": "imported-1792770292244-1",
     "matchName": "2nd T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -42,7 +47,7 @@
     ]
   },
   {
-    "id": "imported-1792753303936-2",
+    "id": "imported-1792770292244-2",
     "matchName": "England vs Pakistan",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -63,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1792753303936-3",
+    "id": "imported-1792770292244-3",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
