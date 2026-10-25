@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1792957897902-0",
+    "id": "imported-1792966667552-0",
     "matchName": "India A vs New Zealand A",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -21,28 +21,7 @@
     ]
   },
   {
-    "id": "imported-1792957897902-1",
-    "matchName": "England vs Pakistan",
-    "sportType": "Cricket",
-    "league": "Tri-Series",
-    "homeTeamName": "England",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "awayTeamName": "Pakistan",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "02:00 PM 25/10/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "http://193.47.62.50/hls/ZZZZ.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1792957897902-2",
+    "id": "imported-1792966667552-1",
     "matchName": "3rd T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -56,14 +35,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/criclive2510/ENG/master.m3u8?hdnea=exp=1793008246~acl=/*~id=54009841981951384097284120477470~hmac=7014272ac6a303bb57126aa9f43c645745283e52a1d9b8bc08dd921fdeaaaad5",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1792957897902-3",
+    "id": "imported-1792966667552-2",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
