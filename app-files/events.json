@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1793081764546-0",
-    "matchName": "India A vs New Zealand A",
-    "sportType": "Cricket",
-    "league": "Ind vs Nz",
-    "homeTeamName": "India A",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
-    "awayTeamName": "New Zealand A",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand-a/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "04:00 AM 25/10/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1793081764546-1",
+    "id": "imported-1793104370513-0",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -29,7 +8,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "12:45 PM 27/10/2026",
     "link": "",
@@ -42,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1793081764546-2",
+    "id": "imported-1793104370513-1",
     "matchName": "3rd T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -50,50 +29,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "New Zealand",
     "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "01:00 PM 27/10/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e",
+        "url": "http://193.47.62.44/hls/XAXAXAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2119921/cricodi_2710/HIN/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2119941/cricodi_2710/TEL/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2119951/cricodi_2710/TAM/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 5",
-        "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT40a1prod-PlaybackConfig/2119782/cricodi_2710/KAN/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 6",
-        "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTaf23prod-PlaybackConfig/2120299/criclive2610/ENG/master.m3u8?hdnea=exp=1793094665~acl=/*~id=33578001970725760259722790433657~hmac=b4570ecf0f0c79373633116b1fe4b505d13b3b0d416b3e7411370b66c1366e74",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 7",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd|drmScheme=clearkey&drmLicense=b1ee06e6e306aa92e9a4658f739a1596:b993e1f264c6a637cd28427242f5f967",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793081764546-3",
+    "id": "imported-1793104370513-2",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -101,20 +50,25 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
     "awayTeamName": "Sri Lanka",
     "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "02:00 PM 27/10/2026",
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.44/hls/XAXAXAAAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd|drmScheme=clearkey&drmLicense=71c9587a489e14e4463fb01f0951bc69:2e5fcd0b450696f14c9f065364b6787b",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793081764546-4",
+    "id": "imported-1793104370513-3",
     "matchName": "3rd Test Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -122,20 +76,25 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
     "awayTeamName": "South Africa",
     "awayTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "02:30 PM 27/10/2026",
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mdzi0aespt/out/v1/ebc753f4d4af40e481e5506bad35eb42/cenc.mpd|drmScheme=clearkey&drmLicense=bdc52b31dcf25b0515a61fb9d0f444a2:468ae45daef1021713e7ea869a340f96",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793081764546-5",
+    "id": "imported-1793104370513-4",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Afg vs Zim",
@@ -156,7 +115,7 @@
     ]
   },
   {
-    "id": "imported-1793081764546-6",
+    "id": "imported-1793104370513-5",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
