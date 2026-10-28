@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793197092861-0",
+    "id": "imported-1793216674748-0",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1793197092861-1",
+    "id": "imported-1793216674748-1",
     "matchName": "3rd Test Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -41,18 +41,18 @@
       },
       {
         "name": "Server 2",
-        "url": "https://khala.futlivehd.com/global/appletv7/index.m3u8?token=634640013c20418771148dc188ee58a90a138713-ea-1793233820-1793179820|Referer=https://streamxhd.sbs/live1.php?stream=appletv7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.55/hls/K666AA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd|drmScheme=clearkey&drmLicense=6d8a8cf63f2cb151902100b0d9e668dd:e75124a72568aee19b04558263d1d050",
+        "url": "https://khala.futlivehd.com/global/appletv7/index.m3u8?token=a690aa0905c5a2019bca7bf1b74ccdddc247dabe-6e-1793253621-1793199621|Referer=https://streamxhd.sbs/live1.php?stream=appletv7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793197092861-2",
+    "id": "imported-1793216674748-2",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -73,7 +73,7 @@
     ]
   },
   {
-    "id": "imported-1793197092861-3",
+    "id": "imported-1793216674748-3",
     "matchName": "WPL 2027 Auction",
     "sportType": "Cricket",
     "league": "Women's Premier League",
@@ -87,14 +87,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfq7vktpaj/out/v1/e5454d69a91c478db2e1b3e56cf9bf47/cenc.mpd|drmScheme=clearkey&drmLicense=c426546fa9890b75bd446f2cc988c7f6:9b5ea5567d5f4d5aad8123df11dfb24e",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1793197092861-4",
+    "id": "imported-1793216674748-4",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -108,14 +108,29 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://instreams.xyz/live3/tv401889226/index.m3u8?st=5u8Hm3XCZ9_QAjBTn6LprQ&e=1793226610|Referer=https://xstream.st/livetv.php?stream=tv401889226&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.59/hls/2DDDAAAQQQ.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://gate4.st/live3/tv401916922/index.m3u8?st=QFC_Fb4pP1_lDsvu-ekrAA&e=1793226613|Referer=https://xstream.st/livetv.php?stream=tv401916922&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://instreams.pro/live3/tv401925223/index.m3u8?st=uJAKlWKkMMcNa8T8GSLS5A&e=1793226618|Referer=https://xstream.st/livetv.php?stream=tv401925223&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793197092861-5",
+    "id": "imported-1793216674748-5",
     "matchName": "4th T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -136,7 +151,7 @@
     ]
   },
   {
-    "id": "imported-1793197092861-6",
+    "id": "imported-1793216674748-6",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
