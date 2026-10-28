@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793151296245-0",
+    "id": "imported-1793172383132-0",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1793151296245-1",
+    "id": "imported-1793172383132-1",
     "matchName": "3rd Test Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1793151296245-2",
+    "id": "imported-1793172383132-2",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -57,18 +57,34 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://tims-001.sytes.net/main/secure/67df4788ec426a9c47fe5bb067b53739aaaa8b2d310e0df9fa46edab04e23aa3/1793156410/nhl-401892592.m3u8|Referer=https://ehgembxe.cfd/flyemb/dxbe1su7-6631&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://tims-001.sytes.net/main/secure/223bcf36c430de4011194e0db86681c193d1d2e0b176d74f840ef6599213ffd1/1793163612/nhl-401892592.m3u8|Referer=https://ehgembxe.cfd/flyemb/dxbe1su7-6631&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://tims-001.sytes.net/main/secure/ae9d84bc6782c7314beb42afb2d8b9652c2da79e769aebd4e9cc361c409e8491/1793160024/nhl-401892591.m3u8|Referer=https://ehgembxe.cfd/flyemb/ty6hfkga-603&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793151296245-3",
+    "id": "imported-1793172383132-3",
+    "matchName": "WPL 2027 Auction",
+    "sportType": "Cricket",
+    "league": "Women's Premier League",
+    "homeTeamName": "WPL 2027 Auction",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/wpl-2027-auction/logo.webp",
+    "awayTeamName": "Women's Premier League",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/womens-premier-league/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:30 PM 28/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1793172383132-4",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -83,18 +99,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://gate4.st/live3/tv401892589/index.m3u8?st=cBOhVM3qsQsfytpfdx01aQ&e=1793154610|Referer=https://xstream.st/livetv.php?stream=tv401892589&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://instreams.xyz/live3/tv401892589/index.m3u8?st=YAc4gcV2wFsONJG_5DVt_w&e=1793165408|Referer=https://xstream.st/livetv.php?stream=tv401892589&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://edgestream1.pro/hls/bnvcxwhfg54.m3u8?st=nd5Igcd7pji0g8-_Fj5xWKOUdPV-M3ML5MbDU8yz4ME&e=1793154613|Referer=https://embedcenter.st&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793151296245-4",
+    "id": "imported-1793172383132-5",
     "matchName": "4th T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -105,6 +116,27 @@
     "isLive": false,
     "isHot": false,
     "startTime": "01:00 PM 30/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1793172383132-6",
+    "matchName": "Pakistan vs Sri Lanka",
+    "sportType": "Cricket",
+    "league": "Tri-Series",
+    "homeTeamName": "Pakistan",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+    "awayTeamName": "Sri Lanka",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "02:00 PM 31/10/2026",
     "link": "",
     "streams": [
       {
