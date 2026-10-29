@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793265645800-0",
+    "id": "imported-1793290773664-0",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1793265645800-1",
+    "id": "imported-1793290773664-1",
     "matchName": "3rd Test Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -36,38 +36,18 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.55/hls/Y444AAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "https://www.rtmpcdn.com/live/6a3b4e3a-5eed-4313-8274-579b01e363ed.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://chatgpt.hereisman.net/playlist/58816/load-playlist-multi|Referer=https://gooz.aapmains.net/new-stream-embed/58816?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "https://khala.futlivehd.com/global/appletv7/index.m3u8?token=9a504d312ed86eddab62632738ed510ae5025b98-00-1793273414-1793219414|Referer=https://streamxhd.sbs/live1.php?stream=appletv7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 5",
-        "url": "https://streamfree.top/live-cdn/real-salt-lake-vs-austin-fc1080p/index.m3u8?_e=1793264413&_n=2ef2142f72c9d65f&_t=M5XT9VkCSOAkKtNI7AeV3Q|Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 6",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd|drmScheme=clearkey&drmLicense=cad7365855ea0ac0653144882a46e9a6:0ee40359b01264cce5aac3140096c927",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd|drmScheme=clearkey&drmLicense=cad7365855ea0ac0653144882a46e9a6:0ee40359b01264cce5aac3140096c927",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793265645800-2",
+    "id": "imported-1793290773664-2",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -88,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1793265645800-3",
+    "id": "imported-1793290773664-3",
     "matchName": "England vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -96,20 +76,51 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
     "awayTeamName": "Sri Lanka",
     "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "02:00 PM 29/10/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd|drmScheme=clearkey&drmLicense=ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340",
+        "url": "http://193.47.62.59/hls/rrrr.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd|drmScheme=clearkey&drmLicense=ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793265645800-4",
+    "id": "imported-1793290773664-4",
+    "matchName": "Afghanistan vs Zimbabwe",
+    "sportType": "Cricket",
+    "league": "Afg vs Zim",
+    "homeTeamName": "Afghanistan",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+    "awayTeamName": "Zimbabwe",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "08:30 PM 29/10/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Server 1",
+        "url": "http://193.47.62.59/hls/JVVVAa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd|drmScheme=clearkey&drmLicense=d2efbc1c5f8ff101397ecf138e8741ba:7f4d45f386a7640749e0f07417471f01",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1793290773664-5",
     "matchName": "4th T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -130,7 +141,7 @@
     ]
   },
   {
-    "id": "imported-1793265645800-5",
+    "id": "imported-1793290773664-6",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -145,7 +156,7 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd|drmScheme=clearkey&drmLicense=ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd|drmScheme=clearkey&drmLicense=ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340",
         "isPrimary": true
       }
     ]
