@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793344415380-0",
+    "id": "imported-1793369660830-0",
     "matchName": "3rd Test Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -17,11 +17,16 @@
         "name": "Server 1",
         "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd|drmScheme=clearkey&drmLicense=a0ea22119ca851e441c56df67e33f6fd:179bbc5d1bec825eaa1b712872f12eda",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793344415380-1",
+    "id": "imported-1793369660830-1",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -42,7 +47,7 @@
     ]
   },
   {
-    "id": "imported-1793344415380-2",
+    "id": "imported-1793369660830-2",
     "matchName": "Hong Kong Super Sixes",
     "sportType": "Cricket",
     "league": "Super Sixes",
@@ -63,38 +68,7 @@
     ]
   },
   {
-    "id": "imported-1793344415380-3",
-    "matchName": "4th T20 India vs New Zealand",
-    "sportType": "Cricket",
-    "league": "Ind vs Nz",
-    "homeTeamName": "India",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
-    "awayTeamName": "New Zealand",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "01:00 PM 30/10/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793386870~acl=/*~id=70497179819891694545583603923983~hmac=4351aa39dd808cf22ffb6de66769aa5c54f0ef13f95c5b0463486aa64f5f6ea6",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "http://193.47.62.55/hls/TTTTQQ.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd|drmScheme=clearkey&drmLicense=7a3f90a5769802036c18de821735b594:1412cd88540af73b27e45c9982bc9c78",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1793344415380-4",
+    "id": "imported-1793369660830-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -115,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1793344415380-5",
+    "id": "imported-1793369660830-4",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
