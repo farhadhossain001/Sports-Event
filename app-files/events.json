@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793369660830-0",
+    "id": "imported-1793388399288-0",
     "matchName": "3rd Test Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -15,18 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "http://193.47.62.44/hls/P555AAAQ.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd|drmScheme=clearkey&drmLicense=a0ea22119ca851e441c56df67e33f6fd:179bbc5d1bec825eaa1b712872f12eda",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793369660830-1",
+    "id": "imported-1793388399288-1",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -47,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1793369660830-2",
+    "id": "imported-1793388399288-2",
     "matchName": "Hong Kong Super Sixes",
     "sportType": "Cricket",
     "league": "Super Sixes",
@@ -68,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1793369660830-3",
+    "id": "imported-1793388399288-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -89,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1793369660830-4",
+    "id": "imported-1793388399288-4",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
