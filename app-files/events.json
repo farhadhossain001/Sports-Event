@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793322868775-0",
+    "id": "imported-1793344415380-0",
     "matchName": "3rd Test Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1793322868775-1",
+    "id": "imported-1793344415380-1",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -35,24 +35,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://tims-001.sytes.net/main/secure/1fa72c07e50e6d53f94ebe783cbc38f2e0b808c26ba1c5b1a481fff0440093f3/1793331007/nhl-401892600.m3u8|Referer=https://ehgembxe.cfd/flyemb/u8cpf6ly-6471&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://tims-001.sytes.net/main/secure/0a10f4493297426945171b5394065847c032a4c071c4907e8c1302a6cfe93ca3/1793325617/nhl-401892607.m3u8|Referer=https://ehgembxe.cfd/flyemb/d77fufmh-4409&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://tims-001.sytes.net/main/secure/2459b32f7e9d9ffbbd2ce5dc13de0b8f55f75f46eb92d9aefe1632bec2dc12e9/1793329212/nhl-401892601.m3u8|Referer=https://ehgembxe.cfd/flyemb/i8sp6xcs-2829&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793322868775-2",
+    "id": "imported-1793344415380-2",
     "matchName": "Hong Kong Super Sixes",
     "sportType": "Cricket",
     "league": "Super Sixes",
@@ -60,7 +50,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/hong-kong-super-sixes/logo.webp",
     "awayTeamName": "Super Sixes",
     "awayTeamLogo": "https://cdn.img4every1.org/team/super-sixes/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "06:30 AM 30/10/2026",
     "link": "",
@@ -73,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1793322868775-3",
+    "id": "imported-1793344415380-3",
     "matchName": "4th T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -87,14 +77,24 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793386870~acl=/*~id=70497179819891694545583603923983~hmac=4351aa39dd808cf22ffb6de66769aa5c54f0ef13f95c5b0463486aa64f5f6ea6",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.55/hls/TTTTQQ.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd|drmScheme=clearkey&drmLicense=7a3f90a5769802036c18de821735b594:1412cd88540af73b27e45c9982bc9c78",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793322868775-4",
+    "id": "imported-1793344415380-4",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -115,7 +115,7 @@
     ]
   },
   {
-    "id": "imported-1793322868775-5",
+    "id": "imported-1793344415380-5",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
