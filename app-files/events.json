@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793457959199-0",
+    "id": "imported-1793473569201-0",
     "matchName": "3rd Test Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -14,19 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd|drmScheme=clearkey&drmLicense=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793457959199-1",
+    "id": "imported-1793473569201-1",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -40,14 +35,34 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://tims-001.sytes.net/main/secure/c52d1ebf688f42e73001bccc3ec47e62089363d236d82cba71c4c199add80d03/1793480415/dazn1-usa.m3u8|Referer=https://ehgembxe.cfd/flyemb/jyqzet0b&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://tims-001.sytes.net/main/secure/79aef5e026839585b2ad0f8779b7e93fe886ddb2725e157f3cda30dd690fde06/1793475038/premierleague-401878763.m3u8|Referer=https://ehgembxe.cfd/flyemb/weas3ioi-9196&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://tims-001.sytes.net/main/secure/e4da140b3dfd0be28188ec7e3e8b18a7043f30ece0d57eece2fbe5082274a050/1793476819/fox-sports-1.m3u8|Referer=https://ehgembxe.cfd/flyemb/f4ijr4sl&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://tims-001.sytes.net/main/secure/e71bc3ffaf69a68d45c42975b8e620c7cba5ac5d1301ba85fbb204cd0d927795/1793478616/espn-usa.m3u8|Referer=https://ehgembxe.cfd/flyemb/o9bl8cai&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://tims-001.sytes.net/main/secure/3e44303da6d37144b67a5a6387bb37b38140a526426d584a5e9eeb3c86eec5ca/1793475060/nhl-401892615.m3u8|Referer=https://ehgembxe.cfd/flyemb/1ww9z5lw-4824&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793457959199-2",
+    "id": "imported-1793473569201-2",
     "matchName": "Hong Kong Super Sixes",
     "sportType": "Cricket",
     "league": "Super Sixes",
@@ -68,7 +83,7 @@
     ]
   },
   {
-    "id": "imported-1793457959199-3",
+    "id": "imported-1793473569201-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -89,7 +104,7 @@
     ]
   },
   {
-    "id": "imported-1793457959199-4",
+    "id": "imported-1793473569201-4",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -106,16 +121,11 @@
         "name": "Server 1",
         "url": "http://193.47.62.44/hls/PPPP.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd|drmScheme=clearkey&drmLicense=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793457959199-5",
+    "id": "imported-1793473569201-5",
     "matchName": "5th T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
