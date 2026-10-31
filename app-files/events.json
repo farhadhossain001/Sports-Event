@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793435984622-0",
+    "id": "imported-1793457959199-0",
     "matchName": "3rd Test Australia vs South Africa",
     "sportType": "Cricket",
     "league": "Aus vs Sa",
@@ -15,13 +15,18 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd|drmScheme=clearkey&drmLicense=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149",
+        "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd|drmScheme=clearkey&drmLicense=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793435984622-1",
+    "id": "imported-1793457959199-1",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -42,7 +47,7 @@
     ]
   },
   {
-    "id": "imported-1793435984622-2",
+    "id": "imported-1793457959199-2",
     "matchName": "Hong Kong Super Sixes",
     "sportType": "Cricket",
     "league": "Super Sixes",
@@ -63,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1793435984622-3",
+    "id": "imported-1793457959199-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -71,7 +76,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "12:45 PM 31/10/2026",
     "link": "",
@@ -84,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1793435984622-4",
+    "id": "imported-1793457959199-4",
     "matchName": "Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Tri-Series",
@@ -92,20 +97,25 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
     "awayTeamName": "Sri Lanka",
     "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "02:00 PM 31/10/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd|drmScheme=clearkey&drmLicense=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4",
+        "url": "http://193.47.62.44/hls/PPPP.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd|drmScheme=clearkey&drmLicense=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793435984622-5",
+    "id": "imported-1793457959199-5",
     "matchName": "5th T20 India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
