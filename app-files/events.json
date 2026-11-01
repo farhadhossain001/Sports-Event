@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793560425509-0",
+    "id": "imported-1793573517230-0",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,23 +21,28 @@
     ]
   },
   {
-    "id": "imported-1793560425509-1",
-    "matchName": "Afghanistan vs Zimbabwe",
+    "id": "imported-1793573517230-1",
+    "matchName": "1st ODI India vs New Zealand",
     "sportType": "Cricket",
-    "league": "Afg vs Zim",
-    "homeTeamName": "Afghanistan",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
-    "awayTeamName": "Zimbabwe",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
+    "league": "Ind vs Nz",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "New Zealand",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
     "isLive": false,
     "isHot": false,
-    "startTime": "08:30 PM 01/11/2026",
+    "startTime": "08:00 AM 04/11/2026",
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/criclive0111/ENG/master.m3u8?hdnea=exp=1793613056~acl=/*~id=44713704793796937757275433806284~hmac=d59f555e12125a3093f5b8ad02bf32c24bf1d19680974a9502f48ccd3615f2f2",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://dglvz29s.fubo18.com:443/winplus/mono.m3u8?token=7d784e0b4f6957cbfab26b5fbd1f33feb964fa21-f0-1793574916-1793556916|Referer=https://la18hd.su/vivo/canales.php?stream=winplus&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   }
