@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793544270704-0",
+    "id": "imported-1793560425509-0",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1793544270704-1",
+    "id": "imported-1793560425509-1",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Afg vs Zim",
@@ -35,8 +35,8 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/47bghsff2d/out/v1/2fdbd848acd447b9bdc11de12fa7428b/cenc.mpd|drmScheme=clearkey&drmLicense=468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
