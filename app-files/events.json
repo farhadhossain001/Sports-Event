@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1793519494005-0",
-    "matchName": "Hong Kong Super Sixes",
-    "sportType": "Cricket",
-    "league": "Super Sixes",
-    "homeTeamName": "Hong Kong Super Sixes",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/hong-kong-super-sixes/logo.webp",
-    "awayTeamName": "Super Sixes",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/super-sixes/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "06:30 AM 30/10/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1793519494005-1",
+    "id": "imported-1793544270704-0",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,33 +21,7 @@
     ]
   },
   {
-    "id": "imported-1793519494005-2",
-    "matchName": "5th T20 India vs New Zealand",
-    "sportType": "Cricket",
-    "league": "Ind vs Nz",
-    "homeTeamName": "India",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
-    "awayTeamName": "New Zealand",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "01:00 PM 01/11/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793557250~acl=/*~id=19985914225233742252051235600186~hmac=335ff81241bab07b20eb3e7c0e2af0df47fe58728b49b43e705b6789245e9424",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd|drmScheme=clearkey&drmLicense=2765adbf6880195515fed136e5a989fa:f1356a68a923c31d7184dfa1b91c161f",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1793519494005-3",
+    "id": "imported-1793544270704-1",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Afg vs Zim",
@@ -82,8 +35,8 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/47bghsff2d/out/v1/2fdbd848acd447b9bdc11de12fa7428b/cenc.mpd|drmScheme=clearkey&drmLicense=468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d",
         "isPrimary": true
       }
     ]
