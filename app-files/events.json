@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793585171501-0",
+    "id": "imported-1793611747866-0",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1793585171501-1",
+    "id": "imported-1793611747866-1",
     "matchName": "1st ODI India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -36,21 +36,11 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/criclive0111/ENG/master.m3u8?hdnea=exp=1793613056~acl=/*~id=44713704793796937757275433806284~hmac=d59f555e12125a3093f5b8ad02bf32c24bf1d19680974a9502f48ccd3615f2f2",
+        "url": "https://gate4.st/live3/tv401878061/index.m3u8?st=rpdqDEkmqJwZNPuGzgOnnQ&e=1793595610|Referer=https://xstream.st/livetv.php?stream=tv401878061&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       },
       {
         "name": "Server 2",
-        "url": "http://193.47.62.41/hls/kikikikiaa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://gate4.st/live3/tv401878061/index.m3u8?st=rpdqDEkmqJwZNPuGzgOnnQ&e=1793595610|Referer=https://xstream.st/livetv.php?stream=tv401878061&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
         "url": "https://y2fzdgxl.fubo18.com:443/winplus/mono.m3u8?token=8a6ff11f75d2dffc5ca1736d005afc9820a3b2cd-2f-1793594706-1793576706|Referer=https://la18hd.su/vivo/canales.php?stream=winplus&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
       }
