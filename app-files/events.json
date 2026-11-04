@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793759015371-0",
+    "id": "imported-1793785152840-0",
     "matchName": "1st ODI India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -8,7 +8,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "New Zealand",
     "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "08:00 AM 04/11/2026",
     "link": "",
@@ -20,13 +20,13 @@
       },
       {
         "name": "Server 2",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd|drmScheme=clearkey&drmLicense=6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd|drmScheme=clearkey&drmLicense=6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793759015371-1",
+    "id": "imported-1793785152840-1",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -40,24 +40,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://tims-001.sytes.net/main/secure/30437512efe444d05ab402fccc0e23a12bc1e75e8af9f4b14ec40938297b9512/1793764811/nhlnetwork-usa.m3u8|Referer=https://ehgembxe.cfd/flyemb/kelcwql2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://tims-001.sytes.net/main/secure/cb4b194b110a03d480d031c7017d47fe9aa228cd6bea237882f32a90d9d3cc2c/1793764813/nhlnetwork-usa.m3u8|Referer=https://ehgembxe.cfd/flyemb/kelcwql2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://tims-001.sytes.net/main/secure/43c974a2380735f42ec1690468b632ac7eda6443e4d4e90c4149c827bfd856ba/1793764812/nhlnetwork-usa.m3u8|Referer=https://ehgembxe.cfd/flyemb/kelcwql2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1793759015371-2",
+    "id": "imported-1793785152840-2",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Afg vs Zim",
@@ -78,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1793759015371-3",
+    "id": "imported-1793785152840-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
