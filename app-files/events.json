@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1793848131493-0",
+    "id": "imported-1793876095561-0",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -8,20 +8,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
     "awayTeamName": "West Indies",
     "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "10:00 AM 05/11/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://tims-001.sytes.net/main/secure/94a790698ad5b5ea20bcd78b33c60caf7524ef0b13c90f49a5d3891be0231189/1793851209/nba-401909923.m3u8|Referer=https://ehgembxe.cfd/flyemb/h8qzfrvr-9925&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1793848131493-1",
+    "id": "imported-1793876095561-1",
     "matchName": "U-19 Asia Cup",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1793848131493-2",
+    "id": "imported-1793876095561-2",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Afg vs Zim",
@@ -56,14 +56,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd|drmScheme=clearkey&drmLicense=502b22d3cada61e1dd3c24e4dc37b128:edbeec19a62d033903fe6436abfb9fd6",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1793848131493-3",
+    "id": "imported-1793876095561-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1793848131493-4",
+    "id": "imported-1793876095561-4",
     "matchName": "2nd ODI India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
