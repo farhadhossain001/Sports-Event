@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1794028412099-0",
+    "id": "imported-1794051934015-0",
     "matchName": "2nd ODI India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -15,28 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4379prod-PlaybackConfig/2120304/Criclive0611/ENG/master.m3u8?hdnea=exp=1794045047~acl=/*~id=83432594444243485960080045502631~hmac=804cb8b4df16a4eeea5d265b66449dc60c3198d484de245d26be1345a0d247c6",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
         "url": "http://193.47.62.50/hls/JJJJA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd|drmScheme=clearkey&drmLicense=5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794028412099-1",
+    "id": "imported-1794051934015-1",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -57,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1794028412099-2",
+    "id": "imported-1794051934015-2",
     "matchName": "U-19 Asia Cup",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -78,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1794028412099-3",
+    "id": "imported-1794051934015-3",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Afg vs Zim",
@@ -92,14 +77,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd|drmScheme=clearkey&drmLicense=8e9af61f4a7f6d5a8f27cd3b85cc9a1d:bafb7bbc65820a0d0a5f77a990db7b76",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794028412099-4",
+    "id": "imported-1794051934015-4",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -120,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1794028412099-5",
+    "id": "imported-1794051934015-5",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -134,8 +119,8 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd|drmScheme=clearkey&drmLicense=14959da8f9875554b690371dac4e2e5f:bad6682edf4b318c0ba3501758fe8cb9",
         "isPrimary": true
       }
     ]
