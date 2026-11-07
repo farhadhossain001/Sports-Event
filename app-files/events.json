@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1794009437529-0",
+    "id": "imported-1794028412099-0",
     "matchName": "2nd ODI India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -8,7 +8,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "New Zealand",
     "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "08:00 AM 07/11/2026",
     "link": "",
@@ -17,11 +17,26 @@
         "name": "Server 1",
         "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4379prod-PlaybackConfig/2120304/Criclive0611/ENG/master.m3u8?hdnea=exp=1794045047~acl=/*~id=83432594444243485960080045502631~hmac=804cb8b4df16a4eeea5d265b66449dc60c3198d484de245d26be1345a0d247c6",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "http://193.47.62.50/hls/JJJJA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd|drmScheme=clearkey&drmLicense=5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1794009437529-1",
+    "id": "imported-1794028412099-1",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -29,20 +44,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
     "awayTeamName": "West Indies",
     "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "10:00 AM 07/11/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://tims-001.sytes.net/main/secure/d4acbcadef8538cb6dd903cffa1e12c10c81901bd1c7c875e0a1cc90909f27bd/1794016810/nba-401909287.m3u8|Referer=https://ehgembxe.cfd/flyemb/mdat7uzz-661&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://tims-001.sytes.net/main/secure/dc81cf070ebb5d6bf816bf3cadbfc1734544b83f2d163f92b7c092fbbfd9b2b4/1794029412/espn-usa.m3u8|Referer=https://ehgembxe.cfd/flyemb/o9bl8cai&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794009437529-2",
+    "id": "imported-1794028412099-2",
     "matchName": "U-19 Asia Cup",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -63,7 +78,7 @@
     ]
   },
   {
-    "id": "imported-1794009437529-3",
+    "id": "imported-1794028412099-3",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Afg vs Zim",
@@ -84,7 +99,7 @@
     ]
   },
   {
-    "id": "imported-1794009437529-4",
+    "id": "imported-1794028412099-4",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -105,7 +120,7 @@
     ]
   },
   {
-    "id": "imported-1794009437529-5",
+    "id": "imported-1794028412099-5",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
