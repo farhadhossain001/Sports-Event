@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1794072397870-0",
+    "id": "imported-1794085290134-0",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -14,14 +14,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://tims-001.sytes.net/main/secure/8a2b2446ec044709eeff00a367ee6749ff2363d4c3771a810560fdfc437cad49/1794092407/boxeo-1.m3u8|Referer=https://ehgembxe.cfd/flyemb/qduxmo3u-9129&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://tims-001.sytes.net/main/secure/02fb8d4f899428e9eedc40d90ee1911640bf067060b137dc22505ab0710af0ad/1794090616/tnt-usa.m3u8|Referer=https://ehgembxe.cfd/flyemb/2szx41ik-2743&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1794072397870-1",
+    "id": "imported-1794085290134-1",
     "matchName": "U-19 Asia Cup",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -42,7 +47,7 @@
     ]
   },
   {
-    "id": "imported-1794072397870-2",
+    "id": "imported-1794085290134-2",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Afg vs Zim",
@@ -63,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1794072397870-3",
+    "id": "imported-1794085290134-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -84,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1794072397870-4",
+    "id": "imported-1794085290134-4",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -98,8 +103,8 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd|drmScheme=clearkey&drmLicense=c36580b91d6530ceba196d7254d67b94:af9da5c72e1aa9472a3b8ef852c0f330",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
