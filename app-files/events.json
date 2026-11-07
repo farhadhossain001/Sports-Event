@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1794051934015-0",
-    "matchName": "2nd ODI India vs New Zealand",
-    "sportType": "Cricket",
-    "league": "Ind vs Nz",
-    "homeTeamName": "India",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
-    "awayTeamName": "New Zealand",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "08:00 AM 07/11/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "http://193.47.62.50/hls/JJJJA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1794051934015-1",
+    "id": "imported-1794072397870-0",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -35,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://tims-001.sytes.net/main/secure/dc81cf070ebb5d6bf816bf3cadbfc1734544b83f2d163f92b7c092fbbfd9b2b4/1794029412/espn-usa.m3u8|Referer=https://ehgembxe.cfd/flyemb/o9bl8cai&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794051934015-2",
+    "id": "imported-1794072397870-1",
     "matchName": "U-19 Asia Cup",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -50,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/u-19-asia-cup/logo.webp",
     "awayTeamName": "Asia Cup",
     "awayTeamLogo": "https://cdn.img4every1.org/team/asia-cup/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "11:00 AM 07/11/2026",
     "link": "",
@@ -63,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1794051934015-3",
+    "id": "imported-1794072397870-2",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Afg vs Zim",
@@ -71,20 +50,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
     "awayTeamName": "Zimbabwe",
     "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "12:00 PM 07/11/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd|drmScheme=clearkey&drmLicense=8e9af61f4a7f6d5a8f27cd3b85cc9a1d:bafb7bbc65820a0d0a5f77a990db7b76",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794051934015-4",
+    "id": "imported-1794072397870-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -92,7 +71,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:15 PM 07/11/2026",
     "link": "",
@@ -105,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1794051934015-5",
+    "id": "imported-1794072397870-4",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -113,14 +92,14 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/abu-dhabi-t10-league/logo.webp",
     "awayTeamName": "T10 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t10-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:30 PM 07/11/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd|drmScheme=clearkey&drmLicense=14959da8f9875554b690371dac4e2e5f:bad6682edf4b318c0ba3501758fe8cb9",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd|drmScheme=clearkey&drmLicense=c36580b91d6530ceba196d7254d67b94:af9da5c72e1aa9472a3b8ef852c0f330",
         "isPrimary": true
       }
     ]
