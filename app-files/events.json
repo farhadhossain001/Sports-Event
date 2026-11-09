@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1794215211415-0",
-    "matchName": "Bangladesh vs West Indies",
-    "sportType": "Cricket",
-    "league": "Ban vs Wi",
-    "homeTeamName": "Bangladesh",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
-    "awayTeamName": "West Indies",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "09:30 AM 09/11/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1794215211415-1",
+    "id": "imported-1794253724948-0",
     "matchName": "1st Test Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -29,7 +8,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
     "awayTeamName": "Sri Lanka",
     "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "10:30 AM 09/11/2026",
     "link": "",
@@ -38,16 +17,11 @@
         "name": "Server 1",
         "url": "http://193.47.62.41/hls/D222.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd|drmScheme=clearkey&drmLicense=71de63b5c5236b41d3289458a0d3612e:91e5a59da86b054fef6a06ab6da82935",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1794215211415-2",
+    "id": "imported-1794253724948-1",
     "matchName": "U-19 Asia Cup",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -55,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/u-19-asia-cup/logo.webp",
     "awayTeamName": "Asia Cup",
     "awayTeamLogo": "https://cdn.img4every1.org/team/asia-cup/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "11:00 AM 09/11/2026",
     "link": "",
@@ -68,33 +42,7 @@
     ]
   },
   {
-    "id": "imported-1794215211415-3",
-    "matchName": "Afghanistan vs Zimbabwe",
-    "sportType": "Cricket",
-    "league": "Afg vs Zim",
-    "homeTeamName": "Afghanistan",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
-    "awayTeamName": "Zimbabwe",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "12:00 PM 09/11/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "http://193.47.62.44/hls/D222A.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd|drmScheme=clearkey&drmLicense=d006e8b41e37c259818c8d491904d3e7:2f7eceaab743d906957b9958152c8972",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1794215211415-4",
+    "id": "imported-1794253724948-2",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -102,7 +50,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "12:45 PM 09/11/2026",
     "link": "",
@@ -115,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1794215211415-5",
+    "id": "imported-1794253724948-3",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -123,7 +71,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/abu-dhabi-t10-league/logo.webp",
     "awayTeamName": "T10 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t10-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:30 PM 09/11/2026",
     "link": "",
@@ -136,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1794215211415-6",
+    "id": "imported-1794253724948-4",
     "matchName": "3rd ODI India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
