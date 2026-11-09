@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1794189242582-0",
+    "id": "imported-1794215211415-0",
     "matchName": "Bangladesh vs West Indies",
     "sportType": "Cricket",
     "league": "Ban vs Wi",
@@ -8,20 +8,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
     "awayTeamName": "West Indies",
     "awayTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "09:30 AM 09/11/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://tims-001.sytes.net/main/secure/f904e03893c39152744080700a21d5423c2fb0aacaf2c0ff27b956ff68a56629/1794193211/nhl-401892677.m3u8|Referer=https://ehgembxe.cfd/flyemb/q6wv1bdr-5282&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794189242582-1",
+    "id": "imported-1794215211415-1",
     "matchName": "1st Test Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -35,14 +35,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.41/hls/D222.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd|drmScheme=clearkey&drmLicense=71de63b5c5236b41d3289458a0d3612e:91e5a59da86b054fef6a06ab6da82935",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1794189242582-2",
+    "id": "imported-1794215211415-2",
     "matchName": "U-19 Asia Cup",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -63,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1794189242582-3",
+    "id": "imported-1794215211415-3",
     "matchName": "Afghanistan vs Zimbabwe",
     "sportType": "Cricket",
     "league": "Afg vs Zim",
@@ -77,14 +82,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.44/hls/D222A.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd|drmScheme=clearkey&drmLicense=d006e8b41e37c259818c8d491904d3e7:2f7eceaab743d906957b9958152c8972",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1794189242582-4",
+    "id": "imported-1794215211415-4",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -105,7 +115,7 @@
     ]
   },
   {
-    "id": "imported-1794189242582-5",
+    "id": "imported-1794215211415-5",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -126,7 +136,7 @@
     ]
   },
   {
-    "id": "imported-1794189242582-6",
+    "id": "imported-1794215211415-6",
     "matchName": "3rd ODI India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -140,8 +150,8 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/Criclive0811/ENG/master.m3u8?hdnea=exp=1794217853~acl=/*~id=67738885961920361253989044163400~hmac=5ecf3dde088444646487b427e01273b436f7f242b2dcc45d96be89e616c7ba5b",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
