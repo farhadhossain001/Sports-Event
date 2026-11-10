@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1794253724948-0",
+    "id": "imported-1794277966470-0",
     "matchName": "1st Test Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.41/hls/D222.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794253724948-1",
+    "id": "imported-1794277966470-1",
     "matchName": "U-19 Asia Cup",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1794253724948-2",
+    "id": "imported-1794277966470-2",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1794253724948-3",
+    "id": "imported-1794277966470-3",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1794253724948-4",
+    "id": "imported-1794277966470-4",
     "matchName": "3rd ODI India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -98,9 +98,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794318652~acl=/*~id=27739781108605900451080966186628~hmac=10c7f7c75ce6e6144e1373605dee4c490ed69f1eb0b08bfb12b34b82ebf86b9f",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmScheme=clearkey&drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+        "isPrimary": false
       }
     ]
   }
