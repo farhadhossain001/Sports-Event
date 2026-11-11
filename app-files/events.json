@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1794365694913-0",
+    "id": "imported-1794392457336-0",
     "matchName": "1st Test Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -14,14 +14,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.44/hls/D222AWX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd|drmScheme=clearkey&drmLicense=d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1794365694913-1",
+    "id": "imported-1794392457336-1",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -42,7 +47,7 @@
     ]
   },
   {
-    "id": "imported-1794365694913-2",
+    "id": "imported-1794392457336-2",
     "matchName": "U-19 Asia Cup",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -63,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1794365694913-3",
+    "id": "imported-1794392457336-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -84,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1794365694913-4",
+    "id": "imported-1794392457336-4",
     "matchName": "4th ODI India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -105,7 +110,7 @@
     ]
   },
   {
-    "id": "imported-1794365694913-5",
+    "id": "imported-1794392457336-5",
     "matchName": "1st ODI England vs Australia",
     "sportType": "Cricket",
     "league": "Australia vs England",
