@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1794468787161-0",
+    "id": "imported-1794500201356-0",
     "matchName": "1st Test Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -17,16 +17,11 @@
         "name": "Server 1",
         "url": "http://193.47.62.50/hls/VFFFA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmScheme=clearkey&drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1794468787161-1",
+    "id": "imported-1794500201356-1",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -47,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1794468787161-2",
+    "id": "imported-1794500201356-2",
     "matchName": "U-19 Asia Cup",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -68,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1794468787161-3",
+    "id": "imported-1794500201356-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -89,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1794468787161-4",
+    "id": "imported-1794500201356-4",
     "matchName": "4th ODI India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -103,14 +98,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.59/hls/VFFFAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794468787161-5",
+    "id": "imported-1794500201356-5",
     "matchName": "1st ODI England vs Australia",
     "sportType": "Cricket",
     "league": "Australia vs England",
@@ -124,9 +119,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://edge1.candyshop.st/live/tv401933855/master.m3u8?st=CQdJhWQB29RhvT6k8N22uA&e=1794510015|Referer=https://xstream.st/livetv.php?stream=tv401933855&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://candyshop.st/live/tv401933856/master.m3u8?st=HqqWG2OVP5q7oyVFBjZt5w&e=1794510017|Referer=https://xstream.st/livetv.php?stream=tv401933856&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
       }
     ]
   }
