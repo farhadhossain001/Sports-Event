@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1794653825013-0",
+    "id": "imported-1794675169881-0",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0py89u35kf/out/v1/f438820f38824212b6107dfd880773e6/cenc.mpd|drmScheme=clearkey&drmLicense=ab5b5cecc72d2468a6bb0cb095549adf:498bea5d3276c0fdbb38e8b10703c44c",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794653825013-1",
+    "id": "imported-1794675169881-1",
     "matchName": "U-19 Asia Cup",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -29,7 +29,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/u-19-asia-cup/logo.webp",
     "awayTeamName": "Asia Cup",
     "awayTeamLogo": "https://cdn.img4every1.org/team/asia-cup/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "11:00 AM 14/11/2026",
     "link": "",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1794653825013-2",
+    "id": "imported-1794675169881-2",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -50,7 +50,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:15 PM 14/11/2026",
     "link": "",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1794653825013-3",
+    "id": "imported-1794675169881-3",
     "matchName": "5th ODI India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1794653825013-4",
+    "id": "imported-1794675169881-4",
     "matchName": "2nd ODI England vs Australia",
     "sportType": "Cricket",
     "league": "Australia vs England",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1794653825013-5",
+    "id": "imported-1794675169881-5",
     "matchName": "1st Test Bangladesh vs South Africa",
     "sportType": "Cricket",
     "league": "Ban vs Sa",
@@ -119,8 +119,8 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.59/hls/TIIIAAAX.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
