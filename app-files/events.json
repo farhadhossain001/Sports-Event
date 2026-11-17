@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1794903479732-0",
+    "id": "imported-1794937537752-0",
     "matchName": "1st Test Bangladesh vs South Africa",
     "sportType": "Cricket",
     "league": "Ban vs Sa",
@@ -17,16 +17,11 @@
         "name": "Server 1",
         "url": "http://193.47.62.59/hls/RREGEGEAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1794903479732-1",
+    "id": "imported-1794937537752-1",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -40,14 +35,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fehi3mxtqo/out/v1/c7ace340dfab4a1fa798cc693914ddbe/cenc.mpd|drmScheme=clearkey&drmLicense=d57defa12fc43c991a7f82fc57f8212f:915269b352069f2dfa826a64a0905681",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794903479732-2",
+    "id": "imported-1794937537752-2",
     "matchName": "2nd Test Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -55,7 +50,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
     "awayTeamName": "Sri Lanka",
     "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "10:30 AM 17/11/2026",
     "link": "",
@@ -64,16 +59,11 @@
         "name": "Server 1",
         "url": "http://193.47.62.41/hls/RREGEGE.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmScheme=clearkey&drmLicense=717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1794903479732-3",
+    "id": "imported-1794937537752-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -81,7 +71,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:15 PM 17/11/2026",
     "link": "",
@@ -94,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1794903479732-4",
+    "id": "imported-1794937537752-4",
     "matchName": "3rd ODI England vs Australia",
     "sportType": "Cricket",
     "league": "Australia vs England",
@@ -115,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1794903479732-5",
+    "id": "imported-1794937537752-5",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
