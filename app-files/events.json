@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1794937537752-0",
+    "id": "imported-1794961950076-0",
     "matchName": "1st Test Bangladesh vs South Africa",
     "sportType": "Cricket",
     "league": "Ban vs Sa",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.59/hls/RREGEGEAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794937537752-1",
+    "id": "imported-1794961950076-1",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -35,14 +35,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fehi3mxtqo/out/v1/c7ace340dfab4a1fa798cc693914ddbe/cenc.mpd|drmScheme=clearkey&drmLicense=d57defa12fc43c991a7f82fc57f8212f:915269b352069f2dfa826a64a0905681",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794937537752-2",
+    "id": "imported-1794961950076-2",
     "matchName": "2nd Test Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -52,18 +52,18 @@
     "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
     "isLive": true,
     "isHot": false,
-    "startTime": "10:30 AM 17/11/2026",
+    "startTime": "10:30 AM 18/11/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.41/hls/RREGEGE.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1794937537752-3",
+    "id": "imported-1794961950076-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -73,7 +73,7 @@
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
     "isLive": true,
     "isHot": false,
-    "startTime": "05:15 PM 17/11/2026",
+    "startTime": "05:15 PM 18/11/2026",
     "link": "",
     "streams": [
       {
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1794937537752-4",
+    "id": "imported-1794961950076-4",
     "matchName": "3rd ODI England vs Australia",
     "sportType": "Cricket",
     "league": "Australia vs England",
@@ -94,7 +94,7 @@
     "awayTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
     "isLive": false,
     "isHot": false,
-    "startTime": "09:30 AM 18/11/2026",
+    "startTime": "09:30 AM 19/11/2026",
     "link": "",
     "streams": [
       {
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1794937537752-5",
+    "id": "imported-1794961950076-5",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -115,7 +115,7 @@
     "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
     "isLive": false,
     "isHot": false,
-    "startTime": "04:00 AM 19/11/2026",
+    "startTime": "04:00 AM 20/11/2026",
     "link": "",
     "streams": [
       {
