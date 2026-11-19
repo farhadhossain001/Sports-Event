@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1795044049322-0",
+    "id": "imported-1795062105072-0",
     "matchName": "1st Test Bangladesh vs South Africa",
     "sportType": "Cricket",
     "league": "Ban vs Sa",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1795044049322-1",
+    "id": "imported-1795062105072-1",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1795044049322-2",
+    "id": "imported-1795062105072-2",
     "matchName": "2nd Test Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -56,14 +56,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.41/hls/RREGEGE.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd|drmScheme=clearkey&drmLicense=15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795044049322-3",
+    "id": "imported-1795062105072-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -84,7 +89,7 @@
     ]
   },
   {
-    "id": "imported-1795044049322-4",
+    "id": "imported-1795062105072-4",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -92,7 +97,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "New Zealand",
     "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "04:00 AM 19/11/2026",
     "link": "",
@@ -104,8 +109,34 @@
       },
       {
         "name": "Server 2",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmScheme=clearkey&drmLicense=52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09",
+        "url": "http://193.47.62.59/hls/RREGEGEAA.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmScheme=clearkey&drmLicense=52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1795062105072-5",
+    "matchName": "Asia Cup Rising Stars",
+    "sportType": "Cricket",
+    "league": "Asia Cup",
+    "homeTeamName": "Asia Cup Rising Stars",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/asia-cup-rising-stars/logo.webp",
+    "awayTeamName": "Asia Cup",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/asia-cup/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:00 PM 19/11/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
       }
     ]
   }
