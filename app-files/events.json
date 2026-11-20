@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1795124987396-0",
-    "matchName": "1st Test Bangladesh vs South Africa",
-    "sportType": "Cricket",
-    "league": "Ban vs Sa",
-    "homeTeamName": "Bangladesh",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
-    "awayTeamName": "South Africa",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "02:00 PM 15/11/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1795124987396-1",
+    "id": "imported-1795142987248-0",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -42,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1795124987396-2",
+    "id": "imported-1795142987248-1",
     "matchName": "2nd Test Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -63,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1795124987396-3",
+    "id": "imported-1795142987248-2",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -84,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1795124987396-4",
+    "id": "imported-1795142987248-3",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -99,13 +78,23 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmScheme=clearkey&drmLicense=766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795170049~acl=/*~id=97019079267400676936531596987262~hmac=4137e08945a5c31f1b0d6cf7b5fbb52ff9865f101c0035fb0f265a7bff74c911",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.41/hls/qaqaqa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmScheme=clearkey&drmLicense=766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795124987396-5",
+    "id": "imported-1795142987248-4",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -115,7 +104,7 @@
     "awayTeamLogo": "https://cdn.img4every1.org/team/asia-cup/logo.webp",
     "isLive": true,
     "isHot": false,
-    "startTime": "12:00 PM 19/11/2026",
+    "startTime": "12:00 PM 20/11/2026",
     "link": "",
     "streams": [
       {
