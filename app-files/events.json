@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1795142987248-0",
+    "id": "imported-1795172095325-0",
     "matchName": "Abu Dhabi T10 League",
     "sportType": "Cricket",
     "league": "T10 League",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1795142987248-1",
+    "id": "imported-1795172095325-1",
     "matchName": "2nd Test Pakistan vs Sri Lanka",
     "sportType": "Cricket",
     "league": "Pak vs Sl",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1795142987248-2",
+    "id": "imported-1795172095325-2",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1795142987248-3",
+    "id": "imported-1795172095325-3",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -78,23 +78,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795170049~acl=/*~id=97019079267400676936531596987262~hmac=4137e08945a5c31f1b0d6cf7b5fbb52ff9865f101c0035fb0f265a7bff74c911",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "http://193.47.62.41/hls/qaqaqa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmScheme=clearkey&drmLicense=766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1795142987248-4",
+    "id": "imported-1795172095325-4",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -108,9 +98,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd|drmScheme=clearkey&drmLicense=c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmScheme=clearkey&drmLicense=91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+        "isPrimary": false
       }
     ]
   }
