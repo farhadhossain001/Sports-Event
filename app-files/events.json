@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1795275519364-0",
+    "id": "imported-1795295458569-0",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1795275519364-1",
+    "id": "imported-1795295458569-1",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -35,19 +35,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795317375~acl=/*~id=99937002616648697410939660454022~hmac=c99d34f1d7e00f428df1d6cce1652b37b524876d300290672c527501171011d3",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd|drmScheme=clearkey&drmLicense=46bbf645122de0df0cd0b19d4487e2ce:45e84957268ce56d53ae6d0fadec5964",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795275519364-2",
+    "id": "imported-1795295458569-2",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -68,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1795275519364-3",
+    "id": "imported-1795295458569-3",
     "matchName": "International League T20 ILT20",
     "sportType": "Cricket",
     "league": "T20 League",
