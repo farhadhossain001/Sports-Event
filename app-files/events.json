@@ -1,74 +1,6 @@
 [
   {
-    "id": "imported-1795201058814-0",
-    "matchName": "Abu Dhabi T10 League",
-    "sportType": "Cricket",
-    "league": "T10 League",
-    "homeTeamName": "Abu Dhabi T10 League",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/abu-dhabi-t10-league/logo.webp",
-    "awayTeamName": "T10 League",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/t10-league/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "05:30 PM 15/11/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd|drmScheme=clearkey&drmLicense=b523235faf497e1ce0967946ba01a9c3:1697e8dd99cd9cd940f463f4fdc7385f",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1eszvr6hm3/out/v1/f099e57287244d09aeea990398a83c47/cenc.mpd|drmScheme=clearkey&drmLicense=7e762ae016686583246f1959850eea6e:7ea4fb4356c76bf242b3189458ecea2e",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1795201058814-1",
-    "matchName": "2nd Test Pakistan vs Sri Lanka",
-    "sportType": "Cricket",
-    "league": "Pak vs Sl",
-    "homeTeamName": "Pakistan",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-    "awayTeamName": "Sri Lanka",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "10:30 AM 17/11/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1795201058814-2",
-    "matchName": "NPL T20",
-    "sportType": "Cricket",
-    "league": "T20 League",
-    "homeTeamName": "NPL T20",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
-    "awayTeamName": "T20 League",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "05:15 PM 17/11/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1795201058814-3",
+    "id": "imported-1795221643947-0",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -82,14 +14,24 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795256449~acl=/*~id=23774108095885234202984716157965~hmac=9d981f66eeadcadcb49e68ddc3656e6d86c540e0c6f4e8a34a98eb5a4611933f",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.41/hls/qaqaqa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd|drmScheme=clearkey&drmLicense=a478f5af8b826d44778571031c84e257:ceabaa285b51b50a60cf5240715a6f28",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795201058814-4",
+    "id": "imported-1795221643947-1",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -97,14 +39,56 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/asia-cup-rising-stars/logo.webp",
     "awayTeamName": "Asia Cup",
     "awayTeamLogo": "https://cdn.img4every1.org/team/asia-cup/logo.webp",
-    "isLive": true,
+    "isLive": false,
     "isHot": false,
-    "startTime": "12:00 PM 19/11/2026",
+    "startTime": "12:00 PM 21/11/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmScheme=clearkey&drmLicense=91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1795221643947-2",
+    "matchName": "Australia vs England 1st T20",
+    "sportType": "Cricket",
+    "league": "Australia vs England",
+    "homeTeamName": "Australia",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
+    "awayTeamName": "England 1st T20",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/england-1st-t20/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "02:30 PM 21/11/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1795221643947-3",
+    "matchName": "NPL T20",
+    "sportType": "Cricket",
+    "league": "T20 League",
+    "homeTeamName": "NPL T20",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
+    "awayTeamName": "T20 League",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:15 PM 21/11/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
