@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1795221643947-0",
+    "id": "imported-1795246991004-0",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -15,23 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795256449~acl=/*~id=23774108095885234202984716157965~hmac=9d981f66eeadcadcb49e68ddc3656e6d86c540e0c6f4e8a34a98eb5a4611933f",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "http://193.47.62.41/hls/qaqaqa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd|drmScheme=clearkey&drmLicense=a478f5af8b826d44778571031c84e257:ceabaa285b51b50a60cf5240715a6f28",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1795221643947-1",
+    "id": "imported-1795246991004-1",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -52,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1795221643947-2",
+    "id": "imported-1795246991004-2",
     "matchName": "Australia vs England 1st T20",
     "sportType": "Cricket",
     "league": "Australia vs England",
@@ -73,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1795221643947-3",
+    "id": "imported-1795246991004-3",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
