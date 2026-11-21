@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1795246991004-0",
+    "id": "imported-1795275519364-0",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.41/hls/qaqaqa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1795246991004-1",
+    "id": "imported-1795275519364-1",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -29,41 +29,25 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/asia-cup-rising-stars/logo.webp",
     "awayTeamName": "Asia Cup",
     "awayTeamLogo": "https://cdn.img4every1.org/team/asia-cup/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "12:00 PM 21/11/2026",
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795317375~acl=/*~id=99937002616648697410939660454022~hmac=c99d34f1d7e00f428df1d6cce1652b37b524876d300290672c527501171011d3",
         "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1795246991004-2",
-    "matchName": "Australia vs England 1st T20",
-    "sportType": "Cricket",
-    "league": "Australia vs England",
-    "homeTeamName": "Australia",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
-    "awayTeamName": "England 1st T20",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/england-1st-t20/logo.webp",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "02:30 PM 21/11/2026",
-    "link": "",
-    "streams": [
+      },
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
+        "name": "Server 2",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd|drmScheme=clearkey&drmLicense=46bbf645122de0df0cd0b19d4487e2ce:45e84957268ce56d53ae6d0fadec5964",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795246991004-3",
+    "id": "imported-1795275519364-2",
     "matchName": "NPL T20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -71,9 +55,30 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "05:15 PM 21/11/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1795275519364-3",
+    "matchName": "International League T20 ILT20",
+    "sportType": "Cricket",
+    "league": "T20 League",
+    "homeTeamName": "International League T20 ILT20",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/international-league-t20-ilt20/logo.webp",
+    "awayTeamName": "T20 League",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "08:30 PM 21/11/2026",
     "link": "",
     "streams": [
       {
