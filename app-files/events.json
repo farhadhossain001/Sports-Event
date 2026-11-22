@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1795310311435-0",
+    "id": "imported-1795336222570-0",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -15,23 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795358631~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8e536aa6d0de5e9b9e4701b21e3f24e57f799bc776d5e4b7ff385a5a4ff19f36",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "http://193.47.62.41/hls/qaqaqa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkipghexfw/out/v1/b9c7bdeeb3324a67829355fbadde5f64/cenc.mpd|drmScheme=clearkey&drmLicense=9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1795310311435-1",
+    "id": "imported-1795336222570-1",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -45,14 +35,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8?hdnea=exp=1795378547~acl=/*~id=39485114025901658026446578675088~hmac=1debdded2651142296282c2283757ebbedf9fb0b623c8b5eb7232e7a554286d3",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd|drmScheme=clearkey&drmLicense=7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795310311435-2",
+    "id": "imported-1795336222570-2",
     "matchName": "International League T20 ILT20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -73,7 +68,7 @@
     ]
   },
   {
-    "id": "imported-1795310311435-3",
+    "id": "imported-1795336222570-3",
     "matchName": "India A vs Pakistan A",
     "sportType": "Cricket",
     "league": "Asia Cup",
