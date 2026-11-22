@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1795295458569-0",
+    "id": "imported-1795310311435-0",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -14,14 +14,24 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795358631~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8e536aa6d0de5e9b9e4701b21e3f24e57f799bc776d5e4b7ff385a5a4ff19f36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.41/hls/qaqaqa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkipghexfw/out/v1/b9c7bdeeb3324a67829355fbadde5f64/cenc.mpd|drmScheme=clearkey&drmLicense=9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795295458569-1",
+    "id": "imported-1795310311435-1",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -42,17 +52,17 @@
     ]
   },
   {
-    "id": "imported-1795295458569-2",
-    "matchName": "NPL T20",
+    "id": "imported-1795310311435-2",
+    "matchName": "International League T20 ILT20",
     "sportType": "Cricket",
     "league": "T20 League",
-    "homeTeamName": "NPL T20",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
+    "homeTeamName": "International League T20 ILT20",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/international-league-t20-ilt20/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
     "isLive": true,
     "isHot": false,
-    "startTime": "05:15 PM 21/11/2026",
+    "startTime": "08:30 PM 21/11/2026",
     "link": "",
     "streams": [
       {
@@ -63,17 +73,17 @@
     ]
   },
   {
-    "id": "imported-1795295458569-3",
-    "matchName": "International League T20 ILT20",
+    "id": "imported-1795310311435-3",
+    "matchName": "India A vs Pakistan A",
     "sportType": "Cricket",
-    "league": "T20 League",
-    "homeTeamName": "International League T20 ILT20",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/international-league-t20-ilt20/logo.webp",
-    "awayTeamName": "T20 League",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
+    "league": "Asia Cup",
+    "homeTeamName": "India A",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "Pakistan A",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/pakistan-a/logo.webp",
     "isLive": false,
     "isHot": false,
-    "startTime": "08:30 PM 21/11/2026",
+    "startTime": "04:00 PM 22/11/2026",
     "link": "",
     "streams": [
       {
