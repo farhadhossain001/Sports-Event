@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1795336222570-0",
+    "id": "imported-1795365326138-0",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1795336222570-1",
+    "id": "imported-1795365326138-1",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -36,18 +36,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8?hdnea=exp=1795378547~acl=/*~id=39485114025901658026446578675088~hmac=1debdded2651142296282c2283757ebbedf9fb0b623c8b5eb7232e7a554286d3",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd|drmScheme=clearkey&drmLicense=437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd|drmScheme=clearkey&drmLicense=7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795336222570-2",
+    "id": "imported-1795365326138-2",
     "matchName": "International League T20 ILT20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -68,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1795336222570-3",
+    "id": "imported-1795365326138-3",
     "matchName": "India A vs Pakistan A",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -76,15 +71,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "Pakistan A",
     "awayTeamLogo": "https://cdn.img4every1.org/team/pakistan-a/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "04:00 PM 22/11/2026",
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "http://193.47.62.41/hls/qaqaqa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd|drmScheme=clearkey&drmLicense=437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
+        "isPrimary": false
       }
     ]
   }
