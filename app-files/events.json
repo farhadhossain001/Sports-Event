@@ -1,27 +1,6 @@
 [
   {
-    "id": "imported-1795432763882-0",
-    "matchName": "1st Test India vs New Zealand",
-    "sportType": "Cricket",
-    "league": "Ind vs Nz",
-    "homeTeamName": "India",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
-    "awayTeamName": "New Zealand",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "04:00 AM 23/11/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "http://193.47.62.41/hls/qaqaqa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1795432763882-1",
+    "id": "imported-1795474156267-0",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -29,25 +8,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/asia-cup-rising-stars/logo.webp",
     "awayTeamName": "Asia Cup",
     "awayTeamLogo": "https://cdn.img4every1.org/team/asia-cup/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "12:00 PM 23/11/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/criclive2311/ENG/master.m3u8?hdnea=exp=1795473951~acl=/*~id=84531105783576091024629067073762~hmac=eb0ea588d9410053022cc01fd8cc11a038ba0d52675c2516ffb288e37b5e6b2e",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd|drmScheme=clearkey&drmLicense=1f5fcb1ee0ebcdf807d4807767ee66a0:dac7ee8c999b9516a04f0c0bdd3aef34",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795432763882-2",
+    "id": "imported-1795474156267-1",
     "matchName": "2nd Test Bangladesh vs South Africa",
     "sportType": "Cricket",
     "league": "Ban vs Sa",
@@ -55,30 +29,20 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
     "awayTeamName": "South Africa",
     "awayTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "02:00 PM 23/11/2026",
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "http://193.47.62.41/hls/qaqaqa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://10.ftlly.com:443/foxsports1_usa/mono.m3u8?token=94c5592a9e6588a4f9cc38197888bb38bb9eaf6f-a0-1795409120-1795391120|Referer=https://tvf90.com/1.php?stream=foxsports1_usa&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xqyqdravz1/out/v1/0a61d15fb7af4fd98f565cabbc5d9dd8/cenc.mpd|drmScheme=clearkey&drmLicense=ef575f9bbbc7bd252eb629553c04b572:036c3c66e6cb484e0c57d37763f65bca",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795432763882-3",
+    "id": "imported-1795474156267-2",
     "matchName": "International League T20 ILT20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -86,7 +50,7 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/international-league-t20-ilt20/logo.webp",
     "awayTeamName": "T20 League",
     "awayTeamLogo": "https://cdn.img4every1.org/team/t20-league/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "08:30 PM 23/11/2026",
     "link": "",
@@ -99,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1795432763882-4",
+    "id": "imported-1795474156267-3",
     "matchName": "2nd T20 England vs Australia",
     "sportType": "Cricket",
     "league": "Australia vs England",
