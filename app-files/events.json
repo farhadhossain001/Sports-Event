@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1795401875089-0",
+    "id": "imported-1795432763882-0",
     "matchName": "1st Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -15,23 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795450430~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=78aeb33e850085126a7d7a479dbf86038fcaa161824865e171ed5e9d00b4fb73",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
         "url": "http://193.47.62.41/hls/qaqaqa.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd|drmScheme=clearkey&drmLicense=a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1",
-        "isPrimary": false
+        "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1795401875089-1",
+    "id": "imported-1795432763882-1",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -45,14 +35,19 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/criclive2311/ENG/master.m3u8?hdnea=exp=1795473951~acl=/*~id=84531105783576091024629067073762~hmac=eb0ea588d9410053022cc01fd8cc11a038ba0d52675c2516ffb288e37b5e6b2e",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd|drmScheme=clearkey&drmLicense=1f5fcb1ee0ebcdf807d4807767ee66a0:dac7ee8c999b9516a04f0c0bdd3aef34",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795401875089-2",
+    "id": "imported-1795432763882-2",
     "matchName": "2nd Test Bangladesh vs South Africa",
     "sportType": "Cricket",
     "league": "Ban vs Sa",
@@ -74,11 +69,16 @@
         "name": "Server 2",
         "url": "https://10.ftlly.com:443/foxsports1_usa/mono.m3u8?token=94c5592a9e6588a4f9cc38197888bb38bb9eaf6f-a0-1795409120-1795391120|Referer=https://tvf90.com/1.php?stream=foxsports1_usa&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xqyqdravz1/out/v1/0a61d15fb7af4fd98f565cabbc5d9dd8/cenc.mpd|drmScheme=clearkey&drmLicense=ef575f9bbbc7bd252eb629553c04b572:036c3c66e6cb484e0c57d37763f65bca",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795401875089-3",
+    "id": "imported-1795432763882-3",
     "matchName": "International League T20 ILT20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "id": "imported-1795401875089-4",
+    "id": "imported-1795432763882-4",
     "matchName": "2nd T20 England vs Australia",
     "sportType": "Cricket",
     "league": "Australia vs England",
