@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1795730192994-0",
+    "id": "imported-1795751856653-0",
     "matchName": "2nd Test Bangladesh vs South Africa",
     "sportType": "Cricket",
     "league": "Ban vs Sa",
@@ -14,14 +14,14 @@
     "link": "",
     "streams": [
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://khala.futlivehd.com/global/laligahypermotion/index.m3u8?token=7f76c188fc3b7d8763b5007461dec89de0690eb6-0c-1795795209-1795741209|Referer=https://streamxhd.sbs/live1.php?stream=laligahypermotion&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1795730192994-1",
+    "id": "imported-1795751856653-1",
     "matchName": "International League T20 ILT20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1795730192994-2",
+    "id": "imported-1795751856653-2",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1795730192994-3",
+    "id": "imported-1795751856653-3",
     "matchName": "2nd Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -71,20 +71,30 @@
     "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
     "awayTeamName": "New Zealand",
     "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-    "isLive": false,
+    "isLive": true,
     "isHot": false,
     "startTime": "04:00 AM 27/11/2026",
     "link": "",
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd|drmScheme=clearkey&drmLicense=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795801429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c4a6a470afbec9d35d5e897e2c63c38dfb9af5dc862e63465ab70026dc3f2a67",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "http://193.47.62.41/hls/viii.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd|drmScheme=clearkey&drmLicense=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795730192994-4",
+    "id": "imported-1795751856653-4",
     "matchName": "3rd T20 England vs Australia",
     "sportType": "Cricket",
     "league": "Australia vs England",
