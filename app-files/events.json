@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1795786609763-0",
+    "id": "imported-1795818028002-0",
     "matchName": "2nd Test Bangladesh vs South Africa",
     "sportType": "Cricket",
     "league": "Ban vs Sa",
@@ -15,13 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://khala.futlivehd.com/global/laligahypermotion/index.m3u8?token=9610d7b1c52692d63ce8d4c046413f7a205efbd3-23-1795829416-1795775416|Referer=https://streamxhd.sbs/live1.php?stream=laligahypermotion&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://khala.futlivehd.com/global/laligahypermotion/index.m3u8?token=9aa4fc28ade2d8097d14c90905ffc90ca3fd25aa-ce-1795849208-1795795208|Referer=https://streamxhd.sbs/live1.php?stream=laligahypermotion&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1795786609763-1",
+    "id": "imported-1795818028002-1",
     "matchName": "International League T20 ILT20",
     "sportType": "Cricket",
     "league": "T20 League",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": "imported-1795786609763-2",
+    "id": "imported-1795818028002-2",
     "matchName": "Asia Cup Rising Stars",
     "sportType": "Cricket",
     "league": "Asia Cup",
@@ -56,19 +56,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795828833~acl=/*~id=11865425634165465817401055618486~hmac=c4964aebdf6dc0d3d0be592cfb496d3db03cf52adf0661634ac40d220549086e",
+        "name": "FREEFLIX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd|drmScheme=clearkey&drmLicense=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1795786609763-3",
+    "id": "imported-1795818028002-3",
     "matchName": "2nd Test India vs New Zealand",
     "sportType": "Cricket",
     "league": "Ind vs Nz",
@@ -83,29 +78,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "http://193.47.62.41/hls/viii.m3u8|Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795866233~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=679f1c2a26d8f627739d54072a7dcbeb3e2963cb74715325e877d45b8f099abd",
         "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1795786609763-4",
-    "matchName": "3rd T20 England vs Australia",
-    "sportType": "Cricket",
-    "league": "Australia vs England",
-    "homeTeamName": "England",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "awayTeamName": "Australia",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "02:15 PM 27/11/2026",
-    "link": "",
-    "streams": [
+      },
       {
-        "name": "FREEFLIX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
+        "name": "Server 2",
+        "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd|drmScheme=clearkey&drmLicense=3a03ae3c3066640296a041f319d528b8:b757a6777c811bd3744a7cb4a722116b",
+        "isPrimary": false
       }
     ]
   }
